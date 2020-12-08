@@ -1,0 +1,1 @@
+(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/home/james/Documents/Idris/benchmark/src/spellcheck/build/exec/out_app/out.ss"))

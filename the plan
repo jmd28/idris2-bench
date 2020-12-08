@@ -1,0 +1,27 @@
+current priority: 
+benchmark suite
+otherwise cant tell whether or not optimisations did anything
+
+see nofib
+
+immediate todo: make sort tests take longer
+                - large random string file?
+                - repeat the sort?
+
+
+idris2 benchmark suite
+- [?] mergesort
+- [ ] treesort
+- [x] triples
+- [x] words 
+- [?] sort "strings"
+- [ ] csv parser read/write
+
+## optimisation
+try inlining newRef - otherwise is a macro big think job
+can macro other common functions a bit more easily
+
+check out mimalloc to see if performance increase significant
+
+batch reference management when many created in succession,
+remove ref man when reference dropped immediately
