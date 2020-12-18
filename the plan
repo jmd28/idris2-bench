@@ -6,7 +6,9 @@ see nofib
 
 immediate todo: make sort tests take longer
                 - large random string file?
-                - repeat the sort?
+                - then find the last element
+                - repeat the sort 100 times
+                -- still need to do this on mergeStr
 
 
 idris2 benchmark suite
@@ -16,6 +18,7 @@ idris2 benchmark suite
 - [x] words 
 - [?] sort "strings"
 - [ ] csv parser read/write
+- take sorted dictionary shuffle sort check out = input
 
 ## optimisation
 try inlining newRef - otherwise is a macro big think job
@@ -25,3 +28,8 @@ check out mimalloc to see if performance increase significant
 
 batch reference management when many created in succession,
 remove ref man when reference dropped immediately
+
+
+linear congruence generator
+x' = mx + c
+(use to generate list to sort)

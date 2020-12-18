@@ -428,7 +428,7 @@ Value *System_File_show_Show__FileError_arglist(Value_Arglist* arglist);
 
 
 
-Value *System_File_3408_colon1632_colonread_0
+Value *System_File_3448_colon1632_colonread_0
 (
     Value * var_0
 ,   Value * var_1
@@ -445,11 +445,11 @@ Value *System_File_3408_colon1632_colonread_0
 ,   Value * var_12
 );
 
-Value *System_File_3408_colon1632_colonread_0_arglist(Value_Arglist* arglist);
+Value *System_File_3448_colon1632_colonread_0_arglist(Value_Arglist* arglist);
 
 
 
-Value *System_File_3408_colon1632_colonread_1
+Value *System_File_3448_colon1632_colonread_1
 (
     Value * var_0
 ,   Value * var_1
@@ -462,11 +462,11 @@ Value *System_File_3408_colon1632_colonread_1
 ,   Value * var_8
 );
 
-Value *System_File_3408_colon1632_colonread_1_arglist(Value_Arglist* arglist);
+Value *System_File_3448_colon1632_colonread_1_arglist(Value_Arglist* arglist);
 
 
 
-Value *System_File_n___parenOpen3408_comma_1632_parenClose_read
+Value *System_File_n___parenOpen3448_comma_1632_parenClose_read
 (
     Value * var_0
 ,   Value * var_1
@@ -475,7 +475,7 @@ Value *System_File_n___parenOpen3408_comma_1632_parenClose_read
 ,   Value * var_4
 );
 
-Value *System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist(Value_Arglist* arglist);
+Value *System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist(Value_Arglist* arglist);
 
 
 
@@ -791,35 +791,35 @@ Value *Data_Strings_words_tick_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0
+Value *Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0_arglist(Value_Arglist* arglist);
+Value *Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_Strings_case___quotationwords_tick_quotation_1205
+Value *Data_Strings_case___quotationwords_tick_quotation_1311
 (
     Value * var_0
 ,   Value * var_1
 );
 
-Value *Data_Strings_case___quotationwords_tick_quotation_1205_arglist(Value_Arglist* arglist);
+Value *Data_Strings_case___quotationwords_tick_quotation_1311_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218
+Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218_arglist(Value_Arglist* arglist);
+Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324_arglist(Value_Arglist* arglist);
 
 
 
@@ -1866,27 +1866,27 @@ Value *Prelude_Show_show_Show__String_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab
+Value *Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab
 (
     Value * var_0
 );
 
-Value *Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt
+Value *Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
+Value *Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick
 (
     Value * var_0
 ,   Value * var_1
@@ -1895,45 +1895,33 @@ Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
 ,   Value * var_4
 );
 
-Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case___quotationmin_quotation_5664
+Value *Prelude_Show_case___quotationmin_quotation_6029
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Show_case___quotationmin_quotation_5664_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case___quotationmin_quotation_6029_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case___quotationmax_quotation_5678
+Value *Prelude_Show_case___quotationmax_quotation_6043
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Show_case___quotationmax_quotation_5678_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case___quotationmax_quotation_6043_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case___quotationprotectEsc_quotation_5936
-(
-    Value * var_0
-,   Value * var_1
-,   Value * var_2
-,   Value * var_3
-);
-
-Value *Prelude_Show_case___quotationprotectEsc_quotation_5936_arglist(Value_Arglist* arglist);
-
-
-
-Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0
+Value *Prelude_Show_case___quotationprotectEsc_quotation_6301
 (
     Value * var_0
 ,   Value * var_1
@@ -1941,21 +1929,11 @@ Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0
 ,   Value * var_3
 );
 
-Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case___quotationprotectEsc_quotation_6301_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case___quotationshowLitChar_quotation_6189
-(
-    Value * var_0
-,   Value * var_1
-);
-
-Value *Prelude_Show_case___quotationshowLitChar_quotation_6189_arglist(Value_Arglist* arglist);
-
-
-
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0
+Value *Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -1963,39 +1941,61 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 ,   Value * var_3
 );
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1
+Value *Prelude_Show_case___quotationshowLitChar_quotation_6554
+(
+    Value * var_0
+,   Value * var_1
+);
+
+Value *Prelude_Show_case___quotationshowLitChar_quotation_6554_arglist(Value_Arglist* arglist);
+
+
+
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0
+(
+    Value * var_0
+,   Value * var_1
+,   Value * var_2
+,   Value * var_3
+);
+
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0_arglist(Value_Arglist* arglist);
+
+
+
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
+Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577
 (
     Value * var_0
 ,   Value * var_1
 );
 
-Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212_arglist(Value_Arglist* arglist);
+Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577_arglist(Value_Arglist* arglist);
 
 
 
@@ -2095,7 +2095,7 @@ Value *PrimIO_unsafePerformIO_arglist(Value_Arglist* arglist);
 
 
 
-Value *PrimIO_case___quotationio_bind_quotation_341
+Value *PrimIO_case___quotationio_bind_quotation_430
 (
     Value * var_0
 ,   Value * var_1
@@ -2105,11 +2105,11 @@ Value *PrimIO_case___quotationio_bind_quotation_341
 ,   Value * var_5
 );
 
-Value *PrimIO_case___quotationio_bind_quotation_341_arglist(Value_Arglist* arglist);
+Value *PrimIO_case___quotationio_bind_quotation_430_arglist(Value_Arglist* arglist);
 
 
 
-Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363
+Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_452
 (
     Value * var_0
 ,   Value * var_1
@@ -2121,11 +2121,11 @@ Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363
 ,   Value * var_7
 );
 
-Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363_arglist(Value_Arglist* arglist);
+Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_452_arglist(Value_Arglist* arglist);
 
 
 
-Value *PrimIO_case___quotationunsafePerformIO_quotation_442
+Value *PrimIO_case___quotationunsafePerformIO_quotation_531
 (
     Value * var_0
 ,   Value * var_1
@@ -2133,7 +2133,7 @@ Value *PrimIO_case___quotationunsafePerformIO_quotation_442
 ,   Value * var_3
 );
 
-Value *PrimIO_case___quotationunsafePerformIO_quotation_442_arglist(Value_Arglist* arglist);
+Value *PrimIO_case___quotationunsafePerformIO_quotation_531_arglist(Value_Arglist* arglist);
 
 
 
@@ -3252,7 +3252,7 @@ Value *Prelude_Types_min_Ord__Nat_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
+Value *Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick
 (
     Value * var_0
 ,   Value * var_1
@@ -3260,43 +3260,43 @@ Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
 ,   Value * var_3
 );
 
-Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick_arglist(Value_Arglist* arglist);
+Value *Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Types_case___quotationintegerToNat_quotation_537
+Value *Prelude_Types_case___quotationintegerToNat_quotation_640
 (
     Value * var_0
 ,   Value * var_1
 );
 
-Value *Prelude_Types_case___quotationintegerToNat_quotation_537_arglist(Value_Arglist* arglist);
+Value *Prelude_Types_case___quotationintegerToNat_quotation_640_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Types_case___quotationmin_quotation_648
-(
-    Value * var_0
-,   Value * var_1
-,   Value * var_2
-);
-
-Value *Prelude_Types_case___quotationmin_quotation_648_arglist(Value_Arglist* arglist);
-
-
-
-Value *Prelude_Types_case___quotationmax_quotation_662
+Value *Prelude_Types_case___quotationmin_quotation_751
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Prelude_Types_case___quotationmax_quotation_662_arglist(Value_Arglist* arglist);
+Value *Prelude_Types_case___quotationmin_quotation_751_arglist(Value_Arglist* arglist);
 
 
 
-Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
+Value *Prelude_Types_case___quotationmax_quotation_765
+(
+    Value * var_0
+,   Value * var_1
+,   Value * var_2
+);
+
+Value *Prelude_Types_case___quotationmax_quotation_765_arglist(Value_Arglist* arglist);
+
+
+
+Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422
 (
     Value * var_0
 ,   Value * var_1
@@ -3305,7 +3305,7 @@ Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
 ,   Value * var_4
 );
 
-Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057_arglist(Value_Arglist* arglist);
+Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422_arglist(Value_Arglist* arglist);
 
 
 
@@ -3478,7 +3478,7 @@ Value *Data_List_span_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_List_case___quotationdropWhile_quotation_1469
+Value *Data_List_case___quotationdropWhile_quotation_833
 (
     Value * var_0
 ,   Value * var_1
@@ -3487,11 +3487,11 @@ Value *Data_List_case___quotationdropWhile_quotation_1469
 ,   Value * var_4
 );
 
-Value *Data_List_case___quotationdropWhile_quotation_1469_arglist(Value_Arglist* arglist);
+Value *Data_List_case___quotationdropWhile_quotation_833_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_List_case___quotationfilter_quotation_1523
+Value *Data_List_case___quotationfilter_quotation_887
 (
     Value * var_0
 ,   Value * var_1
@@ -3500,11 +3500,11 @@ Value *Data_List_case___quotationfilter_quotation_1523
 ,   Value * var_4
 );
 
-Value *Data_List_case___quotationfilter_quotation_1523_arglist(Value_Arglist* arglist);
+Value *Data_List_case___quotationfilter_quotation_887_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_List_case___quotationspan_quotation_2083
+Value *Data_List_case___quotationspan_quotation_1447
 (
     Value * var_0
 ,   Value * var_1
@@ -3513,11 +3513,11 @@ Value *Data_List_case___quotationspan_quotation_2083
 ,   Value * var_4
 );
 
-Value *Data_List_case___quotationspan_quotation_2083_arglist(Value_Arglist* arglist);
+Value *Data_List_case___quotationspan_quotation_1447_arglist(Value_Arglist* arglist);
 
 
 
-Value *Data_List_case___quotationcase_block_in_span_quotation_2103
+Value *Data_List_case___quotationcase_block_in_span_quotation_1467
 (
     Value * var_0
 ,   Value * var_1
@@ -3526,7 +3526,7 @@ Value *Data_List_case___quotationcase_block_in_span_quotation_2103
 ,   Value * var_4
 );
 
-Value *Data_List_case___quotationcase_block_in_span_quotation_2103_arglist(Value_Arglist* arglist);
+Value *Data_List_case___quotationcase_block_in_span_quotation_1467_arglist(Value_Arglist* arglist);
 
 
 
@@ -4309,7 +4309,7 @@ Value *Main_main_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_0
+Value *Main_case_block_in_main__parenOpen3495_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -4323,11 +4323,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_0
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_0_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_0_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_1
+Value *Main_case_block_in_main__parenOpen3495_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
@@ -4339,11 +4339,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_1
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_1_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_1_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_2
+Value *Main_case_block_in_main__parenOpen3495_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
@@ -4357,11 +4357,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_2
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_2_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_2_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_3
+Value *Main_case_block_in_main__parenOpen3495_parenClose_3
 (
     Value * var_0
 ,   Value * var_1
@@ -4375,11 +4375,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_3
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_3_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_3_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_4
+Value *Main_case_block_in_main__parenOpen3495_parenClose_4
 (
     Value * var_0
 ,   Value * var_1
@@ -4391,11 +4391,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_4
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_4_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_4_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_5
+Value *Main_case_block_in_main__parenOpen3495_parenClose_5
 (
     Value * var_0
 ,   Value * var_1
@@ -4406,29 +4406,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_5
 ,   Value * var_5
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_5_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_5_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_6
-(
-    Value * var_0
-,   Value * var_1
-,   Value * var_2
-,   Value * var_3
-,   Value * var_4
-,   Value * var_5
-,   Value * var_6
-,   Value * var_7
-,   Value * var_9
-,   Value * var_8
-);
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_6_arglist(Value_Arglist* arglist);
-
-
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_7
+Value *Main_case_block_in_main__parenOpen3495_parenClose_6
 (
     Value * var_0
 ,   Value * var_1
@@ -4442,11 +4424,29 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_7
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_7_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_6_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_8
+Value *Main_case_block_in_main__parenOpen3495_parenClose_7
+(
+    Value * var_0
+,   Value * var_1
+,   Value * var_2
+,   Value * var_3
+,   Value * var_4
+,   Value * var_5
+,   Value * var_6
+,   Value * var_7
+,   Value * var_9
+,   Value * var_8
+);
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_7_arglist(Value_Arglist* arglist);
+
+
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_8
 (
     Value * var_0
 ,   Value * var_1
@@ -4458,11 +4458,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_8
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_8_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_8_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_9
+Value *Main_case_block_in_main__parenOpen3495_parenClose_9
 (
     Value * var_0
 ,   Value * var_1
@@ -4479,11 +4479,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_9
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_9_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_9_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_10
+Value *Main_case_block_in_main__parenOpen3495_parenClose_10
 (
     Value * var_0
 ,   Value * var_1
@@ -4498,11 +4498,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_10
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_10_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_10_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_11
+Value *Main_case_block_in_main__parenOpen3495_parenClose_11
 (
     Value * var_0
 ,   Value * var_1
@@ -4519,11 +4519,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_11
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_11_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_11_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_12
+Value *Main_case_block_in_main__parenOpen3495_parenClose_12
 (
     Value * var_0
 ,   Value * var_1
@@ -4540,11 +4540,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_12
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_12_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_12_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_13
+Value *Main_case_block_in_main__parenOpen3495_parenClose_13
 (
     Value * var_0
 ,   Value * var_1
@@ -4559,11 +4559,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_13
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_13_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_13_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_14
+Value *Main_case_block_in_main__parenOpen3495_parenClose_14
 (
     Value * var_0
 ,   Value * var_1
@@ -4577,11 +4577,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_14
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_14_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_14_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_15
+Value *Main_case_block_in_main__parenOpen3495_parenClose_15
 (
     Value * var_0
 ,   Value * var_1
@@ -4594,11 +4594,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_15
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_15_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_15_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_16
+Value *Main_case_block_in_main__parenOpen3495_parenClose_16
 (
     Value * var_0
 ,   Value * var_1
@@ -4612,11 +4612,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_16
 ,   Value * var_8
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_16_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_16_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_17
+Value *Main_case_block_in_main__parenOpen3495_parenClose_17
 (
     Value * var_0
 ,   Value * var_1
@@ -4632,11 +4632,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_17
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_17_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_17_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_18
+Value *Main_case_block_in_main__parenOpen3495_parenClose_18
 (
     Value * var_0
 ,   Value * var_1
@@ -4650,11 +4650,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_18
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_18_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_18_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_19
+Value *Main_case_block_in_main__parenOpen3495_parenClose_19
 (
     Value * var_0
 ,   Value * var_1
@@ -4670,11 +4670,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_19
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_19_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_19_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_20
+Value *Main_case_block_in_main__parenOpen3495_parenClose_20
 (
     Value * var_0
 ,   Value * var_1
@@ -4690,11 +4690,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_20
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_20_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_20_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_21
+Value *Main_case_block_in_main__parenOpen3495_parenClose_21
 (
     Value * var_0
 ,   Value * var_1
@@ -4708,11 +4708,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_21
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_21_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_21_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_22
+Value *Main_case_block_in_main__parenOpen3495_parenClose_22
 (
     Value * var_0
 ,   Value * var_1
@@ -4725,11 +4725,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_22
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_22_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_22_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_23
+Value *Main_case_block_in_main__parenOpen3495_parenClose_23
 (
     Value * var_0
 ,   Value * var_1
@@ -4738,43 +4738,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
 ,   Value * var_4
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_23_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_23_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_24
-(
-    Value * var_0
-,   Value * var_1
-,   Value * var_2
-,   Value * var_3
-,   Value * var_8
-,   Value * var_7
-,   Value * var_6
-,   Value * var_5
-,   Value * var_4
-);
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_24_arglist(Value_Arglist* arglist);
-
-
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_25
-(
-    Value * var_0
-,   Value * var_1
-,   Value * var_2
-,   Value * var_3
-,   Value * var_6
-,   Value * var_5
-,   Value * var_4
-);
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_25_arglist(Value_Arglist* arglist);
-
-
-
-Value *Main_case_block_in_main__parenOpen4116_parenClose_26
+Value *Main_case_block_in_main__parenOpen3495_parenClose_24
 (
     Value * var_0
 ,   Value * var_1
@@ -4787,11 +4755,26 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_26
 ,   Value * var_4
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_26_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_24_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_27
+Value *Main_case_block_in_main__parenOpen3495_parenClose_25
+(
+    Value * var_0
+,   Value * var_1
+,   Value * var_2
+,   Value * var_3
+,   Value * var_6
+,   Value * var_5
+,   Value * var_4
+);
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_25_arglist(Value_Arglist* arglist);
+
+
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_26
 (
     Value * var_0
 ,   Value * var_1
@@ -4804,11 +4787,28 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_27
 ,   Value * var_4
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_27_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_26_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_28
+Value *Main_case_block_in_main__parenOpen3495_parenClose_27
+(
+    Value * var_0
+,   Value * var_1
+,   Value * var_2
+,   Value * var_3
+,   Value * var_8
+,   Value * var_7
+,   Value * var_6
+,   Value * var_5
+,   Value * var_4
+);
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_27_arglist(Value_Arglist* arglist);
+
+
+
+Value *Main_case_block_in_main__parenOpen3495_parenClose_28
 (
     Value * var_0
 ,   Value * var_1
@@ -4819,11 +4819,11 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_28
 ,   Value * var_4
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_28_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_28_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_29
+Value *Main_case_block_in_main__parenOpen3495_parenClose_29
 (
     Value * var_0
 ,   Value * var_1
@@ -4833,22 +4833,22 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_29
 ,   Value * var_4
 );
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_29_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_main__parenOpen3495_parenClose_29_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case___quotationmain_quotation_4116
+Value *Main_case___quotationmain_quotation_3495
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 );
 
-Value *Main_case___quotationmain_quotation_4116_arglist(Value_Arglist* arglist);
+Value *Main_case___quotationmain_quotation_3495_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -4861,11 +4861,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
@@ -4878,11 +4878,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
@@ -4893,11 +4893,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3
 (
     Value * var_0
 ,   Value * var_1
@@ -4913,11 +4913,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4
 (
     Value * var_0
 ,   Value * var_1
@@ -4931,11 +4931,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5
 (
     Value * var_0
 ,   Value * var_1
@@ -4951,11 +4951,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6
 (
     Value * var_0
 ,   Value * var_1
@@ -4971,11 +4971,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7
 (
     Value * var_0
 ,   Value * var_1
@@ -4989,11 +4989,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8
 (
     Value * var_0
 ,   Value * var_1
@@ -5006,11 +5006,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9
 (
     Value * var_0
 ,   Value * var_1
@@ -5022,11 +5022,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10
 (
     Value * var_0
 ,   Value * var_1
@@ -5039,11 +5039,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10
 ,   Value * var_7
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11
 (
     Value * var_0
 ,   Value * var_1
@@ -5058,11 +5058,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12
 (
     Value * var_0
 ,   Value * var_1
@@ -5075,11 +5075,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13
 (
     Value * var_0
 ,   Value * var_1
@@ -5094,11 +5094,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14
 (
     Value * var_0
 ,   Value * var_1
@@ -5113,11 +5113,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15
 (
     Value * var_0
 ,   Value * var_1
@@ -5130,11 +5130,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16
 (
     Value * var_0
 ,   Value * var_1
@@ -5146,11 +5146,11 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16
 ,   Value * var_6
 );
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16_arglist(Value_Arglist* arglist);
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16_arglist(Value_Arglist* arglist);
 
 
 
-Value *Main_case___quotationcase_block_in_main_quotation_4138
+Value *Main_case___quotationcase_block_in_main_quotation_3517
 (
     Value * var_0
 ,   Value * var_1
@@ -5159,7 +5159,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
 ,   Value * var_4
 );
 
-Value *Main_case___quotationcase_block_in_main_quotation_4138_arglist(Value_Arglist* arglist);
+Value *Main_case___quotationcase_block_in_main_quotation_3517_arglist(Value_Arglist* arglist);
 
 
 
@@ -6111,7 +6111,7 @@ Value *prim__cast_CharInt_arglist(Value_Arglist* arglist)
 
 
 
-Value *Main_case___quotationcase_block_in_main_quotation_4138
+Value *Main_case___quotationcase_block_in_main_quotation_3517
 (
     Value * var_0
 ,   Value * var_1
@@ -6137,7 +6137,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_8->args[3] =  newReference(var_2);
         arglist_8->args[4] =  newReference(var_3);
         arglist_8->args[5] =  newReference(var_4);
-        Value *(*closure_9)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2_arglist;
+        Value *(*closure_9)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2_arglist;
                                                              // spellcheck.idr:13:25--13:26
         Value * var_7 = (Value*)makeClosureFromArglist(closure_9, arglist_8);
                                                              // spellcheck.idr:13:16--13:54
@@ -6169,7 +6169,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_14->args[4] =  newReference(var_2);
         arglist_14->args[5] =  newReference(var_3);
         arglist_14->args[6] =  newReference(var_4);
-        Value *(*closure_15)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3_arglist;
+        Value *(*closure_15)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
         Value * var_9 = (Value*)makeClosureFromArglist(closure_15, arglist_14);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6181,7 +6181,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_16->args[4] =  newReference(var_2);
         arglist_16->args[5] =  newReference(var_3);
         arglist_16->args[6] =  newReference(var_4);
-        Value *(*closure_17)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4_arglist;
+        Value *(*closure_17)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_10 = (Value*)makeClosureFromArglist(closure_17, arglist_16);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6193,7 +6193,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_18->args[4] =  newReference(var_2);
         arglist_18->args[5] =  newReference(var_3);
         arglist_18->args[6] =  newReference(var_4);
-        Value *(*closure_19)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5_arglist;
+        Value *(*closure_19)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_11 = (Value*)makeClosureFromArglist(closure_19, arglist_18);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6212,7 +6212,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_21->args[4] =  newReference(var_2);
         arglist_21->args[5] =  newReference(var_3);
         arglist_21->args[6] =  newReference(var_4);
-        Value *(*closure_22)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6_arglist;
+        Value *(*closure_22)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_13 = (Value*)makeClosureFromArglist(closure_22, arglist_21);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -6224,7 +6224,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_23->args[4] =  newReference(var_2);
         arglist_23->args[5] =  newReference(var_3);
         arglist_23->args[6] =  newReference(var_4);
-        Value *(*closure_24)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7_arglist;
+        Value *(*closure_24)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_14 = (Value*)makeClosureFromArglist(closure_24, arglist_23);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -6243,7 +6243,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_26->args[4] =  newReference(var_2);
         arglist_26->args[5] =  newReference(var_3);
         arglist_26->args[6] =  newReference(var_4);
-        Value *(*closure_27)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8_arglist;
+        Value *(*closure_27)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
         Value * var_16 = (Value*)makeClosureFromArglist(closure_27, arglist_26);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -6261,7 +6261,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_29->args[4] =  newReference(var_2);
         arglist_29->args[5] =  newReference(var_3);
         arglist_29->args[6] =  newReference(var_4);
-        Value *(*closure_30)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9_arglist;
+        Value *(*closure_30)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9_arglist;
                                                              // Prelude/Show.idr:173:1--177:7
         Value * var_17 = (Value*)makeClosureFromArglist(closure_30, arglist_29);
                                                              // Prelude/Show.idr:173:1--177:7
@@ -6273,7 +6273,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_31->args[4] =  newReference(var_2);
         arglist_31->args[5] =  newReference(var_3);
         arglist_31->args[6] =  newReference(var_4);
-        Value *(*closure_32)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10_arglist;
+        Value *(*closure_32)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10_arglist;
                                                              // Prelude/Show.idr:173:1--177:7
         Value * var_18 = (Value*)makeClosureFromArglist(closure_32, arglist_31);
                                                              // Prelude/Show.idr:173:1--177:7
@@ -6335,7 +6335,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_38->args[3] =  newReference(var_2);
         arglist_38->args[4] =  newReference(var_3);
         arglist_38->args[5] =  newReference(var_4);
-        Value *(*closure_39)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11_arglist;
+        Value *(*closure_39)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
         Value * var_23 = (Value*)makeClosureFromArglist(closure_39, arglist_38);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6346,7 +6346,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_40->args[3] =  newReference(var_2);
         arglist_40->args[4] =  newReference(var_3);
         arglist_40->args[5] =  newReference(var_4);
-        Value *(*closure_41)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12_arglist;
+        Value *(*closure_41)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_24 = (Value*)makeClosureFromArglist(closure_41, arglist_40);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6357,7 +6357,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_42->args[3] =  newReference(var_2);
         arglist_42->args[4] =  newReference(var_3);
         arglist_42->args[5] =  newReference(var_4);
-        Value *(*closure_43)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13_arglist;
+        Value *(*closure_43)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_25 = (Value*)makeClosureFromArglist(closure_43, arglist_42);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -6375,7 +6375,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_45->args[3] =  newReference(var_2);
         arglist_45->args[4] =  newReference(var_3);
         arglist_45->args[5] =  newReference(var_4);
-        Value *(*closure_46)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14_arglist;
+        Value *(*closure_46)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_27 = (Value*)makeClosureFromArglist(closure_46, arglist_45);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -6386,7 +6386,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_47->args[3] =  newReference(var_2);
         arglist_47->args[4] =  newReference(var_3);
         arglist_47->args[5] =  newReference(var_4);
-        Value *(*closure_48)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15_arglist;
+        Value *(*closure_48)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_28 = (Value*)makeClosureFromArglist(closure_48, arglist_47);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -6404,7 +6404,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
         arglist_50->args[3] =  newReference(var_2);
         arglist_50->args[4] =  newReference(var_3);
         arglist_50->args[5] =  newReference(var_4);
-        Value *(*closure_51)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16_arglist;
+        Value *(*closure_51)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
         Value * var_30 = (Value*)makeClosureFromArglist(closure_51, arglist_50);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -6453,9 +6453,9 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138
 }
 
 
-Value *Main_case___quotationcase_block_in_main_quotation_4138_arglist(Value_Arglist* arglist)
+Value *Main_case___quotationcase_block_in_main_quotation_3517_arglist(Value_Arglist* arglist)
 {
-    return Main_case___quotationcase_block_in_main_quotation_4138
+    return Main_case___quotationcase_block_in_main_quotation_3517
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6468,7 +6468,7 @@ Value *Main_case___quotationcase_block_in_main_quotation_4138_arglist(Value_Argl
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16
 (
     Value * var_0
 ,   Value * var_1
@@ -6485,9 +6485,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_16
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6503,7 +6503,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_16_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15
 (
     Value * var_0
 ,   Value * var_1
@@ -6523,9 +6523,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_15
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6542,7 +6542,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_15_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14
 (
     Value * var_0
 ,   Value * var_1
@@ -6566,9 +6566,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_14
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6587,7 +6587,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_14_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13
 (
     Value * var_0
 ,   Value * var_1
@@ -6611,9 +6611,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_13
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6632,7 +6632,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_13_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12
 (
     Value * var_0
 ,   Value * var_1
@@ -6650,9 +6650,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_12
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6669,7 +6669,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_12_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11
 (
     Value * var_0
 ,   Value * var_1
@@ -6703,9 +6703,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_11
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6724,7 +6724,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_11_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10
 (
     Value * var_0
 ,   Value * var_1
@@ -6753,9 +6753,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_10
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6772,7 +6772,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_10_arglis
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9
 (
     Value * var_0
 ,   Value * var_1
@@ -6797,9 +6797,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_9
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6815,7 +6815,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_9_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8
 (
     Value * var_0
 ,   Value * var_1
@@ -6833,9 +6833,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_8
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6852,7 +6852,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_8_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7
 (
     Value * var_0
 ,   Value * var_1
@@ -6873,9 +6873,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_7
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6893,7 +6893,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_7_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6
 (
     Value * var_0
 ,   Value * var_1
@@ -6918,9 +6918,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_6
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6940,7 +6940,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_6_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5
 (
     Value * var_0
 ,   Value * var_1
@@ -6965,9 +6965,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_5
         (
               arglist->args[0]
             , arglist->args[1]
@@ -6987,7 +6987,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_5_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4
 (
     Value * var_0
 ,   Value * var_1
@@ -7006,9 +7006,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_4
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7026,7 +7026,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_4_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3
 (
     Value * var_0
 ,   Value * var_1
@@ -7061,9 +7061,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_3
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7083,7 +7083,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_3_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
@@ -7102,7 +7102,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
     arglist_65->args[4] =  newReference(var_3);
     arglist_65->args[5] =  newReference(var_4);
     arglist_65->args[6] =  newReference(var_5);
-    Value *(*closure_66)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0_arglist;
+    Value *(*closure_66)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0_arglist;
                                                              // Prelude/EqOrd.idr:68:1--72:7
     Value * var_7 = (Value*)makeClosureFromArglist(closure_66, arglist_65);
                                                              // Prelude/EqOrd.idr:68:1--72:7
@@ -7114,7 +7114,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
     arglist_67->args[4] =  newReference(var_3);
     arglist_67->args[5] =  newReference(var_4);
     arglist_67->args[6] =  newReference(var_5);
-    Value *(*closure_68)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1_arglist;
+    Value *(*closure_68)(Value_Arglist*) = Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1_arglist;
                                                              // Prelude/EqOrd.idr:68:1--72:7
     Value * var_8 = (Value*)makeClosureFromArglist(closure_68, arglist_67);
                                                              // Prelude/EqOrd.idr:68:1--72:7
@@ -7163,9 +7163,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_2
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7180,7 +7180,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_2_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
@@ -7209,9 +7209,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_1
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7228,7 +7228,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_1_arglist
 
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -7255,9 +7255,9 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0
 }
 
 
-Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0
+    return Main_case_block_in_case_block_in_main__parenOpen3517_parenClose_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7274,7 +7274,7 @@ Value *Main_case_block_in_case_block_in_main__parenOpen4138_parenClose_0_arglist
 
 
 
-Value *Main_case___quotationmain_quotation_4116
+Value *Main_case___quotationmain_quotation_3495
 (
     Value * var_0
 ,   Value * var_1
@@ -7296,7 +7296,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_82->args[1] =  newReference(var_0);
         arglist_82->args[2] =  newReference(var_1);
         arglist_82->args[3] =  newReference(var_2);
-        Value *(*closure_83)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_23_arglist;
+        Value *(*closure_83)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_23_arglist;
                                                              // Prelude/IO.idr:31:13--31:24
         tmp_81 = (Value*)makeClosureFromArglist(closure_83, arglist_82);
         break;
@@ -7309,7 +7309,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_84->args[1] =  newReference(var_0);
         arglist_84->args[2] =  newReference(var_1);
         arglist_84->args[3] =  newReference(var_2);
-        Value *(*closure_85)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_24_arglist;
+        Value *(*closure_85)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_24_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
         Value * var_5 = (Value*)makeClosureFromArglist(closure_85, arglist_84);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7318,7 +7318,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_86->args[1] =  newReference(var_0);
         arglist_86->args[2] =  newReference(var_1);
         arglist_86->args[3] =  newReference(var_2);
-        Value *(*closure_87)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_25_arglist;
+        Value *(*closure_87)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_25_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_6 = (Value*)makeClosureFromArglist(closure_87, arglist_86);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7327,7 +7327,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_88->args[1] =  newReference(var_0);
         arglist_88->args[2] =  newReference(var_1);
         arglist_88->args[3] =  newReference(var_2);
-        Value *(*closure_89)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_26_arglist;
+        Value *(*closure_89)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_26_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_7 = (Value*)makeClosureFromArglist(closure_89, arglist_88);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7343,7 +7343,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_91->args[1] =  newReference(var_0);
         arglist_91->args[2] =  newReference(var_1);
         arglist_91->args[3] =  newReference(var_2);
-        Value *(*closure_92)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_27_arglist;
+        Value *(*closure_92)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_27_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_9 = (Value*)makeClosureFromArglist(closure_92, arglist_91);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7352,7 +7352,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_93->args[1] =  newReference(var_0);
         arglist_93->args[2] =  newReference(var_1);
         arglist_93->args[3] =  newReference(var_2);
-        Value *(*closure_94)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_28_arglist;
+        Value *(*closure_94)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_28_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_10 = (Value*)makeClosureFromArglist(closure_94, arglist_93);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7368,7 +7368,7 @@ Value *Main_case___quotationmain_quotation_4116
         arglist_96->args[1] =  newReference(var_0);
         arglist_96->args[2] =  newReference(var_1);
         arglist_96->args[3] =  newReference(var_2);
-        Value *(*closure_97)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_29_arglist;
+        Value *(*closure_97)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_29_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
         Value * var_12 = (Value*)makeClosureFromArglist(closure_97, arglist_96);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -7417,9 +7417,9 @@ Value *Main_case___quotationmain_quotation_4116
 }
 
 
-Value *Main_case___quotationmain_quotation_4116_arglist(Value_Arglist* arglist)
+Value *Main_case___quotationmain_quotation_3495_arglist(Value_Arglist* arglist)
 {
-    return Main_case___quotationmain_quotation_4116
+    return Main_case___quotationmain_quotation_3495
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7430,7 +7430,7 @@ Value *Main_case___quotationmain_quotation_4116_arglist(Value_Arglist* arglist)
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_29
+Value *Main_case_block_in_main__parenOpen3495_parenClose_29
 (
     Value * var_0
 ,   Value * var_1
@@ -7445,9 +7445,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_29
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_29_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_29_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_29
+    return Main_case_block_in_main__parenOpen3495_parenClose_29
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7461,7 +7461,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_29_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_28
+Value *Main_case_block_in_main__parenOpen3495_parenClose_28
 (
     Value * var_0
 ,   Value * var_1
@@ -7479,9 +7479,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_28
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_28_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_28_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_28
+    return Main_case_block_in_main__parenOpen3495_parenClose_28
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7496,7 +7496,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_28_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_27
+Value *Main_case_block_in_main__parenOpen3495_parenClose_27
 (
     Value * var_0
 ,   Value * var_1
@@ -7518,9 +7518,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_27
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_27_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_27_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_27
+    return Main_case_block_in_main__parenOpen3495_parenClose_27
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7537,7 +7537,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_27_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_26
+Value *Main_case_block_in_main__parenOpen3495_parenClose_26
 (
     Value * var_0
 ,   Value * var_1
@@ -7559,9 +7559,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_26
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_26_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_26_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_26
+    return Main_case_block_in_main__parenOpen3495_parenClose_26
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7578,7 +7578,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_26_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_25
+Value *Main_case_block_in_main__parenOpen3495_parenClose_25
 (
     Value * var_0
 ,   Value * var_1
@@ -7594,9 +7594,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_25
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_25_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_25_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_25
+    return Main_case_block_in_main__parenOpen3495_parenClose_25
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7611,7 +7611,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_25_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_24
+Value *Main_case_block_in_main__parenOpen3495_parenClose_24
 (
     Value * var_0
 ,   Value * var_1
@@ -7643,9 +7643,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_24
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_24_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_24_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_24
+    return Main_case_block_in_main__parenOpen3495_parenClose_24
         (
               arglist->args[0]
             , arglist->args[1]
@@ -7662,7 +7662,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_24_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_23
+Value *Main_case_block_in_main__parenOpen3495_parenClose_23
 (
     Value * var_0
 ,   Value * var_1
@@ -7677,7 +7677,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_105->args[2] =  newReference(var_1);
     arglist_105->args[3] =  newReference(var_2);
     arglist_105->args[4] =  newReference(var_3);
-    Value *(*closure_106)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_0_arglist;
+    Value *(*closure_106)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_0_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
     Value * var_6 = (Value*)makeClosureFromArglist(closure_106, arglist_105);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7687,7 +7687,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_107->args[2] =  newReference(var_1);
     arglist_107->args[3] =  newReference(var_2);
     arglist_107->args[4] =  newReference(var_3);
-    Value *(*closure_108)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_1_arglist;
+    Value *(*closure_108)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_1_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
     Value * var_7 = (Value*)makeClosureFromArglist(closure_108, arglist_107);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7697,7 +7697,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_109->args[2] =  newReference(var_1);
     arglist_109->args[3] =  newReference(var_2);
     arglist_109->args[4] =  newReference(var_3);
-    Value *(*closure_110)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_2_arglist;
+    Value *(*closure_110)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_2_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
     Value * var_8 = (Value*)makeClosureFromArglist(closure_110, arglist_109);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7714,7 +7714,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_112->args[2] =  newReference(var_1);
     arglist_112->args[3] =  newReference(var_2);
     arglist_112->args[4] =  newReference(var_3);
-    Value *(*closure_113)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_3_arglist;
+    Value *(*closure_113)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_3_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
     Value * var_10 = (Value*)makeClosureFromArglist(closure_113, arglist_112);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7724,7 +7724,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_114->args[2] =  newReference(var_1);
     arglist_114->args[3] =  newReference(var_2);
     arglist_114->args[4] =  newReference(var_3);
-    Value *(*closure_115)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_4_arglist;
+    Value *(*closure_115)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_4_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
     Value * var_11 = (Value*)makeClosureFromArglist(closure_115, arglist_114);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7741,7 +7741,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
     arglist_117->args[2] =  newReference(var_1);
     arglist_117->args[3] =  newReference(var_2);
     arglist_117->args[4] =  newReference(var_3);
-    Value *(*closure_118)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_5_arglist;
+    Value *(*closure_118)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_5_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
     Value * var_13 = (Value*)makeClosureFromArglist(closure_118, arglist_117);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -7782,7 +7782,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_124->args[4] =  newReference(var_1);
         arglist_124->args[5] =  newReference(var_2);
         arglist_124->args[6] =  newReference(var_3);
-        Value *(*closure_125)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_8_arglist;
+        Value *(*closure_125)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_8_arglist;
                                                              // spellcheck.idr:13:25--13:26
         Value * var_19 = (Value*)makeClosureFromArglist(closure_125, arglist_124);
                                                              // spellcheck.idr:13:16--13:54
@@ -7815,7 +7815,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_130->args[5] =  newReference(var_1);
         arglist_130->args[6] =  newReference(var_2);
         arglist_130->args[7] =  newReference(var_3);
-        Value *(*closure_131)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_9_arglist;
+        Value *(*closure_131)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_9_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
         Value * var_21 = (Value*)makeClosureFromArglist(closure_131, arglist_130);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7828,7 +7828,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_132->args[5] =  newReference(var_1);
         arglist_132->args[6] =  newReference(var_2);
         arglist_132->args[7] =  newReference(var_3);
-        Value *(*closure_133)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_10_arglist;
+        Value *(*closure_133)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_10_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_22 = (Value*)makeClosureFromArglist(closure_133, arglist_132);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7841,7 +7841,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_134->args[5] =  newReference(var_1);
         arglist_134->args[6] =  newReference(var_2);
         arglist_134->args[7] =  newReference(var_3);
-        Value *(*closure_135)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_11_arglist;
+        Value *(*closure_135)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_11_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_23 = (Value*)makeClosureFromArglist(closure_135, arglist_134);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -7861,7 +7861,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_137->args[5] =  newReference(var_1);
         arglist_137->args[6] =  newReference(var_2);
         arglist_137->args[7] =  newReference(var_3);
-        Value *(*closure_138)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_12_arglist;
+        Value *(*closure_138)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_12_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_25 = (Value*)makeClosureFromArglist(closure_138, arglist_137);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7874,7 +7874,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_139->args[5] =  newReference(var_1);
         arglist_139->args[6] =  newReference(var_2);
         arglist_139->args[7] =  newReference(var_3);
-        Value *(*closure_140)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_13_arglist;
+        Value *(*closure_140)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_13_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_26 = (Value*)makeClosureFromArglist(closure_140, arglist_139);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -7894,7 +7894,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_142->args[5] =  newReference(var_1);
         arglist_142->args[6] =  newReference(var_2);
         arglist_142->args[7] =  newReference(var_3);
-        Value *(*closure_143)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_14_arglist;
+        Value *(*closure_143)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_14_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
         Value * var_28 = (Value*)makeClosureFromArglist(closure_143, arglist_142);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -7913,7 +7913,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_145->args[5] =  newReference(var_1);
         arglist_145->args[6] =  newReference(var_2);
         arglist_145->args[7] =  newReference(var_3);
-        Value *(*closure_146)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_15_arglist;
+        Value *(*closure_146)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_15_arglist;
                                                              // Prelude/Show.idr:173:1--177:7
         Value * var_29 = (Value*)makeClosureFromArglist(closure_146, arglist_145);
                                                              // Prelude/Show.idr:173:1--177:7
@@ -7926,7 +7926,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_147->args[5] =  newReference(var_1);
         arglist_147->args[6] =  newReference(var_2);
         arglist_147->args[7] =  newReference(var_3);
-        Value *(*closure_148)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_16_arglist;
+        Value *(*closure_148)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_16_arglist;
                                                              // Prelude/Show.idr:173:1--177:7
         Value * var_30 = (Value*)makeClosureFromArglist(closure_148, arglist_147);
                                                              // Prelude/Show.idr:173:1--177:7
@@ -7991,7 +7991,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_154->args[4] =  newReference(var_1);
         arglist_154->args[5] =  newReference(var_2);
         arglist_154->args[6] =  newReference(var_3);
-        Value *(*closure_155)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_17_arglist;
+        Value *(*closure_155)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_17_arglist;
                                                              // Prelude/IO.idr:15:1--19:8
         Value * var_36 = (Value*)makeClosureFromArglist(closure_155, arglist_154);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -8003,7 +8003,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_156->args[4] =  newReference(var_1);
         arglist_156->args[5] =  newReference(var_2);
         arglist_156->args[6] =  newReference(var_3);
-        Value *(*closure_157)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_18_arglist;
+        Value *(*closure_157)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_18_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_37 = (Value*)makeClosureFromArglist(closure_157, arglist_156);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -8015,7 +8015,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_158->args[4] =  newReference(var_1);
         arglist_158->args[5] =  newReference(var_2);
         arglist_158->args[6] =  newReference(var_3);
-        Value *(*closure_159)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_19_arglist;
+        Value *(*closure_159)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_19_arglist;
                                                              // Prelude/IO.idr:19:1--28:8
         Value * var_38 = (Value*)makeClosureFromArglist(closure_159, arglist_158);
                                                              // Prelude/IO.idr:19:1--28:8
@@ -8034,7 +8034,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_161->args[4] =  newReference(var_1);
         arglist_161->args[5] =  newReference(var_2);
         arglist_161->args[6] =  newReference(var_3);
-        Value *(*closure_162)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_20_arglist;
+        Value *(*closure_162)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_20_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_40 = (Value*)makeClosureFromArglist(closure_162, arglist_161);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -8046,7 +8046,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_163->args[4] =  newReference(var_1);
         arglist_163->args[5] =  newReference(var_2);
         arglist_163->args[6] =  newReference(var_3);
-        Value *(*closure_164)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_21_arglist;
+        Value *(*closure_164)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_21_arglist;
                                                              // Prelude/IO.idr:28:1--33:7
         Value * var_41 = (Value*)makeClosureFromArglist(closure_164, arglist_163);
                                                              // Prelude/IO.idr:28:1--33:7
@@ -8065,7 +8065,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
         arglist_166->args[4] =  newReference(var_1);
         arglist_166->args[5] =  newReference(var_2);
         arglist_166->args[6] =  newReference(var_3);
-        Value *(*closure_167)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_22_arglist;
+        Value *(*closure_167)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_22_arglist;
                                                              // Prelude/IO.idr:37:1--41:7
         Value * var_43 = (Value*)makeClosureFromArglist(closure_167, arglist_166);
                                                              // Prelude/IO.idr:37:1--41:7
@@ -8128,9 +8128,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_23_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_23_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_23
+    return Main_case_block_in_main__parenOpen3495_parenClose_23
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8143,7 +8143,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_23_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_22
+Value *Main_case_block_in_main__parenOpen3495_parenClose_22
 (
     Value * var_0
 ,   Value * var_1
@@ -8161,9 +8161,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_22
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_22_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_22_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_22
+    return Main_case_block_in_main__parenOpen3495_parenClose_22
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8180,7 +8180,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_22_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_21
+Value *Main_case_block_in_main__parenOpen3495_parenClose_21
 (
     Value * var_0
 ,   Value * var_1
@@ -8201,9 +8201,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_21
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_21_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_21_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_21
+    return Main_case_block_in_main__parenOpen3495_parenClose_21
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8221,7 +8221,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_21_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_20
+Value *Main_case_block_in_main__parenOpen3495_parenClose_20
 (
     Value * var_0
 ,   Value * var_1
@@ -8246,9 +8246,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_20
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_20_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_20_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_20
+    return Main_case_block_in_main__parenOpen3495_parenClose_20
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8268,7 +8268,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_20_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_19
+Value *Main_case_block_in_main__parenOpen3495_parenClose_19
 (
     Value * var_0
 ,   Value * var_1
@@ -8293,9 +8293,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_19
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_19_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_19_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_19
+    return Main_case_block_in_main__parenOpen3495_parenClose_19
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8315,7 +8315,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_19_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_18
+Value *Main_case_block_in_main__parenOpen3495_parenClose_18
 (
     Value * var_0
 ,   Value * var_1
@@ -8334,9 +8334,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_18
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_18_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_18_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_18
+    return Main_case_block_in_main__parenOpen3495_parenClose_18
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8354,7 +8354,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_18_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_17
+Value *Main_case_block_in_main__parenOpen3495_parenClose_17
 (
     Value * var_0
 ,   Value * var_1
@@ -8389,9 +8389,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_17
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_17_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_17_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_17
+    return Main_case_block_in_main__parenOpen3495_parenClose_17
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8411,7 +8411,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_17_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_16
+Value *Main_case_block_in_main__parenOpen3495_parenClose_16
 (
     Value * var_0
 ,   Value * var_1
@@ -8441,9 +8441,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_16
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_16_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_16_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_16
+    return Main_case_block_in_main__parenOpen3495_parenClose_16
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8461,7 +8461,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_16_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_15
+Value *Main_case_block_in_main__parenOpen3495_parenClose_15
 (
     Value * var_0
 ,   Value * var_1
@@ -8487,9 +8487,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_15
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_15_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_15_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_15
+    return Main_case_block_in_main__parenOpen3495_parenClose_15
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8506,7 +8506,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_15_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_14
+Value *Main_case_block_in_main__parenOpen3495_parenClose_14
 (
     Value * var_0
 ,   Value * var_1
@@ -8525,9 +8525,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_14
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_14_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_14_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_14
+    return Main_case_block_in_main__parenOpen3495_parenClose_14
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8545,7 +8545,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_14_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_13
+Value *Main_case_block_in_main__parenOpen3495_parenClose_13
 (
     Value * var_0
 ,   Value * var_1
@@ -8567,9 +8567,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_13
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_13_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_13_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_13
+    return Main_case_block_in_main__parenOpen3495_parenClose_13
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8588,7 +8588,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_13_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_12
+Value *Main_case_block_in_main__parenOpen3495_parenClose_12
 (
     Value * var_0
 ,   Value * var_1
@@ -8614,9 +8614,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_12
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_12_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_12_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_12
+    return Main_case_block_in_main__parenOpen3495_parenClose_12
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8637,7 +8637,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_12_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_11
+Value *Main_case_block_in_main__parenOpen3495_parenClose_11
 (
     Value * var_0
 ,   Value * var_1
@@ -8663,9 +8663,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_11
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_11_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_11_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_11
+    return Main_case_block_in_main__parenOpen3495_parenClose_11
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8686,7 +8686,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_11_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_10
+Value *Main_case_block_in_main__parenOpen3495_parenClose_10
 (
     Value * var_0
 ,   Value * var_1
@@ -8706,9 +8706,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_10
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_10_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_10_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_10
+    return Main_case_block_in_main__parenOpen3495_parenClose_10
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8727,7 +8727,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_10_arglist(Value_Arglis
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_9
+Value *Main_case_block_in_main__parenOpen3495_parenClose_9
 (
     Value * var_0
 ,   Value * var_1
@@ -8763,9 +8763,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_9
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_9_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_9_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_9
+    return Main_case_block_in_main__parenOpen3495_parenClose_9
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8786,7 +8786,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_9_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_8
+Value *Main_case_block_in_main__parenOpen3495_parenClose_8
 (
     Value * var_0
 ,   Value * var_1
@@ -8807,7 +8807,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_8
     arglist_181->args[5] =  newReference(var_4);
     arglist_181->args[6] =  newReference(var_5);
     arglist_181->args[7] =  newReference(var_6);
-    Value *(*closure_182)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_6_arglist;
+    Value *(*closure_182)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_6_arglist;
                                                              // Prelude/EqOrd.idr:68:1--72:7
     Value * var_8 = (Value*)makeClosureFromArglist(closure_182, arglist_181);
                                                              // Prelude/EqOrd.idr:68:1--72:7
@@ -8820,7 +8820,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_8
     arglist_183->args[5] =  newReference(var_4);
     arglist_183->args[6] =  newReference(var_5);
     arglist_183->args[7] =  newReference(var_6);
-    Value *(*closure_184)(Value_Arglist*) = Main_case_block_in_main__parenOpen4116_parenClose_7_arglist;
+    Value *(*closure_184)(Value_Arglist*) = Main_case_block_in_main__parenOpen3495_parenClose_7_arglist;
                                                              // Prelude/EqOrd.idr:68:1--72:7
     Value * var_9 = (Value*)makeClosureFromArglist(closure_184, arglist_183);
                                                              // Prelude/EqOrd.idr:68:1--72:7
@@ -8869,9 +8869,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_8
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_8_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_8_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_8
+    return Main_case_block_in_main__parenOpen3495_parenClose_8
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8887,7 +8887,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_8_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_7
+Value *Main_case_block_in_main__parenOpen3495_parenClose_7
 (
     Value * var_0
 ,   Value * var_1
@@ -8917,9 +8917,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_7
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_7_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_7_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_7
+    return Main_case_block_in_main__parenOpen3495_parenClose_7
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8937,7 +8937,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_7_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_6
+Value *Main_case_block_in_main__parenOpen3495_parenClose_6
 (
     Value * var_0
 ,   Value * var_1
@@ -8965,9 +8965,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_6
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_6_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_6_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_6
+    return Main_case_block_in_main__parenOpen3495_parenClose_6
         (
               arglist->args[0]
             , arglist->args[1]
@@ -8985,7 +8985,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_6_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_5
+Value *Main_case_block_in_main__parenOpen3495_parenClose_5
 (
     Value * var_0
 ,   Value * var_1
@@ -9001,9 +9001,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_5
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_5_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_5_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_5
+    return Main_case_block_in_main__parenOpen3495_parenClose_5
         (
               arglist->args[0]
             , arglist->args[1]
@@ -9018,7 +9018,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_5_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_4
+Value *Main_case_block_in_main__parenOpen3495_parenClose_4
 (
     Value * var_0
 ,   Value * var_1
@@ -9037,9 +9037,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_4
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_4_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_4_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_4
+    return Main_case_block_in_main__parenOpen3495_parenClose_4
         (
               arglist->args[0]
             , arglist->args[1]
@@ -9055,7 +9055,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_4_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_3
+Value *Main_case_block_in_main__parenOpen3495_parenClose_3
 (
     Value * var_0
 ,   Value * var_1
@@ -9078,9 +9078,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_3
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_3_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_3_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_3
+    return Main_case_block_in_main__parenOpen3495_parenClose_3
         (
               arglist->args[0]
             , arglist->args[1]
@@ -9098,7 +9098,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_3_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_2
+Value *Main_case_block_in_main__parenOpen3495_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
@@ -9121,9 +9121,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_2
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_2_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_2_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_2
+    return Main_case_block_in_main__parenOpen3495_parenClose_2
         (
               arglist->args[0]
             , arglist->args[1]
@@ -9141,7 +9141,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_2_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_1
+Value *Main_case_block_in_main__parenOpen3495_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
@@ -9158,9 +9158,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_1
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_1_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_1_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_1
+    return Main_case_block_in_main__parenOpen3495_parenClose_1
         (
               arglist->args[0]
             , arglist->args[1]
@@ -9176,7 +9176,7 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_1_arglist(Value_Arglist
 
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_0
+Value *Main_case_block_in_main__parenOpen3495_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -9209,9 +9209,9 @@ Value *Main_case_block_in_main__parenOpen4116_parenClose_0
 }
 
 
-Value *Main_case_block_in_main__parenOpen4116_parenClose_0_arglist(Value_Arglist* arglist)
+Value *Main_case_block_in_main__parenOpen3495_parenClose_0_arglist(Value_Arglist* arglist)
 {
-    return Main_case_block_in_main__parenOpen4116_parenClose_0
+    return Main_case_block_in_main__parenOpen3495_parenClose_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -12052,7 +12052,7 @@ Value *Main_main_0_arglist(Value_Arglist* arglist)
 
 
 
-Value *Data_List_case___quotationcase_block_in_span_quotation_2103
+Value *Data_List_case___quotationcase_block_in_span_quotation_1467
 (
     Value * var_0
 ,   Value * var_1
@@ -12061,25 +12061,25 @@ Value *Data_List_case___quotationcase_block_in_span_quotation_2103
 ,   Value * var_4
 )
 {
-    Value * tmp_372 = NULL;                                  // Data/List.idr:185:33--185:49
-    AConAlt * constructorField_371= newConstructorField(1);  // Data/List.idr:185:33--185:49
+    Value * tmp_372 = NULL;                                  // Data/List.idr:191:33--191:49
+    AConAlt * constructorField_371= newConstructorField(1);  // Data/List.idr:191:33--191:49
     constructorField_371[0].tag = 0;
     constructorField_371[0].name = NULL;
     switch(compareConstructors(var_4, constructorField_371, 1)){
-                                                             // Data/List.idr:185:33--185:49
+                                                             // Data/List.idr:191:33--191:49
       case 0:
       {
         Value * var_5 = ((Value_Constructor*)var_4)->args[0];
         Value * var_6 = ((Value_Constructor*)var_4)->args[1];
         Value_Constructor* constructor_373 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/List.idr:190:10--190:15
-         // constructor Prelude_Types__colon_colon           // Data/List.idr:190:10--190:15
+                                                             // Data/List.idr:196:10--196:15
+         // constructor Prelude_Types__colon_colon           // Data/List.idr:196:10--196:15
         constructor_373->args[0] = newReference(var_3);
         constructor_373->args[1] = newReference(var_5);
-        Value * var_7 = (Value*)constructor_373;             // Data/List.idr:190:9--190:20
+        Value * var_7 = (Value*)constructor_373;             // Data/List.idr:196:9--196:20
         Value_Constructor* constructor_374 = newConstructor(2, 0, "Builtin_MkPair");
-                                                             // Data/List.idr:190:9--190:20
-         // constructor Builtin_MkPair                       // Data/List.idr:190:9--190:20
+                                                             // Data/List.idr:196:9--196:20
+         // constructor Builtin_MkPair                       // Data/List.idr:196:9--196:20
         constructor_374->args[0] = newReference(var_7);
         constructor_374->args[1] = newReference(var_6);
         tmp_372 = (Value*)constructor_374;
@@ -12093,9 +12093,9 @@ Value *Data_List_case___quotationcase_block_in_span_quotation_2103
 }
 
 
-Value *Data_List_case___quotationcase_block_in_span_quotation_2103_arglist(Value_Arglist* arglist)
+Value *Data_List_case___quotationcase_block_in_span_quotation_1467_arglist(Value_Arglist* arglist)
 {
-    return Data_List_case___quotationcase_block_in_span_quotation_2103
+    return Data_List_case___quotationcase_block_in_span_quotation_1467
         (
               arglist->args[0]
             , arglist->args[1]
@@ -12108,7 +12108,7 @@ Value *Data_List_case___quotationcase_block_in_span_quotation_2103_arglist(Value
 
 
 
-Value *Data_List_case___quotationspan_quotation_2083
+Value *Data_List_case___quotationspan_quotation_1447
 (
     Value * var_0
 ,   Value * var_1
@@ -12117,35 +12117,35 @@ Value *Data_List_case___quotationspan_quotation_2083
 ,   Value * var_4
 )
 {
-    Value * tmp_375 = NULL;                                  // Data/List.idr:185:14--185:18
-    switch(extractInt(var_4)){                               // Data/List.idr:185:14--185:18
+    Value * tmp_375 = NULL;                                  // Data/List.idr:191:14--191:18
+    switch(extractInt(var_4)){                               // Data/List.idr:191:14--191:18
       case 0 :
       {
-        // start Data_List_span(NULL, var_3, var_2)          // Data/List.idr:189:20--189:29
+        // start Data_List_span(NULL, var_3, var_2)          // Data/List.idr:195:20--195:29
         Value_Arglist *arglist_376 = newArglist(0,3);
         arglist_376->args[0] =  newReference(NULL);
         arglist_376->args[1] =  newReference(var_3);
         arglist_376->args[2] =  newReference(var_2);
         Value *(*fPtr_377)(Value_Arglist*) = Data_List_span_arglist;
-                                                             // Data/List.idr:189:20--189:29
+                                                             // Data/List.idr:195:20--195:29
         Value *closure_377 = (Value*)makeClosureFromArglist(fPtr_377, arglist_376);
-                                                             // Data/List.idr:189:20--189:29
-        // end   Data_List_span(NULL, var_3, var_2)          // Data/List.idr:189:20--189:29
-        Value * var_5 = trampoline(closure_377);             // Data/List.idr:189:9--189:32
-        // start Data_List_case___quotationcase_block_in_span_quotation_2103(NULL, var_2, var_3, var_1, var_5)
-                                                             // Data/List.idr:189:9--189:32
+                                                             // Data/List.idr:195:20--195:29
+        // end   Data_List_span(NULL, var_3, var_2)          // Data/List.idr:195:20--195:29
+        Value * var_5 = trampoline(closure_377);             // Data/List.idr:195:9--195:32
+        // start Data_List_case___quotationcase_block_in_span_quotation_1467(NULL, var_2, var_3, var_1, var_5)
+                                                             // Data/List.idr:195:9--195:32
         Value_Arglist *arglist_378 = newArglist(0,5);
         arglist_378->args[0] =  newReference(NULL);
         arglist_378->args[1] =  newReference(var_2);
         arglist_378->args[2] =  newReference(var_3);
         arglist_378->args[3] =  newReference(var_1);
         arglist_378->args[4] =  newReference(var_5);
-        Value *(*fPtr_379)(Value_Arglist*) = Data_List_case___quotationcase_block_in_span_quotation_2103_arglist;
-                                                             // Data/List.idr:189:9--189:32
+        Value *(*fPtr_379)(Value_Arglist*) = Data_List_case___quotationcase_block_in_span_quotation_1467_arglist;
+                                                             // Data/List.idr:195:9--195:32
         Value *closure_379 = (Value*)makeClosureFromArglist(fPtr_379, arglist_378);
-                                                             // Data/List.idr:189:9--189:32
-        // end   Data_List_case___quotationcase_block_in_span_quotation_2103(NULL, var_2, var_3, var_1, var_5)
-                                                             // Data/List.idr:189:9--189:32
+                                                             // Data/List.idr:195:9--195:32
+        // end   Data_List_case___quotationcase_block_in_span_quotation_1467(NULL, var_2, var_3, var_1, var_5)
+                                                             // Data/List.idr:195:9--195:32
         tmp_375 = trampoline(closure_379);
         removeReference(var_5);
         break;
@@ -12153,18 +12153,18 @@ Value *Data_List_case___quotationspan_quotation_2083
       case 1 :
       {
         Value_Constructor* constructor_380 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:192:6--192:8
-         // constructor Prelude_Types_Nil                    // Data/List.idr:192:6--192:8
-        Value * var_6 = (Value*)constructor_380;             // Data/List.idr:192:5--192:16
+                                                             // Data/List.idr:198:6--198:8
+         // constructor Prelude_Types_Nil                    // Data/List.idr:198:6--198:8
+        Value * var_6 = (Value*)constructor_380;             // Data/List.idr:198:5--198:16
         Value_Constructor* constructor_381 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/List.idr:192:10--192:15
-         // constructor Prelude_Types__colon_colon           // Data/List.idr:192:10--192:15
+                                                             // Data/List.idr:198:10--198:15
+         // constructor Prelude_Types__colon_colon           // Data/List.idr:198:10--198:15
         constructor_381->args[0] = newReference(var_1);
         constructor_381->args[1] = newReference(var_2);
-        Value * var_7 = (Value*)constructor_381;             // Data/List.idr:192:5--192:16
+        Value * var_7 = (Value*)constructor_381;             // Data/List.idr:198:5--198:16
         Value_Constructor* constructor_382 = newConstructor(2, 0, "Builtin_MkPair");
-                                                             // Data/List.idr:192:5--192:16
-         // constructor Builtin_MkPair                       // Data/List.idr:192:5--192:16
+                                                             // Data/List.idr:198:5--198:16
+         // constructor Builtin_MkPair                       // Data/List.idr:198:5--198:16
         constructor_382->args[0] = newReference(var_6);
         constructor_382->args[1] = newReference(var_7);
         tmp_375 = (Value*)constructor_382;
@@ -12178,9 +12178,9 @@ Value *Data_List_case___quotationspan_quotation_2083
 }
 
 
-Value *Data_List_case___quotationspan_quotation_2083_arglist(Value_Arglist* arglist)
+Value *Data_List_case___quotationspan_quotation_1447_arglist(Value_Arglist* arglist)
 {
-    return Data_List_case___quotationspan_quotation_2083
+    return Data_List_case___quotationspan_quotation_1447
         (
               arglist->args[0]
             , arglist->args[1]
@@ -12193,7 +12193,7 @@ Value *Data_List_case___quotationspan_quotation_2083_arglist(Value_Arglist* argl
 
 
 
-Value *Data_List_case___quotationfilter_quotation_1523
+Value *Data_List_case___quotationfilter_quotation_887
 (
     Value * var_0
 ,   Value * var_1
@@ -12202,24 +12202,24 @@ Value *Data_List_case___quotationfilter_quotation_1523
 ,   Value * var_4
 )
 {
-    Value * tmp_383 = NULL;                                  // Data/List.idr:85:20--85:24
-    switch(extractInt(var_4)){                               // Data/List.idr:85:20--85:24
+    Value * tmp_383 = NULL;                                  // Data/List.idr:91:20--91:24
+    switch(extractInt(var_4)){                               // Data/List.idr:91:20--91:24
       case 0 :
       {
-        // start Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:89:19--89:30
+        // start Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:95:19--95:30
         Value_Arglist *arglist_384 = newArglist(0,3);
         arglist_384->args[0] =  newReference(NULL);
         arglist_384->args[1] =  newReference(var_3);
         arglist_384->args[2] =  newReference(var_2);
         Value *(*fPtr_385)(Value_Arglist*) = Data_List_filter_arglist;
-                                                             // Data/List.idr:89:19--89:30
+                                                             // Data/List.idr:95:19--95:30
         Value *closure_385 = (Value*)makeClosureFromArglist(fPtr_385, arglist_384);
-                                                             // Data/List.idr:89:19--89:30
-        // end   Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:89:19--89:30
-        Value * var_5 = trampoline(closure_385);             // Data/List.idr:89:14--89:30
+                                                             // Data/List.idr:95:19--95:30
+        // end   Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:95:19--95:30
+        Value * var_5 = trampoline(closure_385);             // Data/List.idr:95:14--95:30
         Value_Constructor* constructor_386 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/List.idr:89:14--89:30
-         // constructor Prelude_Types__colon_colon           // Data/List.idr:89:14--89:30
+                                                             // Data/List.idr:95:14--95:30
+         // constructor Prelude_Types__colon_colon           // Data/List.idr:95:14--95:30
         constructor_386->args[0] = newReference(var_1);
         constructor_386->args[1] = newReference(var_5);
         tmp_383 = (Value*)constructor_386;
@@ -12228,16 +12228,16 @@ Value *Data_List_case___quotationfilter_quotation_1523
       }
       case 1 :
       {
-        // start Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:90:14--90:25
+        // start Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:96:14--96:25
         Value_Arglist *arglist_387 = newArglist(0,3);
         arglist_387->args[0] =  newReference(NULL);
         arglist_387->args[1] =  newReference(var_3);
         arglist_387->args[2] =  newReference(var_2);
         Value *(*fPtr_388)(Value_Arglist*) = Data_List_filter_arglist;
-                                                             // Data/List.idr:90:14--90:25
+                                                             // Data/List.idr:96:14--96:25
         Value *closure_388 = (Value*)makeClosureFromArglist(fPtr_388, arglist_387);
-                                                             // Data/List.idr:90:14--90:25
-        // end   Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:90:14--90:25
+                                                             // Data/List.idr:96:14--96:25
+        // end   Data_List_filter(NULL, var_3, var_2)        // Data/List.idr:96:14--96:25
         tmp_383 = trampoline(closure_388);
         break;
       }
@@ -12247,9 +12247,9 @@ Value *Data_List_case___quotationfilter_quotation_1523
 }
 
 
-Value *Data_List_case___quotationfilter_quotation_1523_arglist(Value_Arglist* arglist)
+Value *Data_List_case___quotationfilter_quotation_887_arglist(Value_Arglist* arglist)
 {
-    return Data_List_case___quotationfilter_quotation_1523
+    return Data_List_case___quotationfilter_quotation_887
         (
               arglist->args[0]
             , arglist->args[1]
@@ -12262,7 +12262,7 @@ Value *Data_List_case___quotationfilter_quotation_1523_arglist(Value_Arglist* ar
 
 
 
-Value *Data_List_case___quotationdropWhile_quotation_1469
+Value *Data_List_case___quotationdropWhile_quotation_833
 (
     Value * var_0
 ,   Value * var_1
@@ -12271,28 +12271,28 @@ Value *Data_List_case___quotationdropWhile_quotation_1469
 ,   Value * var_4
 )
 {
-    Value * tmp_389 = NULL;                                  // Data/List.idr:80:23--80:27
-    switch(extractInt(var_4)){                               // Data/List.idr:80:23--80:27
+    Value * tmp_389 = NULL;                                  // Data/List.idr:86:23--86:27
+    switch(extractInt(var_4)){                               // Data/List.idr:86:23--86:27
       case 0 :
       {
-        // start Data_List_dropWhile(NULL, var_3, var_2)     // Data/List.idr:82:35--82:49
+        // start Data_List_dropWhile(NULL, var_3, var_2)     // Data/List.idr:88:35--88:49
         Value_Arglist *arglist_390 = newArglist(0,3);
         arglist_390->args[0] =  newReference(NULL);
         arglist_390->args[1] =  newReference(var_3);
         arglist_390->args[2] =  newReference(var_2);
         Value *(*fPtr_391)(Value_Arglist*) = Data_List_dropWhile_arglist;
-                                                             // Data/List.idr:82:35--82:49
+                                                             // Data/List.idr:88:35--88:49
         Value *closure_391 = (Value*)makeClosureFromArglist(fPtr_391, arglist_390);
-                                                             // Data/List.idr:82:35--82:49
-        // end   Data_List_dropWhile(NULL, var_3, var_2)     // Data/List.idr:82:35--82:49
+                                                             // Data/List.idr:88:35--88:49
+        // end   Data_List_dropWhile(NULL, var_3, var_2)     // Data/List.idr:88:35--88:49
         tmp_389 = trampoline(closure_391);
         break;
       }
       case 1 :
       {
         Value_Constructor* constructor_392 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/List.idr:82:55--82:60
-         // constructor Prelude_Types__colon_colon           // Data/List.idr:82:55--82:60
+                                                             // Data/List.idr:88:55--88:60
+         // constructor Prelude_Types__colon_colon           // Data/List.idr:88:55--88:60
         constructor_392->args[0] = newReference(var_1);
         constructor_392->args[1] = newReference(var_2);
         tmp_389 = (Value*)constructor_392;
@@ -12304,9 +12304,9 @@ Value *Data_List_case___quotationdropWhile_quotation_1469
 }
 
 
-Value *Data_List_case___quotationdropWhile_quotation_1469_arglist(Value_Arglist* arglist)
+Value *Data_List_case___quotationdropWhile_quotation_833_arglist(Value_Arglist* arglist)
 {
-    return Data_List_case___quotationdropWhile_quotation_1469
+    return Data_List_case___quotationdropWhile_quotation_833
         (
               arglist->args[0]
             , arglist->args[1]
@@ -12326,27 +12326,27 @@ Value *Data_List_span
 ,   Value * var_2
 )
 {
-    Value * tmp_394 = NULL;                                  // Data/List.idr:185:23--185:29
-    AConAlt * constructorField_393= newConstructorField(2);  // Data/List.idr:185:23--185:29
+    Value * tmp_394 = NULL;                                  // Data/List.idr:191:23--191:29
+    AConAlt * constructorField_393= newConstructorField(2);  // Data/List.idr:191:23--191:29
     constructorField_393[0].tag = 0;
     constructorField_393[0].name = NULL;
     constructorField_393[1].tag = 1;
     constructorField_393[1].name = NULL;
     switch(compareConstructors(var_2, constructorField_393, 2)){
-                                                             // Data/List.idr:185:23--185:29
+                                                             // Data/List.idr:191:23--191:29
       case 0:
       {
         Value_Constructor* constructor_395 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:186:19--186:21
-         // constructor Prelude_Types_Nil                    // Data/List.idr:186:19--186:21
-        Value * var_3 = (Value*)constructor_395;             // Data/List.idr:186:18--186:26
+                                                             // Data/List.idr:192:19--192:21
+         // constructor Prelude_Types_Nil                    // Data/List.idr:192:19--192:21
+        Value * var_3 = (Value*)constructor_395;             // Data/List.idr:192:18--192:26
         Value_Constructor* constructor_396 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:186:23--186:25
-         // constructor Prelude_Types_Nil                    // Data/List.idr:186:23--186:25
-        Value * var_4 = (Value*)constructor_396;             // Data/List.idr:186:18--186:26
+                                                             // Data/List.idr:192:23--192:25
+         // constructor Prelude_Types_Nil                    // Data/List.idr:192:23--192:25
+        Value * var_4 = (Value*)constructor_396;             // Data/List.idr:192:18--192:26
         Value_Constructor* constructor_397 = newConstructor(2, 0, "Builtin_MkPair");
-                                                             // Data/List.idr:186:18--186:26
-         // constructor Builtin_MkPair                       // Data/List.idr:186:18--186:26
+                                                             // Data/List.idr:192:18--192:26
+         // constructor Builtin_MkPair                       // Data/List.idr:192:18--192:26
         constructor_397->args[0] = newReference(var_3);
         constructor_397->args[1] = newReference(var_4);
         tmp_394 = (Value*)constructor_397;
@@ -12358,21 +12358,21 @@ Value *Data_List_span
       {
         Value * var_5 = ((Value_Constructor*)var_2)->args[0];
         Value * var_6 = ((Value_Constructor*)var_2)->args[1];
-        Value * var_7 = apply_closure(var_1, var_5);         // Data/List.idr:188:3--192:16
-        // start Data_List_case___quotationspan_quotation_2083(NULL, var_5, var_6, var_1, var_7)
-                                                             // Data/List.idr:188:3--192:16
+        Value * var_7 = apply_closure(var_1, var_5);         // Data/List.idr:194:3--198:16
+        // start Data_List_case___quotationspan_quotation_1447(NULL, var_5, var_6, var_1, var_7)
+                                                             // Data/List.idr:194:3--198:16
         Value_Arglist *arglist_398 = newArglist(0,5);
         arglist_398->args[0] =  newReference(NULL);
         arglist_398->args[1] =  newReference(var_5);
         arglist_398->args[2] =  newReference(var_6);
         arglist_398->args[3] =  newReference(var_1);
         arglist_398->args[4] =  newReference(var_7);
-        Value *(*fPtr_399)(Value_Arglist*) = Data_List_case___quotationspan_quotation_2083_arglist;
-                                                             // Data/List.idr:188:3--192:16
+        Value *(*fPtr_399)(Value_Arglist*) = Data_List_case___quotationspan_quotation_1447_arglist;
+                                                             // Data/List.idr:194:3--198:16
         Value *closure_399 = (Value*)makeClosureFromArglist(fPtr_399, arglist_398);
-                                                             // Data/List.idr:188:3--192:16
-        // end   Data_List_case___quotationspan_quotation_2083(NULL, var_5, var_6, var_1, var_7)
-                                                             // Data/List.idr:188:3--192:16
+                                                             // Data/List.idr:194:3--198:16
+        // end   Data_List_case___quotationspan_quotation_1447(NULL, var_5, var_6, var_1, var_7)
+                                                             // Data/List.idr:194:3--198:16
         tmp_394 = trampoline(closure_399);
         removeReference(var_7);
         break;
@@ -12404,14 +12404,14 @@ Value *Data_List_reverseOnto
 ,   Value * var_2
 )
 {
-    Value * tmp_401 = NULL;                                  // Data/List.idr:268:25--268:31
-    AConAlt * constructorField_400= newConstructorField(2);  // Data/List.idr:268:25--268:31
+    Value * tmp_401 = NULL;                                  // Data/List.idr:278:25--278:31
+    AConAlt * constructorField_400= newConstructorField(2);  // Data/List.idr:278:25--278:31
     constructorField_400[0].tag = 0;
     constructorField_400[0].name = NULL;
     constructorField_400[1].tag = 1;
     constructorField_400[1].name = NULL;
     switch(compareConstructors(var_2, constructorField_400, 2)){
-                                                             // Data/List.idr:268:25--268:31
+                                                             // Data/List.idr:278:25--278:31
       case 0:
       {
         tmp_401 = newReference(var_1);
@@ -12422,21 +12422,21 @@ Value *Data_List_reverseOnto
         Value * var_3 = ((Value_Constructor*)var_2)->args[0];
         Value * var_4 = ((Value_Constructor*)var_2)->args[1];
         Value_Constructor* constructor_402 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/List.idr:270:40--270:46
-         // constructor Prelude_Types__colon_colon           // Data/List.idr:270:40--270:46
+                                                             // Data/List.idr:280:40--280:46
+         // constructor Prelude_Types__colon_colon           // Data/List.idr:280:40--280:46
         constructor_402->args[0] = newReference(var_3);
         constructor_402->args[1] = newReference(var_1);
-        Value * var_5 = (Value*)constructor_402;             // Data/List.idr:270:27--270:50
-        // start Data_List_reverseOnto(NULL, var_5, var_4)   // Data/List.idr:270:27--270:50
+        Value * var_5 = (Value*)constructor_402;             // Data/List.idr:280:27--280:50
+        // start Data_List_reverseOnto(NULL, var_5, var_4)   // Data/List.idr:280:27--280:50
         Value_Arglist *arglist_403 = newArglist(0,3);
         arglist_403->args[0] =  newReference(NULL);
         arglist_403->args[1] =  newReference(var_5);
         arglist_403->args[2] =  newReference(var_4);
         Value *(*fPtr_404)(Value_Arglist*) = Data_List_reverseOnto_arglist;
-                                                             // Data/List.idr:270:27--270:50
+                                                             // Data/List.idr:280:27--280:50
         Value *closure_404 = (Value*)makeClosureFromArglist(fPtr_404, arglist_403);
-                                                             // Data/List.idr:270:27--270:50
-        // end   Data_List_reverseOnto(NULL, var_5, var_4)   // Data/List.idr:270:27--270:50
+                                                             // Data/List.idr:280:27--280:50
+        // end   Data_List_reverseOnto(NULL, var_5, var_4)   // Data/List.idr:280:27--280:50
         tmp_401 = trampoline(closure_404);
         removeReference(var_5);
         break;
@@ -12468,19 +12468,19 @@ Value *Data_List_reverse
 )
 {
     Value_Constructor* constructor_405 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:274:23--274:25
-     // constructor Prelude_Types_Nil                        // Data/List.idr:274:23--274:25
-    Value * var_2 = (Value*)constructor_405;                 // Data/List.idr:274:11--274:25
-    // start Data_List_reverseOnto(NULL, var_2, var_1)       // Data/List.idr:274:11--274:25
+                                                             // Data/List.idr:284:23--284:25
+     // constructor Prelude_Types_Nil                        // Data/List.idr:284:23--284:25
+    Value * var_2 = (Value*)constructor_405;                 // Data/List.idr:284:11--284:25
+    // start Data_List_reverseOnto(NULL, var_2, var_1)       // Data/List.idr:284:11--284:25
     Value_Arglist *arglist_406 = newArglist(0,3);
     arglist_406->args[0] =  newReference(NULL);
     arglist_406->args[1] =  newReference(var_2);
     arglist_406->args[2] =  newReference(var_1);
     Value *(*fPtr_407)(Value_Arglist*) = Data_List_reverseOnto_arglist;
-                                                             // Data/List.idr:274:11--274:25
+                                                             // Data/List.idr:284:11--284:25
     Value *closure_407 = (Value*)makeClosureFromArglist(fPtr_407, arglist_406);
-                                                             // Data/List.idr:274:11--274:25
-    // end   Data_List_reverseOnto(NULL, var_2, var_1)       // Data/List.idr:274:11--274:25
+                                                             // Data/List.idr:284:11--284:25
+    // end   Data_List_reverseOnto(NULL, var_2, var_1)       // Data/List.idr:284:11--284:25
     Value *returnValue = closure_407;
     removeReference(var_2);
     return returnValue;
@@ -12506,19 +12506,19 @@ Value *Data_List_filter
 ,   Value * var_2
 )
 {
-    Value * tmp_409 = NULL;                                  // Data/List.idr:85:29--85:35
-    AConAlt * constructorField_408= newConstructorField(2);  // Data/List.idr:85:29--85:35
+    Value * tmp_409 = NULL;                                  // Data/List.idr:91:29--91:35
+    AConAlt * constructorField_408= newConstructorField(2);  // Data/List.idr:91:29--91:35
     constructorField_408[0].tag = 0;
     constructorField_408[0].name = NULL;
     constructorField_408[1].tag = 1;
     constructorField_408[1].name = NULL;
     switch(compareConstructors(var_2, constructorField_408, 2)){
-                                                             // Data/List.idr:85:29--85:35
+                                                             // Data/List.idr:91:29--91:35
       case 0:
       {
         Value_Constructor* constructor_410 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:86:15--86:17
-         // constructor Prelude_Types_Nil                    // Data/List.idr:86:15--86:17
+                                                             // Data/List.idr:92:15--92:17
+         // constructor Prelude_Types_Nil                    // Data/List.idr:92:15--92:17
         tmp_409 = (Value*)constructor_410;
         break;
       }
@@ -12526,21 +12526,21 @@ Value *Data_List_filter
       {
         Value * var_3 = ((Value_Constructor*)var_2)->args[0];
         Value * var_4 = ((Value_Constructor*)var_2)->args[1];
-        Value * var_5 = apply_closure(var_1, var_3);         // Data/List.idr:88:6--90:25
-        // start Data_List_case___quotationfilter_quotation_1523(NULL, var_3, var_4, var_1, var_5)
-                                                             // Data/List.idr:88:6--90:25
+        Value * var_5 = apply_closure(var_1, var_3);         // Data/List.idr:94:6--96:25
+        // start Data_List_case___quotationfilter_quotation_887(NULL, var_3, var_4, var_1, var_5)
+                                                             // Data/List.idr:94:6--96:25
         Value_Arglist *arglist_411 = newArglist(0,5);
         arglist_411->args[0] =  newReference(NULL);
         arglist_411->args[1] =  newReference(var_3);
         arglist_411->args[2] =  newReference(var_4);
         arglist_411->args[3] =  newReference(var_1);
         arglist_411->args[4] =  newReference(var_5);
-        Value *(*fPtr_412)(Value_Arglist*) = Data_List_case___quotationfilter_quotation_1523_arglist;
-                                                             // Data/List.idr:88:6--90:25
+        Value *(*fPtr_412)(Value_Arglist*) = Data_List_case___quotationfilter_quotation_887_arglist;
+                                                             // Data/List.idr:94:6--96:25
         Value *closure_412 = (Value*)makeClosureFromArglist(fPtr_412, arglist_411);
-                                                             // Data/List.idr:88:6--90:25
-        // end   Data_List_case___quotationfilter_quotation_1523(NULL, var_3, var_4, var_1, var_5)
-                                                             // Data/List.idr:88:6--90:25
+                                                             // Data/List.idr:94:6--96:25
+        // end   Data_List_case___quotationfilter_quotation_887(NULL, var_3, var_4, var_1, var_5)
+                                                             // Data/List.idr:94:6--96:25
         tmp_409 = trampoline(closure_412);
         removeReference(var_5);
         break;
@@ -12572,19 +12572,19 @@ Value *Data_List_dropWhile
 ,   Value * var_2
 )
 {
-    Value * tmp_414 = NULL;                                  // Data/List.idr:80:32--80:38
-    AConAlt * constructorField_413= newConstructorField(2);  // Data/List.idr:80:32--80:38
+    Value * tmp_414 = NULL;                                  // Data/List.idr:86:32--86:38
+    AConAlt * constructorField_413= newConstructorField(2);  // Data/List.idr:86:32--86:38
     constructorField_413[0].tag = 0;
     constructorField_413[0].name = NULL;
     constructorField_413[1].tag = 1;
     constructorField_413[1].name = NULL;
     switch(compareConstructors(var_2, constructorField_413, 2)){
-                                                             // Data/List.idr:80:32--80:38
+                                                             // Data/List.idr:86:32--86:38
       case 0:
       {
         Value_Constructor* constructor_415 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/List.idr:81:23--81:25
-         // constructor Prelude_Types_Nil                    // Data/List.idr:81:23--81:25
+                                                             // Data/List.idr:87:23--87:25
+         // constructor Prelude_Types_Nil                    // Data/List.idr:87:23--87:25
         tmp_414 = (Value*)constructor_415;
         break;
       }
@@ -12592,21 +12592,21 @@ Value *Data_List_dropWhile
       {
         Value * var_3 = ((Value_Constructor*)var_2)->args[0];
         Value * var_4 = ((Value_Constructor*)var_2)->args[1];
-        Value * var_5 = apply_closure(var_1, var_3);         // Data/List.idr:82:23--82:60
-        // start Data_List_case___quotationdropWhile_quotation_1469(NULL, var_3, var_4, var_1, var_5)
-                                                             // Data/List.idr:82:23--82:60
+        Value * var_5 = apply_closure(var_1, var_3);         // Data/List.idr:88:23--88:60
+        // start Data_List_case___quotationdropWhile_quotation_833(NULL, var_3, var_4, var_1, var_5)
+                                                             // Data/List.idr:88:23--88:60
         Value_Arglist *arglist_416 = newArglist(0,5);
         arglist_416->args[0] =  newReference(NULL);
         arglist_416->args[1] =  newReference(var_3);
         arglist_416->args[2] =  newReference(var_4);
         arglist_416->args[3] =  newReference(var_1);
         arglist_416->args[4] =  newReference(var_5);
-        Value *(*fPtr_417)(Value_Arglist*) = Data_List_case___quotationdropWhile_quotation_1469_arglist;
-                                                             // Data/List.idr:82:23--82:60
+        Value *(*fPtr_417)(Value_Arglist*) = Data_List_case___quotationdropWhile_quotation_833_arglist;
+                                                             // Data/List.idr:88:23--88:60
         Value *closure_417 = (Value*)makeClosureFromArglist(fPtr_417, arglist_416);
-                                                             // Data/List.idr:82:23--82:60
-        // end   Data_List_case___quotationdropWhile_quotation_1469(NULL, var_3, var_4, var_1, var_5)
-                                                             // Data/List.idr:82:23--82:60
+                                                             // Data/List.idr:88:23--88:60
+        // end   Data_List_case___quotationdropWhile_quotation_833(NULL, var_3, var_4, var_1, var_5)
+                                                             // Data/List.idr:88:23--88:60
         tmp_414 = trampoline(closure_417);
         removeReference(var_5);
         break;
@@ -12643,19 +12643,19 @@ Value *Data_List_break
     arglist_418->args[1] =  newReference(var_1);
     arglist_418->args[2] =  newReference(var_2);
     Value *(*closure_419)(Value_Arglist*) = Data_List_break_0_arglist;
-                                                             // Data/List.idr:196:20--196:27
+                                                             // Data/List.idr:202:20--202:27
     Value * var_3 = (Value*)makeClosureFromArglist(closure_419, arglist_418);
-                                                             // Data/List.idr:196:14--196:31
-    // start Data_List_span(NULL, var_3, var_2)              // Data/List.idr:196:14--196:31
+                                                             // Data/List.idr:202:14--202:31
+    // start Data_List_span(NULL, var_3, var_2)              // Data/List.idr:202:14--202:31
     Value_Arglist *arglist_420 = newArglist(0,3);
     arglist_420->args[0] =  newReference(NULL);
     arglist_420->args[1] =  newReference(var_3);
     arglist_420->args[2] =  newReference(var_2);
     Value *(*fPtr_421)(Value_Arglist*) = Data_List_span_arglist;
-                                                             // Data/List.idr:196:14--196:31
+                                                             // Data/List.idr:202:14--202:31
     Value *closure_421 = (Value*)makeClosureFromArglist(fPtr_421, arglist_420);
-                                                             // Data/List.idr:196:14--196:31
-    // end   Data_List_span(NULL, var_3, var_2)              // Data/List.idr:196:14--196:31
+                                                             // Data/List.idr:202:14--202:31
+    // end   Data_List_span(NULL, var_3, var_2)              // Data/List.idr:202:14--202:31
     Value *returnValue = closure_421;
     removeReference(var_3);
     return returnValue;
@@ -12683,15 +12683,15 @@ Value *Data_List_break_0
 ,   Value * var_3
 )
 {
-    Value * var_4 = apply_closure(var_1, var_3);             // Data/List.idr:196:20--196:23
-    // start Prelude_Basics_not(var_4)                       // Data/List.idr:196:20--196:23
+    Value * var_4 = apply_closure(var_1, var_3);             // Data/List.idr:202:20--202:23
+    // start Prelude_Basics_not(var_4)                       // Data/List.idr:202:20--202:23
     Value_Arglist *arglist_422 = newArglist(0,1);
     arglist_422->args[0] =  newReference(var_4);
     Value *(*fPtr_423)(Value_Arglist*) = Prelude_Basics_not_arglist;
-                                                             // Data/List.idr:196:20--196:23
+                                                             // Data/List.idr:202:20--202:23
     Value *closure_423 = (Value*)makeClosureFromArglist(fPtr_423, arglist_422);
-                                                             // Data/List.idr:196:20--196:23
-    // end   Prelude_Basics_not(var_4)                       // Data/List.idr:196:20--196:23
+                                                             // Data/List.idr:202:20--202:23
+    // end   Prelude_Basics_not(var_4)                       // Data/List.idr:202:20--202:23
     Value *returnValue = closure_423;
     removeReference(var_4);
     return returnValue;
@@ -12981,7 +12981,7 @@ Value *Builtin_assert_total_arglist(Value_Arglist* arglist)
 // Constructor tag Just 0 arity 4
 
 
-Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
+Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422
 (
     Value * var_0
 ,   Value * var_1
@@ -13007,27 +13007,27 @@ Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
         Value *(*fPtr_430)(Value_Arglist*) = Prelude_Num____Neg__Int_arglist;
         Value *closure_430 = (Value*)makeClosureFromArglist(fPtr_430, arglist_429);
         // end   Prelude_Num____Neg__Int(var_3, var_5)
-        Value * var_7 = trampoline(closure_430);             // Prelude/Types.idr:477:11--479:100
-        Value * var_6 = strIndex(var_2, var_3);              // Prelude/Types.idr:479:57--479:99
+        Value * var_7 = trampoline(closure_430);             // Prelude/Types.idr:497:11--499:100
+        Value * var_6 = strIndex(var_2, var_3);              // Prelude/Types.idr:499:57--499:99
         Value_Constructor* constructor_431 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Prelude/Types.idr:479:57--479:99
-         // constructor Prelude_Types__colon_colon           // Prelude/Types.idr:479:57--479:99
+                                                             // Prelude/Types.idr:499:57--499:99
+         // constructor Prelude_Types__colon_colon           // Prelude/Types.idr:499:57--499:99
         constructor_431->args[0] = newReference(var_6);
         constructor_431->args[1] = newReference(var_1);
-        Value * var_8 = (Value*)constructor_431;             // Prelude/Types.idr:477:11--479:100
-        // start Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick(var_0, var_7, var_2, var_8)
-                                                             // Prelude/Types.idr:477:11--479:100
+        Value * var_8 = (Value*)constructor_431;             // Prelude/Types.idr:497:11--499:100
+        // start Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick(var_0, var_7, var_2, var_8)
+                                                             // Prelude/Types.idr:497:11--499:100
         Value_Arglist *arglist_432 = newArglist(0,4);
         arglist_432->args[0] =  newReference(var_0);
         arglist_432->args[1] =  newReference(var_7);
         arglist_432->args[2] =  newReference(var_2);
         arglist_432->args[3] =  newReference(var_8);
-        Value *(*fPtr_433)(Value_Arglist*) = Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick_arglist;
-                                                             // Prelude/Types.idr:477:11--479:100
+        Value *(*fPtr_433)(Value_Arglist*) = Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick_arglist;
+                                                             // Prelude/Types.idr:497:11--499:100
         Value *closure_433 = (Value*)makeClosureFromArglist(fPtr_433, arglist_432);
-                                                             // Prelude/Types.idr:477:11--479:100
-        // end   Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick(var_0, var_7, var_2, var_8)
-                                                             // Prelude/Types.idr:477:11--479:100
+                                                             // Prelude/Types.idr:497:11--499:100
+        // end   Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick(var_0, var_7, var_2, var_8)
+                                                             // Prelude/Types.idr:497:11--499:100
         tmp_428 = trampoline(closure_433);
         removeReference(var_8);
         removeReference(var_6);
@@ -13041,9 +13041,9 @@ Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
 }
 
 
-Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057_arglist(Value_Arglist* arglist)
+Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057
+    return Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422
         (
               arglist->args[0]
             , arglist->args[1]
@@ -13056,7 +13056,7 @@ Value *Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057_argl
 
 
 
-Value *Prelude_Types_case___quotationmax_quotation_662
+Value *Prelude_Types_case___quotationmax_quotation_765
 (
     Value * var_0
 ,   Value * var_1
@@ -13081,9 +13081,9 @@ Value *Prelude_Types_case___quotationmax_quotation_662
 }
 
 
-Value *Prelude_Types_case___quotationmax_quotation_662_arglist(Value_Arglist* arglist)
+Value *Prelude_Types_case___quotationmax_quotation_765_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Types_case___quotationmax_quotation_662
+    return Prelude_Types_case___quotationmax_quotation_765
         (
               arglist->args[0]
             , arglist->args[1]
@@ -13094,7 +13094,7 @@ Value *Prelude_Types_case___quotationmax_quotation_662_arglist(Value_Arglist* ar
 
 
 
-Value *Prelude_Types_case___quotationmin_quotation_648
+Value *Prelude_Types_case___quotationmin_quotation_751
 (
     Value * var_0
 ,   Value * var_1
@@ -13119,9 +13119,9 @@ Value *Prelude_Types_case___quotationmin_quotation_648
 }
 
 
-Value *Prelude_Types_case___quotationmin_quotation_648_arglist(Value_Arglist* arglist)
+Value *Prelude_Types_case___quotationmin_quotation_751_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Types_case___quotationmin_quotation_648
+    return Prelude_Types_case___quotationmin_quotation_751
         (
               arglist->args[0]
             , arglist->args[1]
@@ -13132,7 +13132,7 @@ Value *Prelude_Types_case___quotationmin_quotation_648_arglist(Value_Arglist* ar
 
 
 
-Value *Prelude_Types_case___quotationintegerToNat_quotation_537
+Value *Prelude_Types_case___quotationintegerToNat_quotation_640
 (
     Value * var_0
 ,   Value * var_1
@@ -13162,9 +13162,9 @@ Value *Prelude_Types_case___quotationintegerToNat_quotation_537
 }
 
 
-Value *Prelude_Types_case___quotationintegerToNat_quotation_537_arglist(Value_Arglist* arglist)
+Value *Prelude_Types_case___quotationintegerToNat_quotation_640_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Types_case___quotationintegerToNat_quotation_537
+    return Prelude_Types_case___quotationintegerToNat_quotation_640
         (
               arglist->args[0]
             , arglist->args[1]
@@ -13174,7 +13174,7 @@ Value *Prelude_Types_case___quotationintegerToNat_quotation_537_arglist(Value_Ar
 
 
 
-Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
+Value *Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick
 (
     Value * var_0
 ,   Value * var_1
@@ -13191,21 +13191,21 @@ Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
     Value *(*fPtr_438)(Value_Arglist*) = Prelude_EqOrd__lt_Ord__Int_arglist;
     Value *closure_438 = (Value*)makeClosureFromArglist(fPtr_438, arglist_437);
     // end   Prelude_EqOrd__lt_Ord__Int(var_1, var_5)
-    Value * var_6 = trampoline(closure_438);                 // Prelude/Types.idr:477:11--479:100
-    // start Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057(var_0, var_3, var_2, var_1, var_6)
-                                                             // Prelude/Types.idr:477:11--479:100
+    Value * var_6 = trampoline(closure_438);                 // Prelude/Types.idr:497:11--499:100
+    // start Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422(var_0, var_3, var_2, var_1, var_6)
+                                                             // Prelude/Types.idr:497:11--499:100
     Value_Arglist *arglist_439 = newArglist(0,5);
     arglist_439->args[0] =  newReference(var_0);
     arglist_439->args[1] =  newReference(var_3);
     arglist_439->args[2] =  newReference(var_2);
     arglist_439->args[3] =  newReference(var_1);
     arglist_439->args[4] =  newReference(var_6);
-    Value *(*fPtr_440)(Value_Arglist*) = Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057_arglist;
-                                                             // Prelude/Types.idr:477:11--479:100
+    Value *(*fPtr_440)(Value_Arglist*) = Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422_arglist;
+                                                             // Prelude/Types.idr:497:11--499:100
     Value *closure_440 = (Value*)makeClosureFromArglist(fPtr_440, arglist_439);
-                                                             // Prelude/Types.idr:477:11--479:100
-    // end   Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4057(var_0, var_3, var_2, var_1, var_6)
-                                                             // Prelude/Types.idr:477:11--479:100
+                                                             // Prelude/Types.idr:497:11--499:100
+    // end   Prelude_Types_case___quotationunpack_commaunpack_tick_quotation_4422(var_0, var_3, var_2, var_1, var_6)
+                                                             // Prelude/Types.idr:497:11--499:100
     Value *returnValue = closure_440;
     removeReference(var_6);
     removeReference(var_5);
@@ -13214,9 +13214,9 @@ Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
 }
 
 
-Value *Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick_arglist(Value_Arglist* arglist)
+Value *Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick
+    return Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick
         (
               arglist->args[0]
             , arglist->args[1]
@@ -13234,28 +13234,28 @@ Value *Prelude_Types_min_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types__lt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__lt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_441 = newArglist(0,2);
     arglist_441->args[0] =  newReference(var_0);
     arglist_441->args[1] =  newReference(var_1);
     Value *(*fPtr_442)(Value_Arglist*) = Prelude_Types__lt_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_442 = (Value*)makeClosureFromArglist(fPtr_442, arglist_441);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__lt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:70:1--77:7
-    Value * var_2 = trampoline(closure_442);                 // Prelude/Types.idr:70:1--77:7
-    // start Prelude_Types_case___quotationmin_quotation_648(var_1, var_0, var_2)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__lt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:77:1--84:7
+    Value * var_2 = trampoline(closure_442);                 // Prelude/Types.idr:77:1--84:7
+    // start Prelude_Types_case___quotationmin_quotation_751(var_1, var_0, var_2)
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_443 = newArglist(0,3);
     arglist_443->args[0] =  newReference(var_1);
     arglist_443->args[1] =  newReference(var_0);
     arglist_443->args[2] =  newReference(var_2);
-    Value *(*fPtr_444)(Value_Arglist*) = Prelude_Types_case___quotationmin_quotation_648_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+    Value *(*fPtr_444)(Value_Arglist*) = Prelude_Types_case___quotationmin_quotation_751_arglist;
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_444 = (Value*)makeClosureFromArglist(fPtr_444, arglist_443);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_case___quotationmin_quotation_648(var_1, var_0, var_2)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_case___quotationmin_quotation_751(var_1, var_0, var_2)
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_444;
     removeReference(var_2);
     return returnValue;
@@ -13280,28 +13280,28 @@ Value *Prelude_Types_max_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types__gt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__gt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_445 = newArglist(0,2);
     arglist_445->args[0] =  newReference(var_0);
     arglist_445->args[1] =  newReference(var_1);
     Value *(*fPtr_446)(Value_Arglist*) = Prelude_Types__gt_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_446 = (Value*)makeClosureFromArglist(fPtr_446, arglist_445);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__gt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:70:1--77:7
-    Value * var_2 = trampoline(closure_446);                 // Prelude/Types.idr:70:1--77:7
-    // start Prelude_Types_case___quotationmax_quotation_662(var_1, var_0, var_2)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__gt_Ord__Nat(var_0, var_1)        // Prelude/Types.idr:77:1--84:7
+    Value * var_2 = trampoline(closure_446);                 // Prelude/Types.idr:77:1--84:7
+    // start Prelude_Types_case___quotationmax_quotation_765(var_1, var_0, var_2)
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_447 = newArglist(0,3);
     arglist_447->args[0] =  newReference(var_1);
     arglist_447->args[1] =  newReference(var_0);
     arglist_447->args[2] =  newReference(var_2);
-    Value *(*fPtr_448)(Value_Arglist*) = Prelude_Types_case___quotationmax_quotation_662_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+    Value *(*fPtr_448)(Value_Arglist*) = Prelude_Types_case___quotationmax_quotation_765_arglist;
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_448 = (Value*)makeClosureFromArglist(fPtr_448, arglist_447);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_case___quotationmax_quotation_662(var_1, var_0, var_2)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_case___quotationmax_quotation_765(var_1, var_0, var_2)
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_448;
     removeReference(var_2);
     return returnValue;
@@ -13339,8 +13339,8 @@ Value *Prelude_Types_map_Functor__List
       case 0:
       {
         Value_Constructor* constructor_451 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Prelude/Types.idr:312:14--312:16
-         // constructor Prelude_Types_Nil                    // Prelude/Types.idr:312:14--312:16
+                                                             // Prelude/Types.idr:329:14--329:16
+         // constructor Prelude_Types_Nil                    // Prelude/Types.idr:329:14--329:16
         tmp_450 = (Value*)constructor_451;
         break;
       }
@@ -13348,24 +13348,24 @@ Value *Prelude_Types_map_Functor__List
       {
         Value * var_4 = ((Value_Constructor*)var_3)->args[0];
         Value * var_5 = ((Value_Constructor*)var_3)->args[1];
-        Value * var_6 = apply_closure(var_2, var_4);         // Prelude/Types.idr:313:21--313:36
+        Value * var_6 = apply_closure(var_2, var_4);         // Prelude/Types.idr:330:21--330:36
         // start Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_5)
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
         Value_Arglist *arglist_452 = newArglist(0,4);
         arglist_452->args[0] =  newReference(NULL);
         arglist_452->args[1] =  newReference(NULL);
         arglist_452->args[2] =  newReference(var_2);
         arglist_452->args[3] =  newReference(var_5);
         Value *(*fPtr_453)(Value_Arglist*) = Prelude_Types_map_Functor__List_arglist;
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
         Value *closure_453 = (Value*)makeClosureFromArglist(fPtr_453, arglist_452);
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
         // end   Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_5)
-                                                             // Prelude/Types.idr:310:1--315:7
-        Value * var_7 = trampoline(closure_453);             // Prelude/Types.idr:313:21--313:36
+                                                             // Prelude/Types.idr:327:1--332:7
+        Value * var_7 = trampoline(closure_453);             // Prelude/Types.idr:330:21--330:36
         Value_Constructor* constructor_454 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Prelude/Types.idr:313:21--313:36
-         // constructor Prelude_Types__colon_colon           // Prelude/Types.idr:313:21--313:36
+                                                             // Prelude/Types.idr:330:21--330:36
+         // constructor Prelude_Types__colon_colon           // Prelude/Types.idr:330:21--330:36
         constructor_454->args[0] = newReference(var_6);
         constructor_454->args[1] = newReference(var_7);
         tmp_450 = (Value*)constructor_454;
@@ -13421,12 +13421,12 @@ Value *Prelude_Types_compare_Ord__Nat
 ,   Value * var_1
 )
 {
-    Value * tmp_455 = NULL;                                  // Prelude/Types.idr:71:5--71:8
-    switch(extractInt(var_0)){                               // Prelude/Types.idr:71:5--71:8
+    Value * tmp_455 = NULL;                                  // Prelude/Types.idr:78:5--78:8
+    switch(extractInt(var_0)){                               // Prelude/Types.idr:78:5--78:8
       case 0 :
       {
-        Value * tmp_456 = NULL;                              // Prelude/Types.idr:71:5--71:8
-        switch(extractInt(var_1)){                           // Prelude/Types.idr:71:5--71:8
+        Value * tmp_456 = NULL;                              // Prelude/Types.idr:78:5--78:8
+        switch(extractInt(var_1)){                           // Prelude/Types.idr:78:5--78:8
           case 0 :
           {
             tmp_456 = (Value*)makeInt32(1);
@@ -13443,9 +13443,9 @@ Value *Prelude_Types_compare_Ord__Nat
       default :
       {
         Value * var_3 = (Value*)makeInt64(1);
-        Value * var_2 = sub_i64(var_0, var_3);               // Prelude/Types.idr:71:5--71:8
-        Value * tmp_457 = NULL;                              // Prelude/Types.idr:71:5--71:8
-        switch(extractInt(var_1)){                           // Prelude/Types.idr:71:5--71:8
+        Value * var_2 = sub_i64(var_0, var_3);               // Prelude/Types.idr:78:5--78:8
+        Value * tmp_457 = NULL;                              // Prelude/Types.idr:78:5--78:8
+        switch(extractInt(var_1)){                           // Prelude/Types.idr:78:5--78:8
           case 0 :
           {
             tmp_457 = (Value*)makeInt32(2);
@@ -13454,18 +13454,18 @@ Value *Prelude_Types_compare_Ord__Nat
           default :
           {
             Value * var_5 = (Value*)makeInt64(1);
-            Value * var_4 = sub_i64(var_1, var_5);           // Prelude/Types.idr:71:5--71:8
+            Value * var_4 = sub_i64(var_1, var_5);           // Prelude/Types.idr:78:5--78:8
             // start Prelude_Types_compare_Ord__Nat(var_2, var_4)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
             Value_Arglist *arglist_458 = newArglist(0,2);
             arglist_458->args[0] =  newReference(var_2);
             arglist_458->args[1] =  newReference(var_4);
             Value *(*fPtr_459)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
             Value *closure_459 = (Value*)makeClosureFromArglist(fPtr_459, arglist_458);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
             // end   Prelude_Types_compare_Ord__Nat(var_2, var_4)
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
             tmp_457 = trampoline(closure_459);
             removeReference(var_4);
             removeReference(var_5);
@@ -13497,58 +13497,58 @@ Value *Prelude_Types___Impl_Ord_Nat(void)
 {
     Value_Arglist *arglist_460 = newArglist(2,2);
     Value *(*closure_461)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_0_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value * var_0 = (Value*)makeClosureFromArglist(closure_461, arglist_460);
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_462 = newArglist(2,2);
     Value *(*closure_463)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_1_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value * var_1 = (Value*)makeClosureFromArglist(closure_463, arglist_462);
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value_Constructor* constructor_464 = newConstructor(2, 0, "Prelude_EqOrd___mkEq");
-                                                             // Prelude/Types.idr:64:1--70:7
-     // constructor Prelude_EqOrd___mkEq                     // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+     // constructor Prelude_EqOrd___mkEq                     // Prelude/Types.idr:71:1--77:7
     constructor_464->args[0] = newReference(var_0);
     constructor_464->args[1] = newReference(var_1);
-    Value * var_2 = (Value*)constructor_464;                 // Prelude/Types.idr:70:1--77:7
+    Value * var_2 = (Value*)constructor_464;                 // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_465 = newArglist(2,2);
     Value *(*closure_466)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_2_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_3 = (Value*)makeClosureFromArglist(closure_466, arglist_465);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_467 = newArglist(2,2);
     Value *(*closure_468)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_3_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_4 = (Value*)makeClosureFromArglist(closure_468, arglist_467);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_469 = newArglist(2,2);
     Value *(*closure_470)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_4_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_5 = (Value*)makeClosureFromArglist(closure_470, arglist_469);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_471 = newArglist(2,2);
     Value *(*closure_472)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_5_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_6 = (Value*)makeClosureFromArglist(closure_472, arglist_471);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_473 = newArglist(2,2);
     Value *(*closure_474)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_6_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_7 = (Value*)makeClosureFromArglist(closure_474, arglist_473);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_475 = newArglist(2,2);
     Value *(*closure_476)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_7_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_8 = (Value*)makeClosureFromArglist(closure_476, arglist_475);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_477 = newArglist(2,2);
     Value *(*closure_478)(Value_Arglist*) = Prelude_Types___Impl_Ord_Nat_8_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value * var_9 = (Value*)makeClosureFromArglist(closure_478, arglist_477);
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value_Constructor* constructor_479 = newConstructor(8, 0, "Prelude_EqOrd___mkOrd");
-                                                             // Prelude/Types.idr:70:1--77:7
-     // constructor Prelude_EqOrd___mkOrd                    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+     // constructor Prelude_EqOrd___mkOrd                    // Prelude/Types.idr:77:1--84:7
     constructor_479->args[0] = newReference(var_2);
     constructor_479->args[1] = newReference(var_3);
     constructor_479->args[2] = newReference(var_4);
@@ -13588,15 +13588,15 @@ Value *Prelude_Types___Impl_Ord_Nat_8
 ,   Value * var_0
 )
 {
-    // start Prelude_Types_min_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_min_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_480 = newArglist(0,2);
     arglist_480->args[0] =  newReference(var_1);
     arglist_480->args[1] =  newReference(var_0);
     Value *(*fPtr_481)(Value_Arglist*) = Prelude_Types_min_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_481 = (Value*)makeClosureFromArglist(fPtr_481, arglist_480);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_min_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_min_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_481;
     return returnValue;
 }
@@ -13620,15 +13620,15 @@ Value *Prelude_Types___Impl_Ord_Nat_7
 ,   Value * var_0
 )
 {
-    // start Prelude_Types_max_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_max_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_482 = newArglist(0,2);
     arglist_482->args[0] =  newReference(var_1);
     arglist_482->args[1] =  newReference(var_0);
     Value *(*fPtr_483)(Value_Arglist*) = Prelude_Types_max_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_483 = (Value*)makeClosureFromArglist(fPtr_483, arglist_482);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_max_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_max_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_483;
     return returnValue;
 }
@@ -13652,15 +13652,15 @@ Value *Prelude_Types___Impl_Ord_Nat_6
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__gt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__gt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_484 = newArglist(0,2);
     arglist_484->args[0] =  newReference(var_1);
     arglist_484->args[1] =  newReference(var_0);
     Value *(*fPtr_485)(Value_Arglist*) = Prelude_Types__gt_eq_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_485 = (Value*)makeClosureFromArglist(fPtr_485, arglist_484);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__gt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__gt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_485;
     return returnValue;
 }
@@ -13684,15 +13684,15 @@ Value *Prelude_Types___Impl_Ord_Nat_5
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__lt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__lt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_486 = newArglist(0,2);
     arglist_486->args[0] =  newReference(var_1);
     arglist_486->args[1] =  newReference(var_0);
     Value *(*fPtr_487)(Value_Arglist*) = Prelude_Types__lt_eq_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_487 = (Value*)makeClosureFromArglist(fPtr_487, arglist_486);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__lt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__lt_eq_Ord__Nat(var_1, var_0)     // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_487;
     return returnValue;
 }
@@ -13716,15 +13716,15 @@ Value *Prelude_Types___Impl_Ord_Nat_4
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__gt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__gt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_488 = newArglist(0,2);
     arglist_488->args[0] =  newReference(var_1);
     arglist_488->args[1] =  newReference(var_0);
     Value *(*fPtr_489)(Value_Arglist*) = Prelude_Types__gt_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_489 = (Value*)makeClosureFromArglist(fPtr_489, arglist_488);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__gt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__gt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_489;
     return returnValue;
 }
@@ -13748,15 +13748,15 @@ Value *Prelude_Types___Impl_Ord_Nat_3
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__lt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types__lt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_490 = newArglist(0,2);
     arglist_490->args[0] =  newReference(var_1);
     arglist_490->args[1] =  newReference(var_0);
     Value *(*fPtr_491)(Value_Arglist*) = Prelude_Types__lt_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_491 = (Value*)makeClosureFromArglist(fPtr_491, arglist_490);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types__lt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types__lt_Ord__Nat(var_1, var_0)        // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_491;
     return returnValue;
 }
@@ -13780,15 +13780,15 @@ Value *Prelude_Types___Impl_Ord_Nat_2
 ,   Value * var_0
 )
 {
-    // start Prelude_Types_compare_Ord__Nat(var_1, var_0)    // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_compare_Ord__Nat(var_1, var_0)    // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_492 = newArglist(0,2);
     arglist_492->args[0] =  newReference(var_1);
     arglist_492->args[1] =  newReference(var_0);
     Value *(*fPtr_493)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_493 = (Value*)makeClosureFromArglist(fPtr_493, arglist_492);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_compare_Ord__Nat(var_1, var_0)    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_compare_Ord__Nat(var_1, var_0)    // Prelude/Types.idr:77:1--84:7
     Value *returnValue = closure_493;
     return returnValue;
 }
@@ -13812,15 +13812,15 @@ Value *Prelude_Types___Impl_Ord_Nat_1
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:64:1--70:7
+    // start Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_494 = newArglist(0,2);
     arglist_494->args[0] =  newReference(var_1);
     arglist_494->args[1] =  newReference(var_0);
     Value *(*fPtr_495)(Value_Arglist*) = Prelude_Types__slash_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_495 = (Value*)makeClosureFromArglist(fPtr_495, arglist_494);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:71:1--77:7
     Value *returnValue = closure_495;
     return returnValue;
 }
@@ -13844,15 +13844,15 @@ Value *Prelude_Types___Impl_Ord_Nat_0
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:64:1--70:7
+    // start Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_496 = newArglist(0,2);
     arglist_496->args[0] =  newReference(var_1);
     arglist_496->args[1] =  newReference(var_0);
     Value *(*fPtr_497)(Value_Arglist*) = Prelude_Types__eq_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_497 = (Value*)makeClosureFromArglist(fPtr_497, arglist_496);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:71:1--77:7
     Value *returnValue = closure_497;
     return returnValue;
 }
@@ -13879,18 +13879,18 @@ Value *Prelude_Types___Impl_Functor_List
 )
 {
     // start Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_3)
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value_Arglist *arglist_498 = newArglist(0,4);
     arglist_498->args[0] =  newReference(NULL);
     arglist_498->args[1] =  newReference(NULL);
     arglist_498->args[2] =  newReference(var_2);
     arglist_498->args[3] =  newReference(var_3);
     Value *(*fPtr_499)(Value_Arglist*) = Prelude_Types_map_Functor__List_arglist;
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value *closure_499 = (Value*)makeClosureFromArglist(fPtr_499, arglist_498);
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     // end   Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_3)
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value *returnValue = closure_499;
     return returnValue;
 }
@@ -13914,17 +13914,17 @@ Value *Prelude_Types___Impl_Eq_Nat(void)
 {
     Value_Arglist *arglist_500 = newArglist(2,2);
     Value *(*closure_501)(Value_Arglist*) = Prelude_Types___Impl_Eq_Nat_0_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value * var_0 = (Value*)makeClosureFromArglist(closure_501, arglist_500);
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_502 = newArglist(2,2);
     Value *(*closure_503)(Value_Arglist*) = Prelude_Types___Impl_Eq_Nat_1_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value * var_1 = (Value*)makeClosureFromArglist(closure_503, arglist_502);
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value_Constructor* constructor_504 = newConstructor(2, 0, "Prelude_EqOrd___mkEq");
-                                                             // Prelude/Types.idr:64:1--70:7
-     // constructor Prelude_EqOrd___mkEq                     // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+     // constructor Prelude_EqOrd___mkEq                     // Prelude/Types.idr:71:1--77:7
     constructor_504->args[0] = newReference(var_0);
     constructor_504->args[1] = newReference(var_1);
     Value *returnValue = (Value*)constructor_504;
@@ -13950,15 +13950,15 @@ Value *Prelude_Types___Impl_Eq_Nat_1
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:64:1--70:7
+    // start Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_505 = newArglist(0,2);
     arglist_505->args[0] =  newReference(var_1);
     arglist_505->args[1] =  newReference(var_0);
     Value *(*fPtr_506)(Value_Arglist*) = Prelude_Types__slash_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_506 = (Value*)makeClosureFromArglist(fPtr_506, arglist_505);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Types__slash_eq_Eq__Nat(var_1, var_0)   // Prelude/Types.idr:71:1--77:7
     Value *returnValue = closure_506;
     return returnValue;
 }
@@ -13982,15 +13982,15 @@ Value *Prelude_Types___Impl_Eq_Nat_0
 ,   Value * var_0
 )
 {
-    // start Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:64:1--70:7
+    // start Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_507 = newArglist(0,2);
     arglist_507->args[0] =  newReference(var_1);
     arglist_507->args[1] =  newReference(var_0);
     Value *(*fPtr_508)(Value_Arglist*) = Prelude_Types__eq_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_508 = (Value*)makeClosureFromArglist(fPtr_508, arglist_507);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Types__eq_eq_Eq__Nat(var_1, var_0)      // Prelude/Types.idr:71:1--77:7
     Value *returnValue = closure_508;
     return returnValue;
 }
@@ -14014,15 +14014,15 @@ Value *Prelude_Types__gt_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_509 = newArglist(0,2);
     arglist_509->args[0] =  newReference(var_0);
     arglist_509->args[1] =  newReference(var_1);
     Value *(*fPtr_510)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_510 = (Value*)makeClosureFromArglist(fPtr_510, arglist_509);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value * var_2 = trampoline(closure_510);
     Value * var_3 = (Value*)makeInt32(2);
     // start Prelude_EqOrd__eq_eq_Eq__Ordering(var_2, var_3)
@@ -14057,15 +14057,15 @@ Value *Prelude_Types__gt_eq_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_513 = newArglist(0,2);
     arglist_513->args[0] =  newReference(var_0);
     arglist_513->args[1] =  newReference(var_1);
     Value *(*fPtr_514)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_514 = (Value*)makeClosureFromArglist(fPtr_514, arglist_513);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value * var_2 = trampoline(closure_514);
     Value * var_3 = (Value*)makeInt32(0);
     // start Prelude_EqOrd__slash_eq_Eq__Ordering(var_2, var_3)
@@ -14100,12 +14100,12 @@ Value *Prelude_Types__eq_eq_Eq__Nat
 ,   Value * var_1
 )
 {
-    Value * tmp_517 = NULL;                                  // Prelude/Types.idr:65:4--65:7
-    switch(extractInt(var_0)){                               // Prelude/Types.idr:65:4--65:7
+    Value * tmp_517 = NULL;                                  // Prelude/Types.idr:72:4--72:7
+    switch(extractInt(var_0)){                               // Prelude/Types.idr:72:4--72:7
       case 0 :
       {
-        Value * tmp_518 = NULL;                              // Prelude/Types.idr:65:4--65:7
-        switch(extractInt(var_1)){                           // Prelude/Types.idr:65:4--65:7
+        Value * tmp_518 = NULL;                              // Prelude/Types.idr:72:4--72:7
+        switch(extractInt(var_1)){                           // Prelude/Types.idr:72:4--72:7
           case 0 :
           {
             tmp_518 = (Value*)makeInt32(0);
@@ -14122,9 +14122,9 @@ Value *Prelude_Types__eq_eq_Eq__Nat
       default :
       {
         Value * var_3 = (Value*)makeInt64(1);
-        Value * var_2 = sub_i64(var_0, var_3);               // Prelude/Types.idr:65:4--65:7
-        Value * tmp_519 = NULL;                              // Prelude/Types.idr:65:4--65:7
-        switch(extractInt(var_1)){                           // Prelude/Types.idr:65:4--65:7
+        Value * var_2 = sub_i64(var_0, var_3);               // Prelude/Types.idr:72:4--72:7
+        Value * tmp_519 = NULL;                              // Prelude/Types.idr:72:4--72:7
+        switch(extractInt(var_1)){                           // Prelude/Types.idr:72:4--72:7
           case 0 :
           {
             tmp_519 = (Value*)makeInt32(1);
@@ -14133,18 +14133,18 @@ Value *Prelude_Types__eq_eq_Eq__Nat
           default :
           {
             Value * var_5 = (Value*)makeInt64(1);
-            Value * var_4 = sub_i64(var_1, var_5);           // Prelude/Types.idr:65:4--65:7
+            Value * var_4 = sub_i64(var_1, var_5);           // Prelude/Types.idr:72:4--72:7
             // start Prelude_Types__eq_eq_Eq__Nat(var_2, var_4)
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
             Value_Arglist *arglist_520 = newArglist(0,2);
             arglist_520->args[0] =  newReference(var_2);
             arglist_520->args[1] =  newReference(var_4);
             Value *(*fPtr_521)(Value_Arglist*) = Prelude_Types__eq_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
             Value *closure_521 = (Value*)makeClosureFromArglist(fPtr_521, arglist_520);
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
             // end   Prelude_Types__eq_eq_Eq__Nat(var_2, var_4)
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
             tmp_519 = trampoline(closure_521);
             removeReference(var_4);
             removeReference(var_5);
@@ -14178,15 +14178,15 @@ Value *Prelude_Types__lt_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_522 = newArglist(0,2);
     arglist_522->args[0] =  newReference(var_0);
     arglist_522->args[1] =  newReference(var_1);
     Value *(*fPtr_523)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_523 = (Value*)makeClosureFromArglist(fPtr_523, arglist_522);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value * var_2 = trampoline(closure_523);
     Value * var_3 = (Value*)makeInt32(0);
     // start Prelude_EqOrd__eq_eq_Eq__Ordering(var_2, var_3)
@@ -14221,15 +14221,15 @@ Value *Prelude_Types__lt_eq_Ord__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+    // start Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value_Arglist *arglist_526 = newArglist(0,2);
     arglist_526->args[0] =  newReference(var_0);
     arglist_526->args[1] =  newReference(var_1);
     Value *(*fPtr_527)(Value_Arglist*) = Prelude_Types_compare_Ord__Nat_arglist;
-                                                             // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
     Value *closure_527 = (Value*)makeClosureFromArglist(fPtr_527, arglist_526);
-                                                             // Prelude/Types.idr:70:1--77:7
-    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:70:1--77:7
+                                                             // Prelude/Types.idr:77:1--84:7
+    // end   Prelude_Types_compare_Ord__Nat(var_0, var_1)    // Prelude/Types.idr:77:1--84:7
     Value * var_2 = trampoline(closure_527);
     Value * var_3 = (Value*)makeInt32(2);
     // start Prelude_EqOrd__slash_eq_Eq__Ordering(var_2, var_3)
@@ -14264,24 +14264,24 @@ Value *Prelude_Types__slash_eq_Eq__Nat
 ,   Value * var_1
 )
 {
-    // start Prelude_Types__eq_eq_Eq__Nat(var_0, var_1)      // Prelude/Types.idr:64:1--70:7
+    // start Prelude_Types__eq_eq_Eq__Nat(var_0, var_1)      // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_530 = newArglist(0,2);
     arglist_530->args[0] =  newReference(var_0);
     arglist_530->args[1] =  newReference(var_1);
     Value *(*fPtr_531)(Value_Arglist*) = Prelude_Types__eq_eq_Eq__Nat_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_531 = (Value*)makeClosureFromArglist(fPtr_531, arglist_530);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Types__eq_eq_Eq__Nat(var_0, var_1)      // Prelude/Types.idr:64:1--70:7
-    Value * var_2 = trampoline(closure_531);                 // Prelude/Types.idr:64:1--70:7
-    // start Prelude_Basics_not(var_2)                       // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Types__eq_eq_Eq__Nat(var_0, var_1)      // Prelude/Types.idr:71:1--77:7
+    Value * var_2 = trampoline(closure_531);                 // Prelude/Types.idr:71:1--77:7
+    // start Prelude_Basics_not(var_2)                       // Prelude/Types.idr:71:1--77:7
     Value_Arglist *arglist_532 = newArglist(0,1);
     arglist_532->args[0] =  newReference(var_2);
     Value *(*fPtr_533)(Value_Arglist*) = Prelude_Basics_not_arglist;
-                                                             // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
     Value *closure_533 = (Value*)makeClosureFromArglist(fPtr_533, arglist_532);
-                                                             // Prelude/Types.idr:64:1--70:7
-    // end   Prelude_Basics_not(var_2)                       // Prelude/Types.idr:64:1--70:7
+                                                             // Prelude/Types.idr:71:1--77:7
+    // end   Prelude_Basics_not(var_2)                       // Prelude/Types.idr:71:1--77:7
     Value *returnValue = closure_533;
     removeReference(var_2);
     return returnValue;
@@ -14305,14 +14305,14 @@ Value *Prelude_Types_unpack
     Value * var_0
 )
 {
-    // start Prelude_Types_Strings_length(var_0)             // Prelude/Types.idr:473:60--473:70
+    // start Prelude_Types_Strings_length(var_0)             // Prelude/Types.idr:493:60--493:70
     Value_Arglist *arglist_534 = newArglist(0,1);
     arglist_534->args[0] =  newReference(var_0);
     Value *(*fPtr_535)(Value_Arglist*) = Prelude_Types_Strings_length_arglist;
-                                                             // Prelude/Types.idr:473:60--473:70
+                                                             // Prelude/Types.idr:493:60--493:70
     Value *closure_535 = (Value*)makeClosureFromArglist(fPtr_535, arglist_534);
-                                                             // Prelude/Types.idr:473:60--473:70
-    // end   Prelude_Types_Strings_length(var_0)             // Prelude/Types.idr:473:60--473:70
+                                                             // Prelude/Types.idr:493:60--493:70
+    // end   Prelude_Types_Strings_length(var_0)             // Prelude/Types.idr:493:60--493:70
     Value * var_1 = trampoline(closure_535);
     Value * var_2 = cast_i64_to_i32(var_1);
     Value * var_3 = (Value*)makeInt32(1);
@@ -14323,24 +14323,24 @@ Value *Prelude_Types_unpack
     Value *(*fPtr_537)(Value_Arglist*) = Prelude_Num____Neg__Int_arglist;
     Value *closure_537 = (Value*)makeClosureFromArglist(fPtr_537, arglist_536);
     // end   Prelude_Num____Neg__Int(var_2, var_3)
-    Value * var_4 = trampoline(closure_537);                 // Prelude/Types.idr:473:14--473:84
+    Value * var_4 = trampoline(closure_537);                 // Prelude/Types.idr:493:14--493:84
     Value_Constructor* constructor_538 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Prelude/Types.idr:473:82--473:84
-     // constructor Prelude_Types_Nil                        // Prelude/Types.idr:473:82--473:84
-    Value * var_5 = (Value*)constructor_538;                 // Prelude/Types.idr:473:14--473:84
-    // start Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick(var_0, var_4, var_0, var_5)
-                                                             // Prelude/Types.idr:473:14--473:84
+                                                             // Prelude/Types.idr:493:82--493:84
+     // constructor Prelude_Types_Nil                        // Prelude/Types.idr:493:82--493:84
+    Value * var_5 = (Value*)constructor_538;                 // Prelude/Types.idr:493:14--493:84
+    // start Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick(var_0, var_4, var_0, var_5)
+                                                             // Prelude/Types.idr:493:14--493:84
     Value_Arglist *arglist_539 = newArglist(0,4);
     arglist_539->args[0] =  newReference(var_0);
     arglist_539->args[1] =  newReference(var_4);
     arglist_539->args[2] =  newReference(var_0);
     arglist_539->args[3] =  newReference(var_5);
-    Value *(*fPtr_540)(Value_Arglist*) = Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick_arglist;
-                                                             // Prelude/Types.idr:473:14--473:84
+    Value *(*fPtr_540)(Value_Arglist*) = Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick_arglist;
+                                                             // Prelude/Types.idr:493:14--493:84
     Value *closure_540 = (Value*)makeClosureFromArglist(fPtr_540, arglist_539);
-                                                             // Prelude/Types.idr:473:14--473:84
-    // end   Prelude_Types_n___parenOpen3950_comma_4045_parenClose_unpack_tick(var_0, var_4, var_0, var_5)
-                                                             // Prelude/Types.idr:473:14--473:84
+                                                             // Prelude/Types.idr:493:14--493:84
+    // end   Prelude_Types_n___parenOpen4246_comma_4410_parenClose_unpack_tick(var_0, var_4, var_0, var_5)
+                                                             // Prelude/Types.idr:493:14--493:84
     Value *returnValue = closure_540;
     removeReference(var_5);
     removeReference(var_4);
@@ -14390,14 +14390,14 @@ Value *Prelude_Types_pack
     Value * var_0
 )
 {
-    Value * tmp_542 = NULL;                                  // Prelude/Types.idr:456:8--456:17
-    AConAlt * constructorField_541= newConstructorField(2);  // Prelude/Types.idr:456:8--456:17
+    Value * tmp_542 = NULL;                                  // Prelude/Types.idr:476:8--476:17
+    AConAlt * constructorField_541= newConstructorField(2);  // Prelude/Types.idr:476:8--476:17
     constructorField_541[0].tag = 0;
     constructorField_541[0].name = NULL;
     constructorField_541[1].tag = 1;
     constructorField_541[1].name = NULL;
     switch(compareConstructors(var_0, constructorField_541, 2)){
-                                                             // Prelude/Types.idr:456:8--456:17
+                                                             // Prelude/Types.idr:476:8--476:17
       case 0:
       {
         tmp_542 = (Value*)makeString("");
@@ -14407,24 +14407,24 @@ Value *Prelude_Types_pack
       {
         Value * var_1 = ((Value_Constructor*)var_0)->args[0];
         Value * var_2 = ((Value_Constructor*)var_0)->args[1];
-        // start Prelude_Types_pack(var_2)                   // Prelude/Types.idr:458:29--458:36
+        // start Prelude_Types_pack(var_2)                   // Prelude/Types.idr:478:29--478:36
         Value_Arglist *arglist_543 = newArglist(0,1);
         arglist_543->args[0] =  newReference(var_2);
         Value *(*fPtr_544)(Value_Arglist*) = Prelude_Types_pack_arglist;
-                                                             // Prelude/Types.idr:458:29--458:36
+                                                             // Prelude/Types.idr:478:29--478:36
         Value *closure_544 = (Value*)makeClosureFromArglist(fPtr_544, arglist_543);
-                                                             // Prelude/Types.idr:458:29--458:36
-        // end   Prelude_Types_pack(var_2)                   // Prelude/Types.idr:458:29--458:36
-        Value * var_3 = trampoline(closure_544);             // Prelude/Types.idr:458:18--458:37
-        // start Prelude_Types_strCons(var_1, var_3)         // Prelude/Types.idr:458:18--458:37
+                                                             // Prelude/Types.idr:478:29--478:36
+        // end   Prelude_Types_pack(var_2)                   // Prelude/Types.idr:478:29--478:36
+        Value * var_3 = trampoline(closure_544);             // Prelude/Types.idr:478:18--478:37
+        // start Prelude_Types_strCons(var_1, var_3)         // Prelude/Types.idr:478:18--478:37
         Value_Arglist *arglist_545 = newArglist(0,2);
         arglist_545->args[0] =  newReference(var_1);
         arglist_545->args[1] =  newReference(var_3);
         Value *(*fPtr_546)(Value_Arglist*) = Prelude_Types_strCons_arglist;
-                                                             // Prelude/Types.idr:458:18--458:37
+                                                             // Prelude/Types.idr:478:18--478:37
         Value *closure_546 = (Value*)makeClosureFromArglist(fPtr_546, arglist_545);
-                                                             // Prelude/Types.idr:458:18--458:37
-        // end   Prelude_Types_strCons(var_1, var_3)         // Prelude/Types.idr:458:18--458:37
+                                                             // Prelude/Types.idr:478:18--478:37
+        // end   Prelude_Types_strCons(var_1, var_3)         // Prelude/Types.idr:478:18--478:37
         tmp_542 = trampoline(closure_546);
         removeReference(var_3);
         break;
@@ -14452,8 +14452,8 @@ Value *Prelude_Types_natToInteger
     Value * var_0
 )
 {
-    Value * tmp_547 = NULL;                                  // Prelude/Types.idr:78:16--78:19
-    switch(extractInt(var_0)){                               // Prelude/Types.idr:78:16--78:19
+    Value * tmp_547 = NULL;                                  // Prelude/Types.idr:85:16--85:19
+    switch(extractInt(var_0)){                               // Prelude/Types.idr:85:16--85:19
       case 0 :
       {
         tmp_547 = (Value*)makeInt64(0);
@@ -14462,7 +14462,7 @@ Value *Prelude_Types_natToInteger
       default :
       {
         Value * var_2 = (Value*)makeInt64(1);
-        Value * var_1 = sub_i64(var_0, var_2);               // Prelude/Types.idr:78:16--78:19
+        Value * var_1 = sub_i64(var_0, var_2);               // Prelude/Types.idr:85:16--85:19
         Value * var_3 = (Value*)makeInt64(1);
         tmp_547 = add_i64(var_3, var_1);
         removeReference(var_3);
@@ -14492,15 +14492,15 @@ Value *Prelude_Types_Strings_length
 )
 {
     Value * var_1 = stringLength(var_0);
-    Value * var_2 = cast_i32_to_i64(var_1);                  // Prelude/Types.idr:57:1--64:7
-    // start Prelude_Types_fromInteger_Num__Nat(var_2)       // Prelude/Types.idr:57:1--64:7
+    Value * var_2 = cast_i32_to_i64(var_1);                  // Prelude/Types.idr:64:1--71:7
+    // start Prelude_Types_fromInteger_Num__Nat(var_2)       // Prelude/Types.idr:64:1--71:7
     Value_Arglist *arglist_548 = newArglist(0,1);
     arglist_548->args[0] =  newReference(var_2);
     Value *(*fPtr_549)(Value_Arglist*) = Prelude_Types_fromInteger_Num__Nat_arglist;
-                                                             // Prelude/Types.idr:57:1--64:7
+                                                             // Prelude/Types.idr:64:1--71:7
     Value *closure_549 = (Value*)makeClosureFromArglist(fPtr_549, arglist_548);
-                                                             // Prelude/Types.idr:57:1--64:7
-    // end   Prelude_Types_fromInteger_Num__Nat(var_2)       // Prelude/Types.idr:57:1--64:7
+                                                             // Prelude/Types.idr:64:1--71:7
+    // end   Prelude_Types_fromInteger_Num__Nat(var_2)       // Prelude/Types.idr:64:1--71:7
     Value *returnValue = closure_549;
     removeReference(var_2);
     removeReference(var_1);
@@ -14532,22 +14532,22 @@ Value *Prelude_Types_isSpace
     Value *(*fPtr_551)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_551 = (Value*)makeClosureFromArglist(fPtr_551, arglist_550);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_0, var_1)
-    Value * var_2 = trampoline(closure_551);                 // Prelude/Types.idr:522:12--524:18
+    Value * var_2 = trampoline(closure_551);                 // Prelude/Types.idr:542:12--544:18
     Value_Arglist *arglist_552 = newArglist(1,2);
     arglist_552->args[0] =  newReference(var_0);
     Value *(*closure_553)(Value_Arglist*) = Prelude_Types_isSpace_5_arglist;
-                                                             // Prelude/Types.idr:522:25--524:18
+                                                             // Prelude/Types.idr:542:25--544:18
     Value * var_3 = (Value*)makeClosureFromArglist(closure_553, arglist_552);
-                                                             // Prelude/Types.idr:522:12--524:18
-    // start Prelude_Basics__or_or(var_2, var_3)             // Prelude/Types.idr:522:12--524:18
+                                                             // Prelude/Types.idr:542:12--544:18
+    // start Prelude_Basics__or_or(var_2, var_3)             // Prelude/Types.idr:542:12--544:18
     Value_Arglist *arglist_554 = newArglist(0,2);
     arglist_554->args[0] =  newReference(var_2);
     arglist_554->args[1] =  newReference(var_3);
     Value *(*fPtr_555)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:522:12--524:18
+                                                             // Prelude/Types.idr:542:12--544:18
     Value *closure_555 = (Value*)makeClosureFromArglist(fPtr_555, arglist_554);
-                                                             // Prelude/Types.idr:522:12--524:18
-    // end   Prelude_Basics__or_or(var_2, var_3)             // Prelude/Types.idr:522:12--524:18
+                                                             // Prelude/Types.idr:542:12--544:18
+    // end   Prelude_Basics__or_or(var_2, var_3)             // Prelude/Types.idr:542:12--544:18
     Value *returnValue = closure_555;
     removeReference(var_3);
     removeReference(var_2);
@@ -14581,23 +14581,23 @@ Value *Prelude_Types_isSpace_5
     Value *(*fPtr_557)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_557 = (Value*)makeClosureFromArglist(fPtr_557, arglist_556);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_0, var_2)
-    Value * var_3 = trampoline(closure_557);                 // Prelude/Types.idr:522:25--524:18
+    Value * var_3 = trampoline(closure_557);                 // Prelude/Types.idr:542:25--544:18
     Value_Arglist *arglist_558 = newArglist(1,3);
     arglist_558->args[0] =  newReference(var_1);
     arglist_558->args[1] =  newReference(var_0);
     Value *(*closure_559)(Value_Arglist*) = Prelude_Types_isSpace_4_arglist;
-                                                             // Prelude/Types.idr:522:38--524:18
+                                                             // Prelude/Types.idr:542:38--544:18
     Value * var_4 = (Value*)makeClosureFromArglist(closure_559, arglist_558);
-                                                             // Prelude/Types.idr:522:25--524:18
-    // start Prelude_Basics__or_or(var_3, var_4)             // Prelude/Types.idr:522:25--524:18
+                                                             // Prelude/Types.idr:542:25--544:18
+    // start Prelude_Basics__or_or(var_3, var_4)             // Prelude/Types.idr:542:25--544:18
     Value_Arglist *arglist_560 = newArglist(0,2);
     arglist_560->args[0] =  newReference(var_3);
     arglist_560->args[1] =  newReference(var_4);
     Value *(*fPtr_561)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:522:25--524:18
+                                                             // Prelude/Types.idr:542:25--544:18
     Value *closure_561 = (Value*)makeClosureFromArglist(fPtr_561, arglist_560);
-                                                             // Prelude/Types.idr:522:25--524:18
-    // end   Prelude_Basics__or_or(var_3, var_4)             // Prelude/Types.idr:522:25--524:18
+                                                             // Prelude/Types.idr:542:25--544:18
+    // end   Prelude_Basics__or_or(var_3, var_4)             // Prelude/Types.idr:542:25--544:18
     Value *returnValue = closure_561;
     removeReference(var_4);
     removeReference(var_3);
@@ -14633,24 +14633,24 @@ Value *Prelude_Types_isSpace_4
     Value *(*fPtr_563)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_563 = (Value*)makeClosureFromArglist(fPtr_563, arglist_562);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_1, var_3)
-    Value * var_4 = trampoline(closure_563);                 // Prelude/Types.idr:522:38--524:18
+    Value * var_4 = trampoline(closure_563);                 // Prelude/Types.idr:542:38--544:18
     Value_Arglist *arglist_564 = newArglist(1,4);
     arglist_564->args[0] =  newReference(var_2);
     arglist_564->args[1] =  newReference(var_0);
     arglist_564->args[2] =  newReference(var_1);
     Value *(*closure_565)(Value_Arglist*) = Prelude_Types_isSpace_3_arglist;
-                                                             // Prelude/Types.idr:523:12--524:18
+                                                             // Prelude/Types.idr:543:12--544:18
     Value * var_5 = (Value*)makeClosureFromArglist(closure_565, arglist_564);
-                                                             // Prelude/Types.idr:522:38--524:18
-    // start Prelude_Basics__or_or(var_4, var_5)             // Prelude/Types.idr:522:38--524:18
+                                                             // Prelude/Types.idr:542:38--544:18
+    // start Prelude_Basics__or_or(var_4, var_5)             // Prelude/Types.idr:542:38--544:18
     Value_Arglist *arglist_566 = newArglist(0,2);
     arglist_566->args[0] =  newReference(var_4);
     arglist_566->args[1] =  newReference(var_5);
     Value *(*fPtr_567)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:522:38--524:18
+                                                             // Prelude/Types.idr:542:38--544:18
     Value *closure_567 = (Value*)makeClosureFromArglist(fPtr_567, arglist_566);
-                                                             // Prelude/Types.idr:522:38--524:18
-    // end   Prelude_Basics__or_or(var_4, var_5)             // Prelude/Types.idr:522:38--524:18
+                                                             // Prelude/Types.idr:542:38--544:18
+    // end   Prelude_Basics__or_or(var_4, var_5)             // Prelude/Types.idr:542:38--544:18
     Value *returnValue = closure_567;
     removeReference(var_5);
     removeReference(var_4);
@@ -14688,25 +14688,25 @@ Value *Prelude_Types_isSpace_3
     Value *(*fPtr_569)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_569 = (Value*)makeClosureFromArglist(fPtr_569, arglist_568);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_2, var_4)
-    Value * var_5 = trampoline(closure_569);                 // Prelude/Types.idr:523:12--524:18
+    Value * var_5 = trampoline(closure_569);                 // Prelude/Types.idr:543:12--544:18
     Value_Arglist *arglist_570 = newArglist(1,5);
     arglist_570->args[0] =  newReference(var_3);
     arglist_570->args[1] =  newReference(var_0);
     arglist_570->args[2] =  newReference(var_1);
     arglist_570->args[3] =  newReference(var_2);
     Value *(*closure_571)(Value_Arglist*) = Prelude_Types_isSpace_2_arglist;
-                                                             // Prelude/Types.idr:523:25--524:18
+                                                             // Prelude/Types.idr:543:25--544:18
     Value * var_6 = (Value*)makeClosureFromArglist(closure_571, arglist_570);
-                                                             // Prelude/Types.idr:523:12--524:18
-    // start Prelude_Basics__or_or(var_5, var_6)             // Prelude/Types.idr:523:12--524:18
+                                                             // Prelude/Types.idr:543:12--544:18
+    // start Prelude_Basics__or_or(var_5, var_6)             // Prelude/Types.idr:543:12--544:18
     Value_Arglist *arglist_572 = newArglist(0,2);
     arglist_572->args[0] =  newReference(var_5);
     arglist_572->args[1] =  newReference(var_6);
     Value *(*fPtr_573)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:523:12--524:18
+                                                             // Prelude/Types.idr:543:12--544:18
     Value *closure_573 = (Value*)makeClosureFromArglist(fPtr_573, arglist_572);
-                                                             // Prelude/Types.idr:523:12--524:18
-    // end   Prelude_Basics__or_or(var_5, var_6)             // Prelude/Types.idr:523:12--524:18
+                                                             // Prelude/Types.idr:543:12--544:18
+    // end   Prelude_Basics__or_or(var_5, var_6)             // Prelude/Types.idr:543:12--544:18
     Value *returnValue = closure_573;
     removeReference(var_6);
     removeReference(var_5);
@@ -14746,7 +14746,7 @@ Value *Prelude_Types_isSpace_2
     Value *(*fPtr_575)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_575 = (Value*)makeClosureFromArglist(fPtr_575, arglist_574);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_3, var_5)
-    Value * var_6 = trampoline(closure_575);                 // Prelude/Types.idr:523:25--524:18
+    Value * var_6 = trampoline(closure_575);                 // Prelude/Types.idr:543:25--544:18
     Value_Arglist *arglist_576 = newArglist(1,6);
     arglist_576->args[0] =  newReference(var_4);
     arglist_576->args[1] =  newReference(var_0);
@@ -14754,18 +14754,18 @@ Value *Prelude_Types_isSpace_2
     arglist_576->args[3] =  newReference(var_2);
     arglist_576->args[4] =  newReference(var_3);
     Value *(*closure_577)(Value_Arglist*) = Prelude_Types_isSpace_1_arglist;
-                                                             // Prelude/Types.idr:523:38--524:18
+                                                             // Prelude/Types.idr:543:38--544:18
     Value * var_7 = (Value*)makeClosureFromArglist(closure_577, arglist_576);
-                                                             // Prelude/Types.idr:523:25--524:18
-    // start Prelude_Basics__or_or(var_6, var_7)             // Prelude/Types.idr:523:25--524:18
+                                                             // Prelude/Types.idr:543:25--544:18
+    // start Prelude_Basics__or_or(var_6, var_7)             // Prelude/Types.idr:543:25--544:18
     Value_Arglist *arglist_578 = newArglist(0,2);
     arglist_578->args[0] =  newReference(var_6);
     arglist_578->args[1] =  newReference(var_7);
     Value *(*fPtr_579)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:523:25--524:18
+                                                             // Prelude/Types.idr:543:25--544:18
     Value *closure_579 = (Value*)makeClosureFromArglist(fPtr_579, arglist_578);
-                                                             // Prelude/Types.idr:523:25--524:18
-    // end   Prelude_Basics__or_or(var_6, var_7)             // Prelude/Types.idr:523:25--524:18
+                                                             // Prelude/Types.idr:543:25--544:18
+    // end   Prelude_Basics__or_or(var_6, var_7)             // Prelude/Types.idr:543:25--544:18
     Value *returnValue = closure_579;
     removeReference(var_7);
     removeReference(var_6);
@@ -14807,7 +14807,7 @@ Value *Prelude_Types_isSpace_1
     Value *(*fPtr_581)(Value_Arglist*) = Prelude_EqOrd__eq_eq_Eq__Char_arglist;
     Value *closure_581 = (Value*)makeClosureFromArglist(fPtr_581, arglist_580);
     // end   Prelude_EqOrd__eq_eq_Eq__Char(var_4, var_6)
-    Value * var_7 = trampoline(closure_581);                 // Prelude/Types.idr:523:38--524:18
+    Value * var_7 = trampoline(closure_581);                 // Prelude/Types.idr:543:38--544:18
     Value_Arglist *arglist_582 = newArglist(1,7);
     arglist_582->args[0] =  newReference(var_5);
     arglist_582->args[1] =  newReference(var_0);
@@ -14816,18 +14816,18 @@ Value *Prelude_Types_isSpace_1
     arglist_582->args[4] =  newReference(var_3);
     arglist_582->args[5] =  newReference(var_4);
     Value *(*closure_583)(Value_Arglist*) = Prelude_Types_isSpace_0_arglist;
-                                                             // Prelude/Types.idr:524:7--524:18
+                                                             // Prelude/Types.idr:544:7--544:18
     Value * var_8 = (Value*)makeClosureFromArglist(closure_583, arglist_582);
-                                                             // Prelude/Types.idr:523:38--524:18
-    // start Prelude_Basics__or_or(var_7, var_8)             // Prelude/Types.idr:523:38--524:18
+                                                             // Prelude/Types.idr:543:38--544:18
+    // start Prelude_Basics__or_or(var_7, var_8)             // Prelude/Types.idr:543:38--544:18
     Value_Arglist *arglist_584 = newArglist(0,2);
     arglist_584->args[0] =  newReference(var_7);
     arglist_584->args[1] =  newReference(var_8);
     Value *(*fPtr_585)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:523:38--524:18
+                                                             // Prelude/Types.idr:543:38--544:18
     Value *closure_585 = (Value*)makeClosureFromArglist(fPtr_585, arglist_584);
-                                                             // Prelude/Types.idr:523:38--524:18
-    // end   Prelude_Basics__or_or(var_7, var_8)             // Prelude/Types.idr:523:38--524:18
+                                                             // Prelude/Types.idr:543:38--544:18
+    // end   Prelude_Basics__or_or(var_7, var_8)             // Prelude/Types.idr:543:38--544:18
     Value *returnValue = closure_585;
     removeReference(var_8);
     removeReference(var_7);
@@ -14907,22 +14907,22 @@ Value *Prelude_Types_isDigit
     Value *(*fPtr_589)(Value_Arglist*) = Prelude_EqOrd__gt_eq_Ord__Char_arglist;
     Value *closure_589 = (Value*)makeClosureFromArglist(fPtr_589, arglist_588);
     // end   Prelude_EqOrd__gt_eq_Ord__Char(var_0, var_1)
-    Value * var_2 = trampoline(closure_589);                 // Prelude/Types.idr:511:19--511:34
+    Value * var_2 = trampoline(closure_589);                 // Prelude/Types.idr:531:19--531:34
     Value_Arglist *arglist_590 = newArglist(1,2);
     arglist_590->args[0] =  newReference(var_0);
     Value *(*closure_591)(Value_Arglist*) = Prelude_Types_isDigit_0_arglist;
-                                                             // Prelude/Types.idr:511:26--511:34
+                                                             // Prelude/Types.idr:531:26--531:34
     Value * var_3 = (Value*)makeClosureFromArglist(closure_591, arglist_590);
-                                                             // Prelude/Types.idr:511:19--511:34
-    // start Prelude_Basics__and_and(var_2, var_3)           // Prelude/Types.idr:511:19--511:34
+                                                             // Prelude/Types.idr:531:19--531:34
+    // start Prelude_Basics__and_and(var_2, var_3)           // Prelude/Types.idr:531:19--531:34
     Value_Arglist *arglist_592 = newArglist(0,2);
     arglist_592->args[0] =  newReference(var_2);
     arglist_592->args[1] =  newReference(var_3);
     Value *(*fPtr_593)(Value_Arglist*) = Prelude_Basics__and_and_arglist;
-                                                             // Prelude/Types.idr:511:19--511:34
+                                                             // Prelude/Types.idr:531:19--531:34
     Value *closure_593 = (Value*)makeClosureFromArglist(fPtr_593, arglist_592);
-                                                             // Prelude/Types.idr:511:19--511:34
-    // end   Prelude_Basics__and_and(var_2, var_3)           // Prelude/Types.idr:511:19--511:34
+                                                             // Prelude/Types.idr:531:19--531:34
+    // end   Prelude_Basics__and_and(var_2, var_3)           // Prelude/Types.idr:531:19--531:34
     Value *returnValue = closure_593;
     removeReference(var_3);
     removeReference(var_2);
@@ -14993,18 +14993,18 @@ Value *Prelude_Types_integerToNat
         tmp_596 = (Value*)makeInt32(0);
       }
     }
-    Value * var_3 = tmp_596;                                 // Prelude/Types.idr:30:5--32:68
-    // start Prelude_Types_case___quotationintegerToNat_quotation_537(var_0, var_3)
-                                                             // Prelude/Types.idr:30:5--32:68
+    Value * var_3 = tmp_596;                                 // Prelude/Types.idr:37:5--39:68
+    // start Prelude_Types_case___quotationintegerToNat_quotation_640(var_0, var_3)
+                                                             // Prelude/Types.idr:37:5--39:68
     Value_Arglist *arglist_597 = newArglist(0,2);
     arglist_597->args[0] =  newReference(var_0);
     arglist_597->args[1] =  newReference(var_3);
-    Value *(*fPtr_598)(Value_Arglist*) = Prelude_Types_case___quotationintegerToNat_quotation_537_arglist;
-                                                             // Prelude/Types.idr:30:5--32:68
+    Value *(*fPtr_598)(Value_Arglist*) = Prelude_Types_case___quotationintegerToNat_quotation_640_arglist;
+                                                             // Prelude/Types.idr:37:5--39:68
     Value *closure_598 = (Value*)makeClosureFromArglist(fPtr_598, arglist_597);
-                                                             // Prelude/Types.idr:30:5--32:68
-    // end   Prelude_Types_case___quotationintegerToNat_quotation_537(var_0, var_3)
-                                                             // Prelude/Types.idr:30:5--32:68
+                                                             // Prelude/Types.idr:37:5--39:68
+    // end   Prelude_Types_case___quotationintegerToNat_quotation_640(var_0, var_3)
+                                                             // Prelude/Types.idr:37:5--39:68
     Value *returnValue = closure_598;
     removeReference(var_3);
     removeReference(var_2);
@@ -15032,14 +15032,14 @@ Value *Prelude_Types_elem
 ,   Value * var_3
 )
 {
-    Value * tmp_600 = NULL;                                  // Prelude/Types.idr:352:21--352:27
-    AConAlt * constructorField_599= newConstructorField(2);  // Prelude/Types.idr:352:21--352:27
+    Value * tmp_600 = NULL;                                  // Prelude/Types.idr:372:21--372:27
+    AConAlt * constructorField_599= newConstructorField(2);  // Prelude/Types.idr:372:21--372:27
     constructorField_599[0].tag = 0;
     constructorField_599[0].name = NULL;
     constructorField_599[1].tag = 1;
     constructorField_599[1].name = NULL;
     switch(compareConstructors(var_3, constructorField_599, 2)){
-                                                             // Prelude/Types.idr:352:21--352:27
+                                                             // Prelude/Types.idr:372:21--372:27
       case 0:
       {
         tmp_600 = (Value*)makeInt32(1);
@@ -15067,7 +15067,7 @@ Value *Prelude_Types_elem
           }
         }
         free(constructorField_601);
-        Value * var_9 = tmp_602;                             // Prelude/Types.idr:354:27--354:42
+        Value * var_9 = tmp_602;                             // Prelude/Types.idr:374:27--374:42
         Value_Arglist *arglist_603 = newArglist(1,7);
         arglist_603->args[0] =  newReference(var_4);
         arglist_603->args[1] =  newReference(var_5);
@@ -15076,18 +15076,18 @@ Value *Prelude_Types_elem
         arglist_603->args[4] =  newReference(var_2);
         arglist_603->args[5] =  newReference(var_3);
         Value *(*closure_604)(Value_Arglist*) = Prelude_Types_elem_0_arglist;
-                                                             // Prelude/Types.idr:354:33--354:42
+                                                             // Prelude/Types.idr:374:33--374:42
         Value * var_10 = (Value*)makeClosureFromArglist(closure_604, arglist_603);
-                                                             // Prelude/Types.idr:354:27--354:42
-        // start Prelude_Basics__or_or(var_9, var_10)        // Prelude/Types.idr:354:27--354:42
+                                                             // Prelude/Types.idr:374:27--374:42
+        // start Prelude_Basics__or_or(var_9, var_10)        // Prelude/Types.idr:374:27--374:42
         Value_Arglist *arglist_605 = newArglist(0,2);
         arglist_605->args[0] =  newReference(var_9);
         arglist_605->args[1] =  newReference(var_10);
         Value *(*fPtr_606)(Value_Arglist*) = Prelude_Basics__or_or_arglist;
-                                                             // Prelude/Types.idr:354:27--354:42
+                                                             // Prelude/Types.idr:374:27--374:42
         Value *closure_606 = (Value*)makeClosureFromArglist(fPtr_606, arglist_605);
-                                                             // Prelude/Types.idr:354:27--354:42
-        // end   Prelude_Basics__or_or(var_9, var_10)        // Prelude/Types.idr:354:27--354:42
+                                                             // Prelude/Types.idr:374:27--374:42
+        // end   Prelude_Basics__or_or(var_9, var_10)        // Prelude/Types.idr:374:27--374:42
         tmp_600 = trampoline(closure_606);
         removeReference(var_10);
         removeReference(var_9);
@@ -15125,17 +15125,17 @@ Value *Prelude_Types_elem_0
 ,   Value * var_6
 )
 {
-    // start Prelude_Types_elem(NULL, var_3, var_4, var_1)   // Prelude/Types.idr:354:33--354:42
+    // start Prelude_Types_elem(NULL, var_3, var_4, var_1)   // Prelude/Types.idr:374:33--374:42
     Value_Arglist *arglist_607 = newArglist(0,4);
     arglist_607->args[0] =  newReference(NULL);
     arglist_607->args[1] =  newReference(var_3);
     arglist_607->args[2] =  newReference(var_4);
     arglist_607->args[3] =  newReference(var_1);
     Value *(*fPtr_608)(Value_Arglist*) = Prelude_Types_elem_arglist;
-                                                             // Prelude/Types.idr:354:33--354:42
+                                                             // Prelude/Types.idr:374:33--374:42
     Value *closure_608 = (Value*)makeClosureFromArglist(fPtr_608, arglist_607);
-                                                             // Prelude/Types.idr:354:33--354:42
-    // end   Prelude_Types_elem(NULL, var_3, var_4, var_1)   // Prelude/Types.idr:354:33--354:42
+                                                             // Prelude/Types.idr:374:33--374:42
+    // end   Prelude_Types_elem(NULL, var_3, var_4, var_1)   // Prelude/Types.idr:374:33--374:42
     Value *returnValue = closure_608;
     return returnValue;
 }
@@ -17717,7 +17717,7 @@ Value *Prelude_Interfaces__gt_gt_eq_0_arglist(Value_Arglist* arglist)
 
 
 
-Value *PrimIO_case___quotationunsafePerformIO_quotation_442
+Value *PrimIO_case___quotationunsafePerformIO_quotation_531
 (
     Value * var_0
 ,   Value * var_1
@@ -17740,9 +17740,9 @@ Value *PrimIO_case___quotationunsafePerformIO_quotation_442
 }
 
 
-Value *PrimIO_case___quotationunsafePerformIO_quotation_442_arglist(Value_Arglist* arglist)
+Value *PrimIO_case___quotationunsafePerformIO_quotation_531_arglist(Value_Arglist* arglist)
 {
-    return PrimIO_case___quotationunsafePerformIO_quotation_442
+    return PrimIO_case___quotationunsafePerformIO_quotation_531
         (
               arglist->args[0]
             , arglist->args[1]
@@ -17754,7 +17754,7 @@ Value *PrimIO_case___quotationunsafePerformIO_quotation_442_arglist(Value_Arglis
 
 
 
-Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363
+Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_452
 (
     Value * var_0
 ,   Value * var_1
@@ -17771,9 +17771,9 @@ Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363
 }
 
 
-Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363_arglist(Value_Arglist* arglist)
+Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_452_arglist(Value_Arglist* arglist)
 {
-    return PrimIO_case___quotationcase_block_in_io_bind_quotation_363
+    return PrimIO_case___quotationcase_block_in_io_bind_quotation_452
         (
               arglist->args[0]
             , arglist->args[1]
@@ -17789,7 +17789,7 @@ Value *PrimIO_case___quotationcase_block_in_io_bind_quotation_363_arglist(Value_
 
 
 
-Value *PrimIO_case___quotationio_bind_quotation_341
+Value *PrimIO_case___quotationio_bind_quotation_430
 (
     Value * var_0
 ,   Value * var_1
@@ -17800,7 +17800,7 @@ Value *PrimIO_case___quotationio_bind_quotation_341
 )
 {
     Value * var_6 = apply_closure(var_3, var_5);             // PrimIO.idr:41:23--41:41
-    // start PrimIO_case___quotationcase_block_in_io_bind_quotation_363(NULL, NULL, NULL, NULL, NULL, var_5, NULL, var_6)
+    // start PrimIO_case___quotationcase_block_in_io_bind_quotation_452(NULL, NULL, NULL, NULL, NULL, var_5, NULL, var_6)
                                                              // PrimIO.idr:41:23--41:41
     Value_Arglist *arglist_763 = newArglist(0,8);
     arglist_763->args[0] =  newReference(NULL);
@@ -17811,11 +17811,11 @@ Value *PrimIO_case___quotationio_bind_quotation_341
     arglist_763->args[5] =  newReference(var_5);
     arglist_763->args[6] =  newReference(NULL);
     arglist_763->args[7] =  newReference(var_6);
-    Value *(*fPtr_764)(Value_Arglist*) = PrimIO_case___quotationcase_block_in_io_bind_quotation_363_arglist;
+    Value *(*fPtr_764)(Value_Arglist*) = PrimIO_case___quotationcase_block_in_io_bind_quotation_452_arglist;
                                                              // PrimIO.idr:41:23--41:41
     Value *closure_764 = (Value*)makeClosureFromArglist(fPtr_764, arglist_763);
                                                              // PrimIO.idr:41:23--41:41
-    // end   PrimIO_case___quotationcase_block_in_io_bind_quotation_363(NULL, NULL, NULL, NULL, NULL, var_5, NULL, var_6)
+    // end   PrimIO_case___quotationcase_block_in_io_bind_quotation_452(NULL, NULL, NULL, NULL, NULL, var_5, NULL, var_6)
                                                              // PrimIO.idr:41:23--41:41
     Value *returnValue = closure_764;
     removeReference(var_6);
@@ -17823,9 +17823,9 @@ Value *PrimIO_case___quotationio_bind_quotation_341
 }
 
 
-Value *PrimIO_case___quotationio_bind_quotation_341_arglist(Value_Arglist* arglist)
+Value *PrimIO_case___quotationio_bind_quotation_430_arglist(Value_Arglist* arglist)
 {
-    return PrimIO_case___quotationio_bind_quotation_341
+    return PrimIO_case___quotationio_bind_quotation_430
         (
               arglist->args[0]
             , arglist->args[1]
@@ -17887,18 +17887,18 @@ Value *PrimIO_unsafePerformIO_0
 )
 {
     Value * var_3 = apply_closure(var_1, var_2);             // PrimIO.idr:103:32--104:76
-    // start PrimIO_case___quotationunsafePerformIO_quotation_442(NULL, NULL, NULL, var_3)
+    // start PrimIO_case___quotationunsafePerformIO_quotation_531(NULL, NULL, NULL, var_3)
                                                              // PrimIO.idr:103:32--104:76
     Value_Arglist *arglist_769 = newArglist(0,4);
     arglist_769->args[0] =  newReference(NULL);
     arglist_769->args[1] =  newReference(NULL);
     arglist_769->args[2] =  newReference(NULL);
     arglist_769->args[3] =  newReference(var_3);
-    Value *(*fPtr_770)(Value_Arglist*) = PrimIO_case___quotationunsafePerformIO_quotation_442_arglist;
+    Value *(*fPtr_770)(Value_Arglist*) = PrimIO_case___quotationunsafePerformIO_quotation_531_arglist;
                                                              // PrimIO.idr:103:32--104:76
     Value *closure_770 = (Value*)makeClosureFromArglist(fPtr_770, arglist_769);
                                                              // PrimIO.idr:103:32--104:76
-    // end   PrimIO_case___quotationunsafePerformIO_quotation_442(NULL, NULL, NULL, var_3)
+    // end   PrimIO_case___quotationunsafePerformIO_quotation_531(NULL, NULL, NULL, var_3)
                                                              // PrimIO.idr:103:32--104:76
     Value *returnValue = closure_770;
     removeReference(var_3);
@@ -18079,7 +18079,7 @@ Value *PrimIO_io_bind
 )
 {
     Value * var_5 = apply_closure(var_2, var_4);             // PrimIO.idr:40:23--41:27
-    // start PrimIO_case___quotationio_bind_quotation_341(NULL, NULL, NULL, var_3, NULL, var_5)
+    // start PrimIO_case___quotationio_bind_quotation_430(NULL, NULL, NULL, var_3, NULL, var_5)
                                                              // PrimIO.idr:40:23--41:27
     Value_Arglist *arglist_777 = newArglist(0,6);
     arglist_777->args[0] =  newReference(NULL);
@@ -18088,11 +18088,11 @@ Value *PrimIO_io_bind
     arglist_777->args[3] =  newReference(var_3);
     arglist_777->args[4] =  newReference(NULL);
     arglist_777->args[5] =  newReference(var_5);
-    Value *(*fPtr_778)(Value_Arglist*) = PrimIO_case___quotationio_bind_quotation_341_arglist;
+    Value *(*fPtr_778)(Value_Arglist*) = PrimIO_case___quotationio_bind_quotation_430_arglist;
                                                              // PrimIO.idr:40:23--41:27
     Value *closure_778 = (Value*)makeClosureFromArglist(fPtr_778, arglist_777);
                                                              // PrimIO.idr:40:23--41:27
-    // end   PrimIO_case___quotationio_bind_quotation_341(NULL, NULL, NULL, var_3, NULL, var_5)
+    // end   PrimIO_case___quotationio_bind_quotation_430(NULL, NULL, NULL, var_3, NULL, var_5)
                                                              // PrimIO.idr:40:23--41:27
     Value *returnValue = closure_778;
     removeReference(var_5);
@@ -18141,7 +18141,7 @@ Value *PrimIO_fromPrim_arglist(Value_Arglist* arglist)
 // Constructor tag Nothing arity 0
 
 
-Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
+Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577
 (
     Value * var_0
 ,   Value * var_1
@@ -18154,7 +18154,7 @@ Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
         Value_Arglist *arglist_780 = newArglist(1,3);
         arglist_780->args[0] =  newReference(var_0);
         arglist_780->args[1] =  newReference(var_1);
-        Value *(*closure_781)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1_arglist;
+        Value *(*closure_781)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1_arglist;
                                                              // Prelude/Show.idr:148:31--148:94
         tmp_779 = (Value*)makeClosureFromArglist(closure_781, arglist_780);
         break;
@@ -18164,7 +18164,7 @@ Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
         Value_Arglist *arglist_782 = newArglist(1,3);
         arglist_782->args[0] =  newReference(var_0);
         arglist_782->args[1] =  newReference(var_1);
-        Value *(*closure_783)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2_arglist;
+        Value *(*closure_783)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2_arglist;
                                                              // Prelude/Show.idr:149:31--149:40
         tmp_779 = (Value*)makeClosureFromArglist(closure_783, arglist_782);
         break;
@@ -18175,9 +18175,9 @@ Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
 }
 
 
-Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212
+    return Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18187,7 +18187,7 @@ Value *Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212_arg
 
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2
 (
     Value * var_0
 ,   Value * var_1
@@ -18208,9 +18208,9 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 }
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_2
+    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_2
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18221,7 +18221,7 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1
 (
     Value * var_0
 ,   Value * var_1
@@ -18233,7 +18233,7 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
     arglist_786->args[0] =  newReference(var_2);
     arglist_786->args[1] =  newReference(var_0);
     arglist_786->args[2] =  newReference(var_1);
-    Value *(*closure_787)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0_arglist;
+    Value *(*closure_787)(Value_Arglist*) = Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0_arglist;
                                                              // Prelude/Show.idr:148:57--148:64
     Value * var_4 = (Value*)makeClosureFromArglist(closure_787, arglist_786);
                                                              // Prelude/Show.idr:148:46--148:94
@@ -18277,9 +18277,9 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 }
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_1
+    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_1
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18290,7 +18290,7 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -18311,9 +18311,9 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 }
 
 
-Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_parenClose_0
+    return Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6577_parenClose_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18325,7 +18325,7 @@ Value *Prelude_Show_case_block_in_case_block_in_showLitChar__parenOpen6212_paren
 
 
 
-Value *Prelude_Show_case___quotationshowLitChar_quotation_6189
+Value *Prelude_Show_case___quotationshowLitChar_quotation_6554
 (
     Value * var_0
 ,   Value * var_1
@@ -18346,7 +18346,7 @@ Value *Prelude_Show_case___quotationshowLitChar_quotation_6189
         arglist_798->args[0] =  newReference(var_2);
         arglist_798->args[1] =  newReference(var_0);
         arglist_798->args[2] =  newReference(var_1);
-        Value *(*closure_799)(Value_Arglist*) = Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0_arglist;
+        Value *(*closure_799)(Value_Arglist*) = Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0_arglist;
                                                              // Prelude/Show.idr:146:22--146:43
         tmp_797 = (Value*)makeClosureFromArglist(closure_799, arglist_798);
         break;
@@ -18362,16 +18362,16 @@ Value *Prelude_Show_case___quotationshowLitChar_quotation_6189
         Value *closure_801 = (Value*)makeClosureFromArglist(fPtr_801, arglist_800);
         // end   Prelude_EqOrd__gt_Ord__Char(var_0, var_3)
         Value * var_4 = trampoline(closure_801);             // Prelude/Show.idr:147:23--149:40
-        // start Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212(var_0, var_4)
+        // start Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577(var_0, var_4)
                                                              // Prelude/Show.idr:147:23--149:40
         Value_Arglist *arglist_802 = newArglist(0,2);
         arglist_802->args[0] =  newReference(var_0);
         arglist_802->args[1] =  newReference(var_4);
-        Value *(*fPtr_803)(Value_Arglist*) = Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212_arglist;
+        Value *(*fPtr_803)(Value_Arglist*) = Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577_arglist;
                                                              // Prelude/Show.idr:147:23--149:40
         Value *closure_803 = (Value*)makeClosureFromArglist(fPtr_803, arglist_802);
                                                              // Prelude/Show.idr:147:23--149:40
-        // end   Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6212(var_0, var_4)
+        // end   Prelude_Show_case___quotationcase_block_in_showLitChar_quotation_6577(var_0, var_4)
                                                              // Prelude/Show.idr:147:23--149:40
         tmp_797 = trampoline(closure_803);
         removeReference(var_4);
@@ -18385,9 +18385,9 @@ Value *Prelude_Show_case___quotationshowLitChar_quotation_6189
 }
 
 
-Value *Prelude_Show_case___quotationshowLitChar_quotation_6189_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case___quotationshowLitChar_quotation_6554_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case___quotationshowLitChar_quotation_6189
+    return Prelude_Show_case___quotationshowLitChar_quotation_6554
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18397,7 +18397,7 @@ Value *Prelude_Show_case___quotationshowLitChar_quotation_6189_arglist(Value_Arg
 
 
 
-Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0
+Value *Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
@@ -18432,9 +18432,9 @@ Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0
 }
 
 
-Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0
+    return Prelude_Show_case_block_in_showLitChar__parenOpen6554_parenClose_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18446,7 +18446,7 @@ Value *Prelude_Show_case_block_in_showLitChar__parenOpen6189_parenClose_0_arglis
 
 
 
-Value *Prelude_Show_case___quotationprotectEsc_quotation_5936
+Value *Prelude_Show_case___quotationprotectEsc_quotation_6301
 (
     Value * var_0
 ,   Value * var_1
@@ -18472,9 +18472,9 @@ Value *Prelude_Show_case___quotationprotectEsc_quotation_5936
 }
 
 
-Value *Prelude_Show_case___quotationprotectEsc_quotation_5936_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case___quotationprotectEsc_quotation_6301_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case___quotationprotectEsc_quotation_5936
+    return Prelude_Show_case___quotationprotectEsc_quotation_6301
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18486,7 +18486,7 @@ Value *Prelude_Show_case___quotationprotectEsc_quotation_5936_arglist(Value_Argl
 
 
 
-Value *Prelude_Show_case___quotationmax_quotation_5678
+Value *Prelude_Show_case___quotationmax_quotation_6043
 (
     Value * var_0
 ,   Value * var_1
@@ -18511,9 +18511,9 @@ Value *Prelude_Show_case___quotationmax_quotation_5678
 }
 
 
-Value *Prelude_Show_case___quotationmax_quotation_5678_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case___quotationmax_quotation_6043_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case___quotationmax_quotation_5678
+    return Prelude_Show_case___quotationmax_quotation_6043
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18524,7 +18524,7 @@ Value *Prelude_Show_case___quotationmax_quotation_5678_arglist(Value_Arglist* ar
 
 
 
-Value *Prelude_Show_case___quotationmin_quotation_5664
+Value *Prelude_Show_case___quotationmin_quotation_6029
 (
     Value * var_0
 ,   Value * var_1
@@ -18549,9 +18549,9 @@ Value *Prelude_Show_case___quotationmin_quotation_5664
 }
 
 
-Value *Prelude_Show_case___quotationmin_quotation_5664_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_case___quotationmin_quotation_6029_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_case___quotationmin_quotation_5664
+    return Prelude_Show_case___quotationmin_quotation_6029
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18562,7 +18562,7 @@ Value *Prelude_Show_case___quotationmin_quotation_5664_arglist(Value_Arglist* ar
 
 
 
-Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
+Value *Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick
 (
     Value * var_0
 ,   Value * var_1
@@ -18670,7 +18670,7 @@ Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
             // end   Prelude_Types_Strings__plus_plus(var_3, var_14)
                                                              // Prelude/Show.idr:205:36--205:57
             Value * var_15 = trampoline(closure_824);        // Prelude/Show.idr:205:29--205:61
-            // start Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick(NULL, var_1, var_2, var_15, var_6)
+            // start Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick(NULL, var_1, var_2, var_15, var_6)
                                                              // Prelude/Show.idr:205:29--205:61
             Value_Arglist *arglist_825 = newArglist(0,5);
             arglist_825->args[0] =  newReference(NULL);
@@ -18678,11 +18678,11 @@ Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
             arglist_825->args[2] =  newReference(var_2);
             arglist_825->args[3] =  newReference(var_15);
             arglist_825->args[4] =  newReference(var_6);
-            Value *(*fPtr_826)(Value_Arglist*) = Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick_arglist;
+            Value *(*fPtr_826)(Value_Arglist*) = Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick_arglist;
                                                              // Prelude/Show.idr:205:29--205:61
             Value *closure_826 = (Value*)makeClosureFromArglist(fPtr_826, arglist_825);
                                                              // Prelude/Show.idr:205:29--205:61
-            // end   Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick(NULL, var_1, var_2, var_15, var_6)
+            // end   Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick(NULL, var_1, var_2, var_15, var_6)
                                                              // Prelude/Show.idr:205:29--205:61
             tmp_814 = trampoline(closure_826);
             removeReference(var_15);
@@ -18702,9 +18702,9 @@ Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
 }
 
 
-Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick
+    return Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18717,7 +18717,7 @@ Value *Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick_arglist(Va
 
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt
+Value *Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt
 (
     Value * var_0
 ,   Value * var_1
@@ -18786,17 +18786,17 @@ Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt
           {
             Value * var_7 = ((Value_Constructor*)var_2)->args[0];
             Value * var_8 = ((Value_Constructor*)var_2)->args[1];
-            // start Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt(var_0, var_5, var_8)
+            // start Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt(var_0, var_5, var_8)
                                                              // Prelude/Show.idr:160:29--160:39
             Value_Arglist *arglist_836 = newArglist(0,3);
             arglist_836->args[0] =  newReference(var_0);
             arglist_836->args[1] =  newReference(var_5);
             arglist_836->args[2] =  newReference(var_8);
-            Value *(*fPtr_837)(Value_Arglist*) = Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt_arglist;
+            Value *(*fPtr_837)(Value_Arglist*) = Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt_arglist;
                                                              // Prelude/Show.idr:160:29--160:39
             Value *closure_837 = (Value*)makeClosureFromArglist(fPtr_837, arglist_836);
                                                              // Prelude/Show.idr:160:29--160:39
-            // end   Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt(var_0, var_5, var_8)
+            // end   Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt(var_0, var_5, var_8)
                                                              // Prelude/Show.idr:160:29--160:39
             tmp_835 = trampoline(closure_837);
             break;
@@ -18833,9 +18833,9 @@ Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt
 }
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt
+    return Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt
         (
               arglist->args[0]
             , arglist->args[1]
@@ -18846,7 +18846,7 @@ Value *Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt_arglist(Value_
 
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab
+Value *Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab
 (
     Value * var_0
 )
@@ -19147,9 +19147,9 @@ Value *Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab
 }
 
 
-Value *Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab_arglist(Value_Arglist* arglist)
+Value *Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab_arglist(Value_Arglist* arglist)
 {
-    return Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab
+    return Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab
         (
               arglist->args[0]
         );
@@ -19258,7 +19258,7 @@ Value *Prelude_Show_show_Show___parenOpenList__dollara_parenClose
 {
     Value * var_6 = (Value*)makeString("[");                 // Prelude/Show.idr:200:13--200:38
     Value * var_3 = (Value*)makeString("");                  // Prelude/Show.idr:200:20--200:31
-    // start Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick(NULL, var_1, var_2, var_3, var_2)
+    // start Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick(NULL, var_1, var_2, var_3, var_2)
                                                              // Prelude/Show.idr:200:20--200:31
     Value_Arglist *arglist_883 = newArglist(0,5);
     arglist_883->args[0] =  newReference(NULL);
@@ -19266,11 +19266,11 @@ Value *Prelude_Show_show_Show___parenOpenList__dollara_parenClose
     arglist_883->args[2] =  newReference(var_2);
     arglist_883->args[3] =  newReference(var_3);
     arglist_883->args[4] =  newReference(var_2);
-    Value *(*fPtr_884)(Value_Arglist*) = Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick_arglist;
+    Value *(*fPtr_884)(Value_Arglist*) = Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick_arglist;
                                                              // Prelude/Show.idr:200:20--200:31
     Value *closure_884 = (Value*)makeClosureFromArglist(fPtr_884, arglist_883);
                                                              // Prelude/Show.idr:200:20--200:31
-    // end   Prelude_Show_n___parenOpen2169_comma_6499_parenClose_show_tick(NULL, var_1, var_2, var_3, var_2)
+    // end   Prelude_Show_n___parenOpen2200_comma_6864_parenClose_show_tick(NULL, var_1, var_2, var_3, var_2)
                                                              // Prelude/Show.idr:200:20--200:31
     Value * var_4 = trampoline(closure_884);                 // Prelude/Show.idr:200:20--200:38
     Value * var_5 = (Value*)makeString("]");                 // Prelude/Show.idr:200:20--200:38
@@ -19471,17 +19471,17 @@ Value *Prelude_Show_min_Ord__Prec
                                                              // Prelude/Show.idr:36:1--41:58
     // end   Prelude_Show__lt_Ord__Prec(var_0, var_1)        // Prelude/Show.idr:36:1--41:58
     Value * var_2 = trampoline(closure_898);                 // Prelude/Show.idr:36:1--41:58
-    // start Prelude_Show_case___quotationmin_quotation_5664(var_1, var_0, var_2)
+    // start Prelude_Show_case___quotationmin_quotation_6029(var_1, var_0, var_2)
                                                              // Prelude/Show.idr:36:1--41:58
     Value_Arglist *arglist_899 = newArglist(0,3);
     arglist_899->args[0] =  newReference(var_1);
     arglist_899->args[1] =  newReference(var_0);
     arglist_899->args[2] =  newReference(var_2);
-    Value *(*fPtr_900)(Value_Arglist*) = Prelude_Show_case___quotationmin_quotation_5664_arglist;
+    Value *(*fPtr_900)(Value_Arglist*) = Prelude_Show_case___quotationmin_quotation_6029_arglist;
                                                              // Prelude/Show.idr:36:1--41:58
     Value *closure_900 = (Value*)makeClosureFromArglist(fPtr_900, arglist_899);
                                                              // Prelude/Show.idr:36:1--41:58
-    // end   Prelude_Show_case___quotationmin_quotation_5664(var_1, var_0, var_2)
+    // end   Prelude_Show_case___quotationmin_quotation_6029(var_1, var_0, var_2)
                                                              // Prelude/Show.idr:36:1--41:58
     Value *returnValue = closure_900;
     removeReference(var_2);
@@ -19517,17 +19517,17 @@ Value *Prelude_Show_max_Ord__Prec
                                                              // Prelude/Show.idr:36:1--41:58
     // end   Prelude_Show__gt_Ord__Prec(var_0, var_1)        // Prelude/Show.idr:36:1--41:58
     Value * var_2 = trampoline(closure_902);                 // Prelude/Show.idr:36:1--41:58
-    // start Prelude_Show_case___quotationmax_quotation_5678(var_1, var_0, var_2)
+    // start Prelude_Show_case___quotationmax_quotation_6043(var_1, var_0, var_2)
                                                              // Prelude/Show.idr:36:1--41:58
     Value_Arglist *arglist_903 = newArglist(0,3);
     arglist_903->args[0] =  newReference(var_1);
     arglist_903->args[1] =  newReference(var_0);
     arglist_903->args[2] =  newReference(var_2);
-    Value *(*fPtr_904)(Value_Arglist*) = Prelude_Show_case___quotationmax_quotation_5678_arglist;
+    Value *(*fPtr_904)(Value_Arglist*) = Prelude_Show_case___quotationmax_quotation_6043_arglist;
                                                              // Prelude/Show.idr:36:1--41:58
     Value *closure_904 = (Value*)makeClosureFromArglist(fPtr_904, arglist_903);
                                                              // Prelude/Show.idr:36:1--41:58
-    // end   Prelude_Show_case___quotationmax_quotation_5678(var_1, var_0, var_2)
+    // end   Prelude_Show_case___quotationmax_quotation_6043(var_1, var_0, var_2)
                                                              // Prelude/Show.idr:36:1--41:58
     Value *returnValue = closure_904;
     removeReference(var_2);
@@ -21230,40 +21230,40 @@ Value *Prelude_Show_showLitChar
         Value *closure_1083 = (Value*)makeClosureFromArglist(fPtr_1083, arglist_1082);
         // end   Prelude_Types_fromInteger_Num__Nat(var_1)
         Value * var_2 = trampoline(closure_1083);            // Prelude/Show.idr:145:12--145:67
-        // start Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab(var_0)
+        // start Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab(var_0)
                                                              // Prelude/Show.idr:145:59--145:67
         Value_Arglist *arglist_1084 = newArglist(0,1);
         arglist_1084->args[0] =  newReference(var_0);
-        Value *(*fPtr_1085)(Value_Arglist*) = Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab_arglist;
+        Value *(*fPtr_1085)(Value_Arglist*) = Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab_arglist;
                                                              // Prelude/Show.idr:145:59--145:67
         Value *closure_1085 = (Value*)makeClosureFromArglist(fPtr_1085, arglist_1084);
                                                              // Prelude/Show.idr:145:59--145:67
-        // end   Prelude_Show_n___parenOpen1638_comma_6005_parenClose_asciiTab(var_0)
+        // end   Prelude_Show_n___parenOpen1669_comma_6370_parenClose_asciiTab(var_0)
                                                              // Prelude/Show.idr:145:59--145:67
         Value * var_3 = trampoline(closure_1085);            // Prelude/Show.idr:145:12--145:67
-        // start Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt(var_0, var_2, var_3)
+        // start Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt(var_0, var_2, var_3)
                                                              // Prelude/Show.idr:145:12--145:67
         Value_Arglist *arglist_1086 = newArglist(0,3);
         arglist_1086->args[0] =  newReference(var_0);
         arglist_1086->args[1] =  newReference(var_2);
         arglist_1086->args[2] =  newReference(var_3);
-        Value *(*fPtr_1087)(Value_Arglist*) = Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt_arglist;
+        Value *(*fPtr_1087)(Value_Arglist*) = Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt_arglist;
                                                              // Prelude/Show.idr:145:12--145:67
         Value *closure_1087 = (Value*)makeClosureFromArglist(fPtr_1087, arglist_1086);
                                                              // Prelude/Show.idr:145:12--145:67
-        // end   Prelude_Show_n___parenOpen1638_comma_6006_parenClose_getAt(var_0, var_2, var_3)
+        // end   Prelude_Show_n___parenOpen1669_comma_6371_parenClose_getAt(var_0, var_2, var_3)
                                                              // Prelude/Show.idr:145:12--145:67
         Value * var_4 = trampoline(closure_1087);            // Prelude/Show.idr:145:7--150:8
-        // start Prelude_Show_case___quotationshowLitChar_quotation_6189(var_0, var_4)
+        // start Prelude_Show_case___quotationshowLitChar_quotation_6554(var_0, var_4)
                                                              // Prelude/Show.idr:145:7--150:8
         Value_Arglist *arglist_1088 = newArglist(0,2);
         arglist_1088->args[0] =  newReference(var_0);
         arglist_1088->args[1] =  newReference(var_4);
-        Value *(*fPtr_1089)(Value_Arglist*) = Prelude_Show_case___quotationshowLitChar_quotation_6189_arglist;
+        Value *(*fPtr_1089)(Value_Arglist*) = Prelude_Show_case___quotationshowLitChar_quotation_6554_arglist;
                                                              // Prelude/Show.idr:145:7--150:8
         Value *closure_1089 = (Value*)makeClosureFromArglist(fPtr_1089, arglist_1088);
                                                              // Prelude/Show.idr:145:7--150:8
-        // end   Prelude_Show_case___quotationshowLitChar_quotation_6189(var_0, var_4)
+        // end   Prelude_Show_case___quotationshowLitChar_quotation_6554(var_0, var_4)
                                                              // Prelude/Show.idr:145:7--150:8
         tmp_1061 = trampoline(closure_1089);
         removeReference(var_4);
@@ -21762,18 +21762,18 @@ Value *Prelude_Show_protectEsc
                                                              // Prelude/Show.idr:131:29--131:44
     // end   Prelude_Show_firstCharIs(var_0, var_2)          // Prelude/Show.idr:131:29--131:44
     Value * var_3 = trampoline(closure_1119);                // Prelude/Show.idr:131:26--131:63
-    // start Prelude_Show_case___quotationprotectEsc_quotation_5936(var_2, var_1, var_0, var_3)
+    // start Prelude_Show_case___quotationprotectEsc_quotation_6301(var_2, var_1, var_0, var_3)
                                                              // Prelude/Show.idr:131:26--131:63
     Value_Arglist *arglist_1120 = newArglist(0,4);
     arglist_1120->args[0] =  newReference(var_2);
     arglist_1120->args[1] =  newReference(var_1);
     arglist_1120->args[2] =  newReference(var_0);
     arglist_1120->args[3] =  newReference(var_3);
-    Value *(*fPtr_1121)(Value_Arglist*) = Prelude_Show_case___quotationprotectEsc_quotation_5936_arglist;
+    Value *(*fPtr_1121)(Value_Arglist*) = Prelude_Show_case___quotationprotectEsc_quotation_6301_arglist;
                                                              // Prelude/Show.idr:131:26--131:63
     Value *closure_1121 = (Value*)makeClosureFromArglist(fPtr_1121, arglist_1120);
                                                              // Prelude/Show.idr:131:26--131:63
-    // end   Prelude_Show_case___quotationprotectEsc_quotation_5936(var_2, var_1, var_0, var_3)
+    // end   Prelude_Show_case___quotationprotectEsc_quotation_6301(var_2, var_1, var_0, var_3)
                                                              // Prelude/Show.idr:131:26--131:63
     Value * var_4 = trampoline(closure_1121);                // Prelude/Show.idr:131:25--131:69
     // start Prelude_Types_Strings__plus_plus(var_4, var_2)  // Prelude/Show.idr:131:25--131:69
@@ -23367,7 +23367,7 @@ Value *Prelude_IO_getLine_0_arglist(Value_Arglist* arglist)
 
 
 
-Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218
+Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324
 (
     Value * var_0
 ,   Value * var_1
@@ -23383,18 +23383,18 @@ Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218
       {
         Value * var_3 = ((Value_Constructor*)var_2)->args[0];
         Value * var_4 = ((Value_Constructor*)var_2)->args[1];
-        // start Data_Strings_words_tick(var_4)              // Data/Strings.idr:52:27--52:37
+        // start Data_Strings_words_tick(var_4)              // Data/Strings.idr:53:27--53:37
         Value_Arglist *arglist_1211 = newArglist(0,1);
         arglist_1211->args[0] =  newReference(var_4);
         Value *(*fPtr_1212)(Value_Arglist*) = Data_Strings_words_tick_arglist;
-                                                             // Data/Strings.idr:52:27--52:37
+                                                             // Data/Strings.idr:53:27--53:37
         Value *closure_1212 = (Value*)makeClosureFromArglist(fPtr_1212, arglist_1211);
-                                                             // Data/Strings.idr:52:27--52:37
-        // end   Data_Strings_words_tick(var_4)              // Data/Strings.idr:52:27--52:37
-        Value * var_5 = trampoline(closure_1212);            // Data/Strings.idr:52:22--52:37
+                                                             // Data/Strings.idr:53:27--53:37
+        // end   Data_Strings_words_tick(var_4)              // Data/Strings.idr:53:27--53:37
+        Value * var_5 = trampoline(closure_1212);            // Data/Strings.idr:53:22--53:37
         Value_Constructor* constructor_1213 = newConstructor(2, 1, "Prelude_Types__colon_colon");
-                                                             // Data/Strings.idr:52:22--52:37
-         // constructor Prelude_Types__colon_colon           // Data/Strings.idr:52:22--52:37
+                                                             // Data/Strings.idr:53:22--53:37
+         // constructor Prelude_Types__colon_colon           // Data/Strings.idr:53:22--53:37
         constructor_1213->args[0] = newReference(var_3);
         constructor_1213->args[1] = newReference(var_5);
         tmp_1210 = (Value*)constructor_1213;
@@ -23408,9 +23408,9 @@ Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218
 }
 
 
-Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218_arglist(Value_Arglist* arglist)
+Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324_arglist(Value_Arglist* arglist)
 {
-    return Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218
+    return Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324
         (
               arglist->args[0]
             , arglist->args[1]
@@ -23421,7 +23421,7 @@ Value *Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218_argl
 
 
 
-Value *Data_Strings_case___quotationwords_tick_quotation_1205
+Value *Data_Strings_case___quotationwords_tick_quotation_1311
 (
     Value * var_0
 ,   Value * var_1
@@ -23435,8 +23435,8 @@ Value *Data_Strings_case___quotationwords_tick_quotation_1205
       case 0:
       {
         Value_Constructor* constructor_1216 = newConstructor(0, 0, "Prelude_Types_Nil");
-                                                             // Data/Strings.idr:50:19--50:21
-         // constructor Prelude_Types_Nil                    // Data/Strings.idr:50:19--50:21
+                                                             // Data/Strings.idr:51:19--51:21
+         // constructor Prelude_Types_Nil                    // Data/Strings.idr:51:19--51:21
         tmp_1215 = (Value*)constructor_1216;
         break;
       }
@@ -23444,33 +23444,33 @@ Value *Data_Strings_case___quotationwords_tick_quotation_1205
         Value_Arglist *arglist_1217 = newArglist(1,3);
         arglist_1217->args[0] =  newReference(var_0);
         arglist_1217->args[1] =  newReference(var_1);
-        Value *(*closure_1218)(Value_Arglist*) = Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0_arglist;
-                                                             // Data/Strings.idr:51:40--51:47
+        Value *(*closure_1218)(Value_Arglist*) = Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0_arglist;
+                                                             // Data/Strings.idr:52:40--52:47
         Value * var_2 = (Value*)makeClosureFromArglist(closure_1218, arglist_1217);
-                                                             // Data/Strings.idr:51:34--51:50
-        // start Data_List_break(NULL, var_2, var_1)         // Data/Strings.idr:51:34--51:50
+                                                             // Data/Strings.idr:52:34--52:50
+        // start Data_List_break(NULL, var_2, var_1)         // Data/Strings.idr:52:34--52:50
         Value_Arglist *arglist_1219 = newArglist(0,3);
         arglist_1219->args[0] =  newReference(NULL);
         arglist_1219->args[1] =  newReference(var_2);
         arglist_1219->args[2] =  newReference(var_1);
         Value *(*fPtr_1220)(Value_Arglist*) = Data_List_break_arglist;
-                                                             // Data/Strings.idr:51:34--51:50
+                                                             // Data/Strings.idr:52:34--52:50
         Value *closure_1220 = (Value*)makeClosureFromArglist(fPtr_1220, arglist_1219);
-                                                             // Data/Strings.idr:51:34--51:50
-        // end   Data_List_break(NULL, var_2, var_1)         // Data/Strings.idr:51:34--51:50
-        Value * var_3 = trampoline(closure_1220);            // Data/Strings.idr:51:23--52:21
-        // start Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218(var_0, var_1, var_3)
-                                                             // Data/Strings.idr:51:23--52:21
+                                                             // Data/Strings.idr:52:34--52:50
+        // end   Data_List_break(NULL, var_2, var_1)         // Data/Strings.idr:52:34--52:50
+        Value * var_3 = trampoline(closure_1220);            // Data/Strings.idr:52:23--53:21
+        // start Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324(var_0, var_1, var_3)
+                                                             // Data/Strings.idr:52:23--53:21
         Value_Arglist *arglist_1221 = newArglist(0,3);
         arglist_1221->args[0] =  newReference(var_0);
         arglist_1221->args[1] =  newReference(var_1);
         arglist_1221->args[2] =  newReference(var_3);
-        Value *(*fPtr_1222)(Value_Arglist*) = Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218_arglist;
-                                                             // Data/Strings.idr:51:23--52:21
+        Value *(*fPtr_1222)(Value_Arglist*) = Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324_arglist;
+                                                             // Data/Strings.idr:52:23--53:21
         Value *closure_1222 = (Value*)makeClosureFromArglist(fPtr_1222, arglist_1221);
-                                                             // Data/Strings.idr:51:23--52:21
-        // end   Data_Strings_case___quotationcase_block_in_words_tick_quotation_1218(var_0, var_1, var_3)
-                                                             // Data/Strings.idr:51:23--52:21
+                                                             // Data/Strings.idr:52:23--53:21
+        // end   Data_Strings_case___quotationcase_block_in_words_tick_quotation_1324(var_0, var_1, var_3)
+                                                             // Data/Strings.idr:52:23--53:21
         tmp_1215 = trampoline(closure_1222);
         removeReference(var_3);
         removeReference(var_2);
@@ -23482,9 +23482,9 @@ Value *Data_Strings_case___quotationwords_tick_quotation_1205
 }
 
 
-Value *Data_Strings_case___quotationwords_tick_quotation_1205_arglist(Value_Arglist* arglist)
+Value *Data_Strings_case___quotationwords_tick_quotation_1311_arglist(Value_Arglist* arglist)
 {
-    return Data_Strings_case___quotationwords_tick_quotation_1205
+    return Data_Strings_case___quotationwords_tick_quotation_1311
         (
               arglist->args[0]
             , arglist->args[1]
@@ -23494,29 +23494,29 @@ Value *Data_Strings_case___quotationwords_tick_quotation_1205_arglist(Value_Argl
 
 
 
-Value *Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0
+Value *Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0
 (
     Value * var_0
 ,   Value * var_1
 ,   Value * var_2
 )
 {
-    // start Prelude_Types_isSpace(var_2)                    // Data/Strings.idr:51:40--51:47
+    // start Prelude_Types_isSpace(var_2)                    // Data/Strings.idr:52:40--52:47
     Value_Arglist *arglist_1223 = newArglist(0,1);
     arglist_1223->args[0] =  newReference(var_2);
     Value *(*fPtr_1224)(Value_Arglist*) = Prelude_Types_isSpace_arglist;
-                                                             // Data/Strings.idr:51:40--51:47
+                                                             // Data/Strings.idr:52:40--52:47
     Value *closure_1224 = (Value*)makeClosureFromArglist(fPtr_1224, arglist_1223);
-                                                             // Data/Strings.idr:51:40--51:47
-    // end   Prelude_Types_isSpace(var_2)                    // Data/Strings.idr:51:40--51:47
+                                                             // Data/Strings.idr:52:40--52:47
+    // end   Prelude_Types_isSpace(var_2)                    // Data/Strings.idr:52:40--52:47
     Value *returnValue = closure_1224;
     return returnValue;
 }
 
 
-Value *Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0_arglist(Value_Arglist* arglist)
+Value *Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0_arglist(Value_Arglist* arglist)
 {
-    return Data_Strings_case_block_in_words_tick__parenOpen1205_parenClose_0
+    return Data_Strings_case_block_in_words_tick__parenOpen1311_parenClose_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -23535,31 +23535,31 @@ Value *Data_Strings_words_tick
     Value_Arglist *arglist_1225 = newArglist(1,2);
     arglist_1225->args[0] =  newReference(var_0);
     Value *(*closure_1226)(Value_Arglist*) = Data_Strings_words_tick_0_arglist;
-                                                             // Data/Strings.idr:49:27--49:34
+                                                             // Data/Strings.idr:50:27--50:34
     Value * var_1 = (Value*)makeClosureFromArglist(closure_1226, arglist_1225);
-                                                             // Data/Strings.idr:49:17--49:36
-    // start Data_List_dropWhile(NULL, var_1, var_0)         // Data/Strings.idr:49:17--49:36
+                                                             // Data/Strings.idr:50:17--50:36
+    // start Data_List_dropWhile(NULL, var_1, var_0)         // Data/Strings.idr:50:17--50:36
     Value_Arglist *arglist_1227 = newArglist(0,3);
     arglist_1227->args[0] =  newReference(NULL);
     arglist_1227->args[1] =  newReference(var_1);
     arglist_1227->args[2] =  newReference(var_0);
     Value *(*fPtr_1228)(Value_Arglist*) = Data_List_dropWhile_arglist;
-                                                             // Data/Strings.idr:49:17--49:36
+                                                             // Data/Strings.idr:50:17--50:36
     Value *closure_1228 = (Value*)makeClosureFromArglist(fPtr_1228, arglist_1227);
-                                                             // Data/Strings.idr:49:17--49:36
-    // end   Data_List_dropWhile(NULL, var_1, var_0)         // Data/Strings.idr:49:17--49:36
-    Value * var_2 = trampoline(closure_1228);                // Data/Strings.idr:49:12--54:65
-    // start Data_Strings_case___quotationwords_tick_quotation_1205(var_0, var_2)
-                                                             // Data/Strings.idr:49:12--54:65
+                                                             // Data/Strings.idr:50:17--50:36
+    // end   Data_List_dropWhile(NULL, var_1, var_0)         // Data/Strings.idr:50:17--50:36
+    Value * var_2 = trampoline(closure_1228);                // Data/Strings.idr:50:12--55:65
+    // start Data_Strings_case___quotationwords_tick_quotation_1311(var_0, var_2)
+                                                             // Data/Strings.idr:50:12--55:65
     Value_Arglist *arglist_1229 = newArglist(0,2);
     arglist_1229->args[0] =  newReference(var_0);
     arglist_1229->args[1] =  newReference(var_2);
-    Value *(*fPtr_1230)(Value_Arglist*) = Data_Strings_case___quotationwords_tick_quotation_1205_arglist;
-                                                             // Data/Strings.idr:49:12--54:65
+    Value *(*fPtr_1230)(Value_Arglist*) = Data_Strings_case___quotationwords_tick_quotation_1311_arglist;
+                                                             // Data/Strings.idr:50:12--55:65
     Value *closure_1230 = (Value*)makeClosureFromArglist(fPtr_1230, arglist_1229);
-                                                             // Data/Strings.idr:49:12--54:65
-    // end   Data_Strings_case___quotationwords_tick_quotation_1205(var_0, var_2)
-                                                             // Data/Strings.idr:49:12--54:65
+                                                             // Data/Strings.idr:50:12--55:65
+    // end   Data_Strings_case___quotationwords_tick_quotation_1311(var_0, var_2)
+                                                             // Data/Strings.idr:50:12--55:65
     Value *returnValue = closure_1230;
     removeReference(var_2);
     removeReference(var_1);
@@ -23584,14 +23584,14 @@ Value *Data_Strings_words_tick_0
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_isSpace(var_1)                    // Data/Strings.idr:49:27--49:34
+    // start Prelude_Types_isSpace(var_1)                    // Data/Strings.idr:50:27--50:34
     Value_Arglist *arglist_1231 = newArglist(0,1);
     arglist_1231->args[0] =  newReference(var_1);
     Value *(*fPtr_1232)(Value_Arglist*) = Prelude_Types_isSpace_arglist;
-                                                             // Data/Strings.idr:49:27--49:34
+                                                             // Data/Strings.idr:50:27--50:34
     Value *closure_1232 = (Value*)makeClosureFromArglist(fPtr_1232, arglist_1231);
-                                                             // Data/Strings.idr:49:27--49:34
-    // end   Prelude_Types_isSpace(var_1)                    // Data/Strings.idr:49:27--49:34
+                                                             // Data/Strings.idr:50:27--50:34
+    // end   Prelude_Types_isSpace(var_1)                    // Data/Strings.idr:50:27--50:34
     Value *returnValue = closure_1232;
     return returnValue;
 }
@@ -23617,40 +23617,40 @@ Value *Data_Strings_words
     Value_Arglist *arglist_1233 = newArglist(1,2);
     arglist_1233->args[0] =  newReference(var_0);
     Value *(*closure_1234)(Value_Arglist*) = Data_Strings_words_0_arglist;
-                                                             // Data/Strings.idr:61:15--61:19
+                                                             // Data/Strings.idr:62:15--62:19
     Value * var_2 = (Value*)makeClosureFromArglist(closure_1234, arglist_1233);
-                                                             // Prelude/Types.idr:310:1--315:7
-    // start Prelude_Types_unpack(var_0)                     // Data/Strings.idr:61:29--61:37
+                                                             // Prelude/Types.idr:327:1--332:7
+    // start Prelude_Types_unpack(var_0)                     // Data/Strings.idr:62:29--62:37
     Value_Arglist *arglist_1235 = newArglist(0,1);
     arglist_1235->args[0] =  newReference(var_0);
     Value *(*fPtr_1236)(Value_Arglist*) = Prelude_Types_unpack_arglist;
-                                                             // Data/Strings.idr:61:29--61:37
+                                                             // Data/Strings.idr:62:29--62:37
     Value *closure_1236 = (Value*)makeClosureFromArglist(fPtr_1236, arglist_1235);
-                                                             // Data/Strings.idr:61:29--61:37
-    // end   Prelude_Types_unpack(var_0)                     // Data/Strings.idr:61:29--61:37
-    Value * var_1 = trampoline(closure_1236);                // Data/Strings.idr:61:21--61:38
-    // start Data_Strings_words_tick(var_1)                  // Data/Strings.idr:61:21--61:38
+                                                             // Data/Strings.idr:62:29--62:37
+    // end   Prelude_Types_unpack(var_0)                     // Data/Strings.idr:62:29--62:37
+    Value * var_1 = trampoline(closure_1236);                // Data/Strings.idr:62:21--62:38
+    // start Data_Strings_words_tick(var_1)                  // Data/Strings.idr:62:21--62:38
     Value_Arglist *arglist_1237 = newArglist(0,1);
     arglist_1237->args[0] =  newReference(var_1);
     Value *(*fPtr_1238)(Value_Arglist*) = Data_Strings_words_tick_arglist;
-                                                             // Data/Strings.idr:61:21--61:38
+                                                             // Data/Strings.idr:62:21--62:38
     Value *closure_1238 = (Value*)makeClosureFromArglist(fPtr_1238, arglist_1237);
-                                                             // Data/Strings.idr:61:21--61:38
-    // end   Data_Strings_words_tick(var_1)                  // Data/Strings.idr:61:21--61:38
-    Value * var_3 = trampoline(closure_1238);                // Prelude/Types.idr:310:1--315:7
+                                                             // Data/Strings.idr:62:21--62:38
+    // end   Data_Strings_words_tick(var_1)                  // Data/Strings.idr:62:21--62:38
+    Value * var_3 = trampoline(closure_1238);                // Prelude/Types.idr:327:1--332:7
     // start Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_3)
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value_Arglist *arglist_1239 = newArglist(0,4);
     arglist_1239->args[0] =  newReference(NULL);
     arglist_1239->args[1] =  newReference(NULL);
     arglist_1239->args[2] =  newReference(var_2);
     arglist_1239->args[3] =  newReference(var_3);
     Value *(*fPtr_1240)(Value_Arglist*) = Prelude_Types_map_Functor__List_arglist;
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value *closure_1240 = (Value*)makeClosureFromArglist(fPtr_1240, arglist_1239);
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     // end   Prelude_Types_map_Functor__List(NULL, NULL, var_2, var_3)
-                                                             // Prelude/Types.idr:310:1--315:7
+                                                             // Prelude/Types.idr:327:1--332:7
     Value *returnValue = closure_1240;
     removeReference(var_3);
     removeReference(var_1);
@@ -23676,14 +23676,14 @@ Value *Data_Strings_words_0
 ,   Value * var_1
 )
 {
-    // start Prelude_Types_pack(var_1)                       // Data/Strings.idr:61:15--61:19
+    // start Prelude_Types_pack(var_1)                       // Data/Strings.idr:62:15--62:19
     Value_Arglist *arglist_1241 = newArglist(0,1);
     arglist_1241->args[0] =  newReference(var_1);
     Value *(*fPtr_1242)(Value_Arglist*) = Prelude_Types_pack_arglist;
-                                                             // Data/Strings.idr:61:15--61:19
+                                                             // Data/Strings.idr:62:15--62:19
     Value *closure_1242 = (Value*)makeClosureFromArglist(fPtr_1242, arglist_1241);
-                                                             // Data/Strings.idr:61:15--61:19
-    // end   Prelude_Types_pack(var_1)                       // Data/Strings.idr:61:15--61:19
+                                                             // Data/Strings.idr:62:15--62:19
+    // end   Prelude_Types_pack(var_1)                       // Data/Strings.idr:62:15--62:19
     Value *returnValue = closure_1242;
     return returnValue;
 }
@@ -23706,14 +23706,14 @@ Value *Data_Strings_fastAppend
     Value * var_0
 )
 {
-    // start Data_Strings_fastConcat(var_0)                  // Data/Strings.idr:41:14--41:24
+    // start Data_Strings_fastConcat(var_0)                  // Data/Strings.idr:42:14--42:24
     Value_Arglist *arglist_1243 = newArglist(0,1);
     arglist_1243->args[0] =  newReference(var_0);
     Value *(*fPtr_1244)(Value_Arglist*) = Data_Strings_fastConcat_arglist;
-                                                             // Data/Strings.idr:41:14--41:24
+                                                             // Data/Strings.idr:42:14--42:24
     Value *closure_1244 = (Value*)makeClosureFromArglist(fPtr_1244, arglist_1243);
-                                                             // Data/Strings.idr:41:14--41:24
-    // end   Data_Strings_fastConcat(var_0)                  // Data/Strings.idr:41:14--41:24
+                                                             // Data/Strings.idr:42:14--42:24
+    // end   Data_Strings_fastConcat(var_0)                  // Data/Strings.idr:42:14--42:24
     Value *returnValue = closure_1244;
     return returnValue;
 }
@@ -24140,7 +24140,7 @@ Value *System_File_case___quotationreadFile_quotation_1750
                                                              // System/File.idr:296:30--296:32
              // constructor Prelude_Types_Nil                // System/File.idr:296:30--296:32
             Value * var_11 = (Value*)constructor_1280;       // System/File.idr:294:8--296:13
-            // start System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_1, var_2, var_11, var_4)
+            // start System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_1, var_2, var_11, var_4)
                                                              // System/File.idr:294:8--296:13
             Value_Arglist *arglist_1281 = newArglist(0,5);
             arglist_1281->args[0] =  newReference(NULL);
@@ -24148,11 +24148,11 @@ Value *System_File_case___quotationreadFile_quotation_1750
             arglist_1281->args[2] =  newReference(var_2);
             arglist_1281->args[3] =  newReference(var_11);
             arglist_1281->args[4] =  newReference(var_4);
-            Value *(*fPtr_1282)(Value_Arglist*) = System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist;
+            Value *(*fPtr_1282)(Value_Arglist*) = System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist;
                                                              // System/File.idr:294:8--296:13
             Value *closure_1282 = (Value*)makeClosureFromArglist(fPtr_1282, arglist_1281);
                                                              // System/File.idr:294:8--296:13
-            // end   System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_1, var_2, var_11, var_4)
+            // end   System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_1, var_2, var_11, var_4)
                                                              // System/File.idr:294:8--296:13
             Value * var_13 = trampoline(closure_1282);       // Prelude/Interfaces.idr:168:3--168:35
             Value * var_14 = apply_closure(var_12, var_13);  // Prelude/Interfaces.idr:168:3--168:35
@@ -24629,7 +24629,7 @@ Value *System_File_case___quotationcase_block_in_readFile_commaread_quotation_16
         constructor_1318->args[0] = newReference(var_7);
         constructor_1318->args[1] = newReference(var_4);
         Value * var_8 = (Value*)constructor_1318;            // System/File.idr:308:22--310:26
-        // start System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_1, var_2, var_8, var_3)
+        // start System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_1, var_2, var_8, var_3)
                                                              // System/File.idr:308:22--310:26
         Value_Arglist *arglist_1319 = newArglist(0,5);
         arglist_1319->args[0] =  newReference(NULL);
@@ -24637,11 +24637,11 @@ Value *System_File_case___quotationcase_block_in_readFile_commaread_quotation_16
         arglist_1319->args[2] =  newReference(var_2);
         arglist_1319->args[3] =  newReference(var_8);
         arglist_1319->args[4] =  newReference(var_3);
-        Value *(*fPtr_1320)(Value_Arglist*) = System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist;
+        Value *(*fPtr_1320)(Value_Arglist*) = System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist;
                                                              // System/File.idr:308:22--310:26
         Value *closure_1320 = (Value*)makeClosureFromArglist(fPtr_1320, arglist_1319);
                                                              // System/File.idr:308:22--310:26
-        // end   System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_1, var_2, var_8, var_3)
+        // end   System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_1, var_2, var_8, var_3)
                                                              // System/File.idr:308:22--310:26
         tmp_1317 = trampoline(closure_1320);
         removeReference(var_8);
@@ -24905,7 +24905,7 @@ Value *System_File_case_block_in_readFile_commaread__parenOpen1647_parenClose_0
         constructor_1343->args[0] = newReference(var_10);
         constructor_1343->args[1] = newReference(var_7);
         Value * var_11 = (Value*)constructor_1343;           // System/File.idr:308:22--310:26
-        // start System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_4, var_5, var_11, var_6)
+        // start System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_4, var_5, var_11, var_6)
                                                              // System/File.idr:308:22--310:26
         Value_Arglist *arglist_1344 = newArglist(0,5);
         arglist_1344->args[0] =  newReference(NULL);
@@ -24913,11 +24913,11 @@ Value *System_File_case_block_in_readFile_commaread__parenOpen1647_parenClose_0
         arglist_1344->args[2] =  newReference(var_5);
         arglist_1344->args[3] =  newReference(var_11);
         arglist_1344->args[4] =  newReference(var_6);
-        Value *(*fPtr_1345)(Value_Arglist*) = System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist;
+        Value *(*fPtr_1345)(Value_Arglist*) = System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist;
                                                              // System/File.idr:308:22--310:26
         Value *closure_1345 = (Value*)makeClosureFromArglist(fPtr_1345, arglist_1344);
                                                              // System/File.idr:308:22--310:26
-        // end   System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_4, var_5, var_11, var_6)
+        // end   System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_4, var_5, var_11, var_6)
                                                              // System/File.idr:308:22--310:26
         tmp_1342 = trampoline(closure_1345);
         removeReference(var_11);
@@ -25781,7 +25781,7 @@ Value *System_File_case___quotationmodeStr_quotation_400_arglist(Value_Arglist* 
 
 
 
-Value *System_File_n___parenOpen3408_comma_1632_parenClose_read
+Value *System_File_n___parenOpen3448_comma_1632_parenClose_read
 (
     Value * var_0
 ,   Value * var_1
@@ -25840,7 +25840,7 @@ Value *System_File_n___parenOpen3408_comma_1632_parenClose_read
         arglist_1423->args[5] =  newReference(var_2);
         arglist_1423->args[6] =  newReference(var_3);
         arglist_1423->args[7] =  newReference(var_4);
-        Value *(*closure_1424)(Value_Arglist*) = System_File_3408_colon1632_colonread_1_arglist;
+        Value *(*closure_1424)(Value_Arglist*) = System_File_3448_colon1632_colonread_1_arglist;
                                                              // System/File.idr:304:14--304:27
         Value * var_14 = (Value*)makeClosureFromArglist(closure_1424, arglist_1423);
                                                              // Prelude/Interfaces.idr:168:3--168:35
@@ -25860,9 +25860,9 @@ Value *System_File_n___parenOpen3408_comma_1632_parenClose_read
 }
 
 
-Value *System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist(Value_Arglist* arglist)
+Value *System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist(Value_Arglist* arglist)
 {
-    return System_File_n___parenOpen3408_comma_1632_parenClose_read
+    return System_File_n___parenOpen3448_comma_1632_parenClose_read
         (
               arglist->args[0]
             , arglist->args[1]
@@ -25875,7 +25875,7 @@ Value *System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist(Value_Ar
 
 
 
-Value *System_File_3408_colon1632_colonread_1
+Value *System_File_3448_colon1632_colonread_1
 (
     Value * var_0
 ,   Value * var_1
@@ -26028,7 +26028,7 @@ Value *System_File_3408_colon1632_colonread_1
             arglist_1441->args[9] =  newReference(var_5);
             arglist_1441->args[10] =  newReference(var_6);
             arglist_1441->args[11] =  newReference(var_7);
-            Value *(*closure_1442)(Value_Arglist*) = System_File_3408_colon1632_colonread_0_arglist;
+            Value *(*closure_1442)(Value_Arglist*) = System_File_3448_colon1632_colonread_0_arglist;
                                                              // System/File.idr:308:22--310:26
             Value * var_31 = (Value*)makeClosureFromArglist(closure_1442, arglist_1441);
                                                              // Prelude/Interfaces.idr:168:3--168:35
@@ -26052,9 +26052,9 @@ Value *System_File_3408_colon1632_colonread_1
 }
 
 
-Value *System_File_3408_colon1632_colonread_1_arglist(Value_Arglist* arglist)
+Value *System_File_3448_colon1632_colonread_1_arglist(Value_Arglist* arglist)
 {
-    return System_File_3408_colon1632_colonread_1
+    return System_File_3448_colon1632_colonread_1
         (
               arglist->args[0]
             , arglist->args[1]
@@ -26071,7 +26071,7 @@ Value *System_File_3408_colon1632_colonread_1_arglist(Value_Arglist* arglist)
 
 
 
-Value *System_File_3408_colon1632_colonread_0
+Value *System_File_3448_colon1632_colonread_0
 (
     Value * var_0
 ,   Value * var_1
@@ -26105,7 +26105,7 @@ Value *System_File_3408_colon1632_colonread_0
         constructor_1445->args[0] = newReference(var_13);
         constructor_1445->args[1] = newReference(var_10);
         Value * var_14 = (Value*)constructor_1445;           // System/File.idr:308:22--310:26
-        // start System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_8, var_9, var_14, var_11)
+        // start System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_8, var_9, var_14, var_11)
                                                              // System/File.idr:308:22--310:26
         Value_Arglist *arglist_1446 = newArglist(0,5);
         arglist_1446->args[0] =  newReference(NULL);
@@ -26113,11 +26113,11 @@ Value *System_File_3408_colon1632_colonread_0
         arglist_1446->args[2] =  newReference(var_9);
         arglist_1446->args[3] =  newReference(var_14);
         arglist_1446->args[4] =  newReference(var_11);
-        Value *(*fPtr_1447)(Value_Arglist*) = System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist;
+        Value *(*fPtr_1447)(Value_Arglist*) = System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist;
                                                              // System/File.idr:308:22--310:26
         Value *closure_1447 = (Value*)makeClosureFromArglist(fPtr_1447, arglist_1446);
                                                              // System/File.idr:308:22--310:26
-        // end   System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_8, var_9, var_14, var_11)
+        // end   System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_8, var_9, var_14, var_11)
                                                              // System/File.idr:308:22--310:26
         tmp_1444 = trampoline(closure_1447);
         removeReference(var_14);
@@ -26146,9 +26146,9 @@ Value *System_File_3408_colon1632_colonread_0
 }
 
 
-Value *System_File_3408_colon1632_colonread_0_arglist(Value_Arglist* arglist)
+Value *System_File_3448_colon1632_colonread_0_arglist(Value_Arglist* arglist)
 {
-    return System_File_3408_colon1632_colonread_0
+    return System_File_3448_colon1632_colonread_0
         (
               arglist->args[0]
             , arglist->args[1]
@@ -27175,7 +27175,7 @@ Value *System_File_readFile_3
                                                              // System/File.idr:296:30--296:32
              // constructor Prelude_Types_Nil                // System/File.idr:296:30--296:32
             Value * var_14 = (Value*)constructor_1545;       // System/File.idr:294:8--296:13
-            // start System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_4, var_5, var_14, var_7)
+            // start System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_4, var_5, var_14, var_7)
                                                              // System/File.idr:294:8--296:13
             Value_Arglist *arglist_1546 = newArglist(0,5);
             arglist_1546->args[0] =  newReference(NULL);
@@ -27183,11 +27183,11 @@ Value *System_File_readFile_3
             arglist_1546->args[2] =  newReference(var_5);
             arglist_1546->args[3] =  newReference(var_14);
             arglist_1546->args[4] =  newReference(var_7);
-            Value *(*fPtr_1547)(Value_Arglist*) = System_File_n___parenOpen3408_comma_1632_parenClose_read_arglist;
+            Value *(*fPtr_1547)(Value_Arglist*) = System_File_n___parenOpen3448_comma_1632_parenClose_read_arglist;
                                                              // System/File.idr:294:8--296:13
             Value *closure_1547 = (Value*)makeClosureFromArglist(fPtr_1547, arglist_1546);
                                                              // System/File.idr:294:8--296:13
-            // end   System_File_n___parenOpen3408_comma_1632_parenClose_read(NULL, var_4, var_5, var_14, var_7)
+            // end   System_File_n___parenOpen3448_comma_1632_parenClose_read(NULL, var_4, var_5, var_14, var_7)
                                                              // System/File.idr:294:8--296:13
             Value * var_16 = trampoline(closure_1547);       // Prelude/Interfaces.idr:168:3--168:35
             Value * var_17 = apply_closure(var_15, var_16);  // Prelude/Interfaces.idr:168:3--168:35
