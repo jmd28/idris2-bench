@@ -4,7 +4,7 @@
 
 TESTS_ROOT=benchmarks
 
-# timeout threshold in
+# timeout threshold in seconds (this may be nice to have as a named param)
 TIMEOUT=15
 
 # defaults for the optionals

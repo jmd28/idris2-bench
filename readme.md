@@ -13,7 +13,7 @@ We were aiming to optimise the reference counting backend for Idris2, but it qui
 The tests provided should serve as an example of the structure - here's the general idea.
 
 Each test should be contained within a root folder TEST inside the `benchmarks` directory. A benchmark consists of a `TEST.idr` file, along with a `TEST.in` *and* a `TEST_fast.in`.
-The tests are structured such that a value for the limiting factor on the duration is read from stdin from the idris code. Suitable values should be given in the TEST.in and TEST_fast.in files, which cause the test to take roughly 5 seconds and 1 second respectively (on the chez backend). This might be paths to input files of differing size/complexity, or it may simply be a number of repeats. There's a timeout currently set at 15 seconds which will end the test with signal 2. The aim is that after optimisation each backend should be able to complete each test within that period.
+The tests are structured such that a value for the limiting factor on the duration is read from stdin from the idris code. Suitable values should be given in the `TEST.in` and `TEST_fast.in` files, which cause the test to take roughly 5 seconds and 1 second respectively (on the chez backend). This might be paths to input files of differing size/complexity, or it may simply be a number of repeats. There's a timeout currently set at 15 seconds which will end the test with signal 2. The aim is that after optimisation each backend should be able to complete each test within that period.
 
 If you've got any Idris2 code that you think could be adapted to make a good benchmark, please do contribute!
 
@@ -29,4 +29,4 @@ Usage: bench.sh [OPTION]...
         (default is `bench-results_$BACKEND[_fast]`)
    -h   shows this message
 
-e.g. bench -fbc refc -o myrefcoutput
+e.g. `bench -fbc refc -o myrefcoutput`
