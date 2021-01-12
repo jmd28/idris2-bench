@@ -2683,15 +2683,15 @@ Value *Main_addpair
       {
         Value * var_1 = ((Value_Constructor*)var_0)->args[0];
         Value * var_2 = ((Value_Constructor*)var_0)->args[1];
-        // start Prelude_Types__plus_Num__Nat(var_1, var_2)  // Prelude/Types.idr:57:1--64:7
+        // start Prelude_Types__plus_Num__Nat(var_1, var_2)  // Prelude/Types.idr:64:1--71:7
         Value_Arglist *arglist_32 = newArglist(0,2);
         arglist_32->args[0] =  newReference(var_1);
         arglist_32->args[1] =  newReference(var_2);
         Value *(*fPtr_33)(Value_Arglist*) = Prelude_Types__plus_Num__Nat_arglist;
-                                                             // Prelude/Types.idr:57:1--64:7
+                                                             // Prelude/Types.idr:64:1--71:7
         Value *closure_33 = (Value*)makeClosureFromArglist(fPtr_33, arglist_32);
-                                                             // Prelude/Types.idr:57:1--64:7
-        // end   Prelude_Types__plus_Num__Nat(var_1, var_2)  // Prelude/Types.idr:57:1--64:7
+                                                             // Prelude/Types.idr:64:1--71:7
+        // end   Prelude_Types__plus_Num__Nat(var_1, var_2)  // Prelude/Types.idr:64:1--71:7
         tmp_31 = trampoline(closure_33);
         break;
       }
