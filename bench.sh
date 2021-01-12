@@ -2,6 +2,8 @@
 
 # potential TODO: make tests recursive to allow nicer organisation of tests
 
+TESTS_ROOT=benchmarks
+
 # timeout threshold in
 TIMEOUT=15
 
@@ -65,7 +67,6 @@ done
 
 #begin tests
 cwd=$(pwd)
-echo $FILENAME
 if [ $FILENAME != "bench-results" ]; 
 then 
    echo here
@@ -77,7 +78,7 @@ else
 fi
 
 echo "benchmark,elapsed,user,system" > $output_path
-cd src
+cd $TESTS_ROOT
 
 dashes='-------------------------------'
 
@@ -97,7 +98,7 @@ do
   # build test if necessary
   if ! test -f "build/exec/${test}" || [ "$BUILD" = true ]; then
     echo building $test...
-    rm -r build
+    [[ -f $infile.in ]] && rm -r build
     idris2 -o $test $test.idr # - currently do not have a way to handle compilation errors (todo?)
   fi
   # begin test
